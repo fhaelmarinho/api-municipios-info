@@ -1,0 +1,312 @@
+📍 Município: Afonso Cláudio
+   Microrregião: Afonso Cláudio
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Água Doce do Norte
+   Microrregião: Barra de São Francisco
+   Mesorregião: Noroeste Espírito-santense
+------------------------------
+📍 Município: Águia Branca
+   Microrregião: Nova Venécia
+   Mesorregião: Noroeste Espírito-santense
+------------------------------
+📍 Município: Alegre
+   Microrregião: Alegre
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: Alfredo Chaves
+   Microrregião: Guarapari
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Alto Rio Novo
+   Microrregião: Colatina
+   Mesorregião: Noroeste Espírito-santense
+------------------------------
+📍 Município: Anchieta
+   Microrregião: Guarapari
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Apiacá
+   Microrregião: Cachoeiro de Itapemirim
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: Aracruz
+   Microrregião: Linhares
+   Mesorregião: Litoral Norte Espírito-santense
+------------------------------
+📍 Município: Atílio Vivácqua
+   Microrregião: Cachoeiro de Itapemirim
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: Baixo Guandu
+   Microrregião: Colatina
+   Mesorregião: Noroeste Espírito-santense
+------------------------------
+📍 Município: Barra de São Francisco
+   Microrregião: Barra de São Francisco
+   Mesorregião: Noroeste Espírito-santense
+------------------------------
+📍 Município: Boa Esperança
+   Microrregião: Nova Venécia
+   Mesorregião: Noroeste Espírito-santense
+------------------------------
+📍 Município: Bom Jesus do Norte
+   Microrregião: Cachoeiro de Itapemirim
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: Brejetuba
+   Microrregião: Afonso Cláudio
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Cachoeiro de Itapemirim
+   Microrregião: Cachoeiro de Itapemirim
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: Cariacica
+   Microrregião: Vitória
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Castelo
+   Microrregião: Cachoeiro de Itapemirim
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: Colatina
+   Microrregião: Colatina
+   Mesorregião: Noroeste Espírito-santense
+------------------------------
+📍 Município: Conceição da Barra
+   Microrregião: São Mateus
+   Mesorregião: Litoral Norte Espírito-santense
+------------------------------
+📍 Município: Conceição do Castelo
+   Microrregião: Afonso Cláudio
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Divino de São Lourenço
+   Microrregião: Alegre
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: Domingos Martins
+   Microrregião: Afonso Cláudio
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Dores do Rio Preto
+   Microrregião: Alegre
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: Ecoporanga
+   Microrregião: Barra de São Francisco
+   Mesorregião: Noroeste Espírito-santense
+------------------------------
+📍 Município: Fundão
+   Microrregião: Linhares
+   Mesorregião: Litoral Norte Espírito-santense
+------------------------------
+📍 Município: Governador Lindenberg
+   Microrregião: Colatina
+   Mesorregião: Noroeste Espírito-santense
+------------------------------
+📍 Município: Guaçuí
+   Microrregião: Alegre
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: Guarapari
+   Microrregião: Guarapari
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Ibatiba
+   Microrregião: Alegre
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: Ibiraçu
+   Microrregião: Linhares
+   Mesorregião: Litoral Norte Espírito-santense
+------------------------------
+📍 Município: Ibitirama
+   Microrregião: Alegre
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: Iconha
+   Microrregião: Guarapari
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Irupi
+   Microrregião: Alegre
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: Itaguaçu
+   Microrregião: Santa Teresa
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Itapemirim
+   Microrregião: Itapemirim
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: Itarana
+   Microrregião: Santa Teresa
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Iúna
+   Microrregião: Alegre
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: Jaguaré
+   Microrregião: São Mateus
+   Mesorregião: Litoral Norte Espírito-santense
+------------------------------
+📍 Município: Jerônimo Monteiro
+   Microrregião: Cachoeiro de Itapemirim
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: João Neiva
+   Microrregião: Linhares
+   Mesorregião: Litoral Norte Espírito-santense
+------------------------------
+📍 Município: Laranja da Terra
+   Microrregião: Afonso Cláudio
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Linhares
+   Microrregião: Linhares
+   Mesorregião: Litoral Norte Espírito-santense
+------------------------------
+📍 Município: Mantenópolis
+   Microrregião: Barra de São Francisco
+   Mesorregião: Noroeste Espírito-santense
+------------------------------
+📍 Município: Marataízes
+   Microrregião: Itapemirim
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: Marechal Floriano
+   Microrregião: Afonso Cláudio
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Marilândia
+   Microrregião: Colatina
+   Mesorregião: Noroeste Espírito-santense
+------------------------------
+📍 Município: Mimoso do Sul
+   Microrregião: Cachoeiro de Itapemirim
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: Montanha
+   Microrregião: Montanha
+   Mesorregião: Litoral Norte Espírito-santense
+------------------------------
+📍 Município: Mucurici
+   Microrregião: Montanha
+   Mesorregião: Litoral Norte Espírito-santense
+------------------------------
+📍 Município: Muniz Freire
+   Microrregião: Alegre
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: Muqui
+   Microrregião: Cachoeiro de Itapemirim
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: Nova Venécia
+   Microrregião: Nova Venécia
+   Mesorregião: Noroeste Espírito-santense
+------------------------------
+📍 Município: Pancas
+   Microrregião: Colatina
+   Mesorregião: Noroeste Espírito-santense
+------------------------------
+📍 Município: Pedro Canário
+   Microrregião: São Mateus
+   Mesorregião: Litoral Norte Espírito-santense
+------------------------------
+📍 Município: Pinheiros
+   Microrregião: Montanha
+   Mesorregião: Litoral Norte Espírito-santense
+------------------------------
+📍 Município: Piúma
+   Microrregião: Guarapari
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Ponto Belo
+   Microrregião: Montanha
+   Mesorregião: Litoral Norte Espírito-santense
+------------------------------
+📍 Município: Presidente Kennedy
+   Microrregião: Itapemirim
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: Rio Bananal
+   Microrregião: Linhares
+   Mesorregião: Litoral Norte Espírito-santense
+------------------------------
+📍 Município: Rio Novo do Sul
+   Microrregião: Guarapari
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Santa Leopoldina
+   Microrregião: Santa Teresa
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Santa Maria de Jetibá
+   Microrregião: Santa Teresa
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Santa Teresa
+   Microrregião: Santa Teresa
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: São Domingos do Norte
+   Microrregião: Colatina
+   Mesorregião: Noroeste Espírito-santense
+------------------------------
+📍 Município: São Gabriel da Palha
+   Microrregião: Nova Venécia
+   Mesorregião: Noroeste Espírito-santense
+------------------------------
+📍 Município: São José do Calçado
+   Microrregião: Cachoeiro de Itapemirim
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: São Mateus
+   Microrregião: São Mateus
+   Mesorregião: Litoral Norte Espírito-santense
+------------------------------
+📍 Município: São Roque do Canaã
+   Microrregião: Santa Teresa
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Serra
+   Microrregião: Vitória
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Sooretama
+   Microrregião: Linhares
+   Mesorregião: Litoral Norte Espírito-santense
+------------------------------
+📍 Município: Vargem Alta
+   Microrregião: Cachoeiro de Itapemirim
+   Mesorregião: Sul Espírito-santense
+------------------------------
+📍 Município: Venda Nova do Imigrante
+   Microrregião: Afonso Cláudio
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Viana
+   Microrregião: Vitória
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Vila Pavão
+   Microrregião: Nova Venécia
+   Mesorregião: Noroeste Espírito-santense
+------------------------------
+📍 Município: Vila Valério
+   Microrregião: Nova Venécia
+   Mesorregião: Noroeste Espírito-santense
+------------------------------
+📍 Município: Vila Velha
+   Microrregião: Vitória
+   Mesorregião: Central Espírito-santense
+------------------------------
+📍 Município: Vitória
+   Microrregião: Vitória
+   Mesorregião: Central Espírito-santense
+------------------------------

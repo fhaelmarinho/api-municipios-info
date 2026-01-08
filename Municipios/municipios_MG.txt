@@ -1,0 +1,3412 @@
+📍 Município: Abadia dos Dourados
+   Microrregião: Patrocínio
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Abaeté
+   Microrregião: Três Marias
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Abre Campo
+   Microrregião: Manhuaçu
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Acaiaca
+   Microrregião: Ponte Nova
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Açucena
+   Microrregião: Ipatinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Água Boa
+   Microrregião: Peçanha
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Água Comprida
+   Microrregião: Uberaba
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Aguanil
+   Microrregião: Campo Belo
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Águas Formosas
+   Microrregião: Nanuque
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Águas Vermelhas
+   Microrregião: Salinas
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Aimorés
+   Microrregião: Aimorés
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Aiuruoca
+   Microrregião: Andrelândia
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Alagoa
+   Microrregião: São Lourenço
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Albertina
+   Microrregião: Poços de Caldas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Além Paraíba
+   Microrregião: Cataguases
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Alfenas
+   Microrregião: Alfenas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Alfredo Vasconcelos
+   Microrregião: Barbacena
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Almenara
+   Microrregião: Almenara
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Alpercata
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Alpinópolis
+   Microrregião: Passos
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Alterosa
+   Microrregião: Alfenas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Alto Caparaó
+   Microrregião: Manhuaçu
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Alto Jequitibá
+   Microrregião: Manhuaçu
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Alto Rio Doce
+   Microrregião: Viçosa
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Alvarenga
+   Microrregião: Aimorés
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Alvinópolis
+   Microrregião: Itabira
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Alvorada de Minas
+   Microrregião: Conceição do Mato Dentro
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Amparo do Serra
+   Microrregião: Viçosa
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Andradas
+   Microrregião: Poços de Caldas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Andrelândia
+   Microrregião: Andrelândia
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Angelândia
+   Microrregião: Capelinha
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Antônio Carlos
+   Microrregião: Barbacena
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Antônio Dias
+   Microrregião: Ipatinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Antônio Prado de Minas
+   Microrregião: Muriaé
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Araçaí
+   Microrregião: Sete Lagoas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Aracitaba
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Araçuaí
+   Microrregião: Araçuaí
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Araguari
+   Microrregião: Uberlândia
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Arantina
+   Microrregião: Andrelândia
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Araponga
+   Microrregião: Viçosa
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Araporã
+   Microrregião: Uberlândia
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Arapuá
+   Microrregião: Patos de Minas
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Araújos
+   Microrregião: Bom Despacho
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Araxá
+   Microrregião: Araxá
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Arceburgo
+   Microrregião: São Sebastião do Paraíso
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Arcos
+   Microrregião: Formiga
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Areado
+   Microrregião: Alfenas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Argirita
+   Microrregião: Cataguases
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Aricanduva
+   Microrregião: Capelinha
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Arinos
+   Microrregião: Unaí
+   Mesorregião: Noroeste de Minas
+------------------------------
+📍 Município: Astolfo Dutra
+   Microrregião: Ubá
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Ataléia
+   Microrregião: Teófilo Otoni
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Augusto de Lima
+   Microrregião: Curvelo
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Baependi
+   Microrregião: São Lourenço
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Baldim
+   Microrregião: Sete Lagoas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Bambuí
+   Microrregião: Piuí
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Bandeira
+   Microrregião: Almenara
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Bandeira do Sul
+   Microrregião: Poços de Caldas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Barão de Cocais
+   Microrregião: Itabira
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Barão do Monte Alto
+   Microrregião: Muriaé
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Barbacena
+   Microrregião: Barbacena
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Barra Longa
+   Microrregião: Ponte Nova
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Barroso
+   Microrregião: Barbacena
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Bela Vista de Minas
+   Microrregião: Itabira
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Belmiro Braga
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Belo Horizonte
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Belo Oriente
+   Microrregião: Ipatinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Belo Vale
+   Microrregião: Itaguara
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Berilo
+   Microrregião: Capelinha
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Berizal
+   Microrregião: Salinas
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Bertópolis
+   Microrregião: Nanuque
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Betim
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Bias Fortes
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Bicas
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Biquinhas
+   Microrregião: Três Marias
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Boa Esperança
+   Microrregião: Varginha
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Bocaina de Minas
+   Microrregião: Andrelândia
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Bocaiúva
+   Microrregião: Bocaiúva
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Bom Despacho
+   Microrregião: Bom Despacho
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Bom Jardim de Minas
+   Microrregião: Andrelândia
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Bom Jesus da Penha
+   Microrregião: Passos
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Bom Jesus do Amparo
+   Microrregião: Itabira
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Bom Jesus do Galho
+   Microrregião: Caratinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Bom Repouso
+   Microrregião: Pouso Alegre
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Bom Sucesso
+   Microrregião: Oliveira
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Bonfim
+   Microrregião: Itaguara
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Bonfinópolis de Minas
+   Microrregião: Unaí
+   Mesorregião: Noroeste de Minas
+------------------------------
+📍 Município: Bonito de Minas
+   Microrregião: Januária
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Borda da Mata
+   Microrregião: Pouso Alegre
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Botelhos
+   Microrregião: Poços de Caldas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Botumirim
+   Microrregião: Grão Mogol
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Brás Pires
+   Microrregião: Viçosa
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Brasilândia de Minas
+   Microrregião: Paracatu
+   Mesorregião: Noroeste de Minas
+------------------------------
+📍 Município: Brasília de Minas
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Braúnas
+   Microrregião: Guanhães
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Brazópolis
+   Microrregião: Itajubá
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Brumadinho
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Bueno Brandão
+   Microrregião: Pouso Alegre
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Buenópolis
+   Microrregião: Curvelo
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Bugre
+   Microrregião: Caratinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Buritis
+   Microrregião: Unaí
+   Mesorregião: Noroeste de Minas
+------------------------------
+📍 Município: Buritizeiro
+   Microrregião: Pirapora
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Cabeceira Grande
+   Microrregião: Unaí
+   Mesorregião: Noroeste de Minas
+------------------------------
+📍 Município: Cabo Verde
+   Microrregião: São Sebastião do Paraíso
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Cachoeira da Prata
+   Microrregião: Sete Lagoas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Cachoeira de Minas
+   Microrregião: Santa Rita do Sapucaí
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Cachoeira de Pajeú
+   Microrregião: Pedra Azul
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Cachoeira Dourada
+   Microrregião: Ituiutaba
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Caetanópolis
+   Microrregião: Sete Lagoas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Caeté
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Caiana
+   Microrregião: Muriaé
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Cajuri
+   Microrregião: Viçosa
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Caldas
+   Microrregião: Poços de Caldas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Camacho
+   Microrregião: Formiga
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Camanducaia
+   Microrregião: Pouso Alegre
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Cambuí
+   Microrregião: Pouso Alegre
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Cambuquira
+   Microrregião: São Lourenço
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Campanário
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Campanha
+   Microrregião: Varginha
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Campestre
+   Microrregião: Poços de Caldas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Campina Verde
+   Microrregião: Frutal
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Campo Azul
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Campo Belo
+   Microrregião: Campo Belo
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Campo do Meio
+   Microrregião: Varginha
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Campo Florido
+   Microrregião: Uberaba
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Campos Altos
+   Microrregião: Araxá
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Campos Gerais
+   Microrregião: Varginha
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Cana Verde
+   Microrregião: Campo Belo
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Canaã
+   Microrregião: Viçosa
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Canápolis
+   Microrregião: Uberlândia
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Candeias
+   Microrregião: Campo Belo
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Cantagalo
+   Microrregião: Peçanha
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Caparaó
+   Microrregião: Manhuaçu
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Capela Nova
+   Microrregião: Barbacena
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Capelinha
+   Microrregião: Capelinha
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Capetinga
+   Microrregião: Passos
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Capim Branco
+   Microrregião: Sete Lagoas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Capinópolis
+   Microrregião: Ituiutaba
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Capitão Andrade
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Capitão Enéas
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Capitólio
+   Microrregião: Passos
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Caputira
+   Microrregião: Manhuaçu
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Caraí
+   Microrregião: Araçuaí
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Caranaíba
+   Microrregião: Barbacena
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Carandaí
+   Microrregião: Barbacena
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Carangola
+   Microrregião: Muriaé
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Caratinga
+   Microrregião: Caratinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Carbonita
+   Microrregião: Capelinha
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Careaçu
+   Microrregião: Santa Rita do Sapucaí
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Carlos Chagas
+   Microrregião: Nanuque
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Carmésia
+   Microrregião: Guanhães
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Carmo da Cachoeira
+   Microrregião: Varginha
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Carmo da Mata
+   Microrregião: Oliveira
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Carmo de Minas
+   Microrregião: São Lourenço
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Carmo do Cajuru
+   Microrregião: Divinópolis
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Carmo do Paranaíba
+   Microrregião: Patos de Minas
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Carmo do Rio Claro
+   Microrregião: Alfenas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Carmópolis de Minas
+   Microrregião: Oliveira
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Carneirinho
+   Microrregião: Frutal
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Carrancas
+   Microrregião: Lavras
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Carvalhópolis
+   Microrregião: Alfenas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Carvalhos
+   Microrregião: Andrelândia
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Casa Grande
+   Microrregião: Conselheiro Lafaiete
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Cascalho Rico
+   Microrregião: Uberlândia
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Cássia
+   Microrregião: Passos
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Cataguases
+   Microrregião: Cataguases
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Catas Altas
+   Microrregião: Itabira
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Catas Altas da Noruega
+   Microrregião: Conselheiro Lafaiete
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Catuji
+   Microrregião: Teófilo Otoni
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Catuti
+   Microrregião: Janaúba
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Caxambu
+   Microrregião: São Lourenço
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Cedro do Abaeté
+   Microrregião: Três Marias
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Central de Minas
+   Microrregião: Mantena
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Centralina
+   Microrregião: Uberlândia
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Chácara
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Chalé
+   Microrregião: Manhuaçu
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Chapada do Norte
+   Microrregião: Capelinha
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Chapada Gaúcha
+   Microrregião: Januária
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Chiador
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Cipotânea
+   Microrregião: Viçosa
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Claraval
+   Microrregião: Passos
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Claro dos Poções
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Cláudio
+   Microrregião: Divinópolis
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Coimbra
+   Microrregião: Viçosa
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Coluna
+   Microrregião: Guanhães
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Comendador Gomes
+   Microrregião: Frutal
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Comercinho
+   Microrregião: Pedra Azul
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Conceição da Aparecida
+   Microrregião: Alfenas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Conceição da Barra de Minas
+   Microrregião: São João Del Rei
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Conceição das Alagoas
+   Microrregião: Uberaba
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Conceição das Pedras
+   Microrregião: Santa Rita do Sapucaí
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Conceição de Ipanema
+   Microrregião: Aimorés
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Conceição do Mato Dentro
+   Microrregião: Conceição do Mato Dentro
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Conceição do Pará
+   Microrregião: Divinópolis
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Conceição do Rio Verde
+   Microrregião: São Lourenço
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Conceição dos Ouros
+   Microrregião: Santa Rita do Sapucaí
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Cônego Marinho
+   Microrregião: Januária
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Confins
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Congonhal
+   Microrregião: Pouso Alegre
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Congonhas
+   Microrregião: Conselheiro Lafaiete
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Congonhas do Norte
+   Microrregião: Conceição do Mato Dentro
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Conquista
+   Microrregião: Uberaba
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Conselheiro Lafaiete
+   Microrregião: Conselheiro Lafaiete
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Conselheiro Pena
+   Microrregião: Aimorés
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Consolação
+   Microrregião: Itajubá
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Contagem
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Coqueiral
+   Microrregião: Varginha
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Coração de Jesus
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Cordisburgo
+   Microrregião: Sete Lagoas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Cordislândia
+   Microrregião: Santa Rita do Sapucaí
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Corinto
+   Microrregião: Curvelo
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Coroaci
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Coromandel
+   Microrregião: Patrocínio
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Coronel Fabriciano
+   Microrregião: Ipatinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Coronel Murta
+   Microrregião: Araçuaí
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Coronel Pacheco
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Coronel Xavier Chaves
+   Microrregião: São João Del Rei
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Córrego Danta
+   Microrregião: Piuí
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Córrego do Bom Jesus
+   Microrregião: Pouso Alegre
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Córrego Fundo
+   Microrregião: Formiga
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Córrego Novo
+   Microrregião: Caratinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Couto de Magalhães de Minas
+   Microrregião: Diamantina
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Crisólita
+   Microrregião: Nanuque
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Cristais
+   Microrregião: Campo Belo
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Cristália
+   Microrregião: Grão Mogol
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Cristiano Otoni
+   Microrregião: Conselheiro Lafaiete
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Cristina
+   Microrregião: Itajubá
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Crucilândia
+   Microrregião: Itaguara
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Cruzeiro da Fortaleza
+   Microrregião: Patrocínio
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Cruzília
+   Microrregião: Andrelândia
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Cuparaque
+   Microrregião: Aimorés
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Curral de Dentro
+   Microrregião: Salinas
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Curvelo
+   Microrregião: Curvelo
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Datas
+   Microrregião: Diamantina
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Delfim Moreira
+   Microrregião: Itajubá
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Delfinópolis
+   Microrregião: Passos
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Delta
+   Microrregião: Uberaba
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Descoberto
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Desterro de Entre Rios
+   Microrregião: Conselheiro Lafaiete
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Desterro do Melo
+   Microrregião: Barbacena
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Diamantina
+   Microrregião: Diamantina
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Diogo de Vasconcelos
+   Microrregião: Ouro Preto
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Dionísio
+   Microrregião: Itabira
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Divinésia
+   Microrregião: Ubá
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Divino
+   Microrregião: Muriaé
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Divino das Laranjeiras
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Divinolândia de Minas
+   Microrregião: Guanhães
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Divinópolis
+   Microrregião: Divinópolis
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Divisa Alegre
+   Microrregião: Salinas
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Divisa Nova
+   Microrregião: Alfenas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Divisópolis
+   Microrregião: Almenara
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Dom Bosco
+   Microrregião: Unaí
+   Mesorregião: Noroeste de Minas
+------------------------------
+📍 Município: Dom Cavati
+   Microrregião: Caratinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Dom Joaquim
+   Microrregião: Conceição do Mato Dentro
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Dom Silvério
+   Microrregião: Ponte Nova
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Dom Viçoso
+   Microrregião: Itajubá
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Dona Euzébia
+   Microrregião: Cataguases
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Dores de Campos
+   Microrregião: São João Del Rei
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Dores de Guanhães
+   Microrregião: Guanhães
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Dores do Indaiá
+   Microrregião: Bom Despacho
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Dores do Turvo
+   Microrregião: Ubá
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Doresópolis
+   Microrregião: Piuí
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Douradoquara
+   Microrregião: Patrocínio
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Durandé
+   Microrregião: Manhuaçu
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Elói Mendes
+   Microrregião: Varginha
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Engenheiro Caldas
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Engenheiro Navarro
+   Microrregião: Bocaiúva
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Entre Folhas
+   Microrregião: Caratinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Entre Rios de Minas
+   Microrregião: Conselheiro Lafaiete
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Ervália
+   Microrregião: Viçosa
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Esmeraldas
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Espera Feliz
+   Microrregião: Muriaé
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Espinosa
+   Microrregião: Janaúba
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Espírito Santo do Dourado
+   Microrregião: Pouso Alegre
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Estiva
+   Microrregião: Pouso Alegre
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Estrela Dalva
+   Microrregião: Cataguases
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Estrela do Indaiá
+   Microrregião: Bom Despacho
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Estrela do Sul
+   Microrregião: Patrocínio
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Eugenópolis
+   Microrregião: Muriaé
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Ewbank da Câmara
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Extrema
+   Microrregião: Pouso Alegre
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Fama
+   Microrregião: Alfenas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Faria Lemos
+   Microrregião: Muriaé
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Felício dos Santos
+   Microrregião: Diamantina
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Felisburgo
+   Microrregião: Almenara
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Felixlândia
+   Microrregião: Curvelo
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Fernandes Tourinho
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Ferros
+   Microrregião: Itabira
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Fervedouro
+   Microrregião: Muriaé
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Florestal
+   Microrregião: Pará de Minas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Formiga
+   Microrregião: Formiga
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Formoso
+   Microrregião: Unaí
+   Mesorregião: Noroeste de Minas
+------------------------------
+📍 Município: Fortaleza de Minas
+   Microrregião: Passos
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Fortuna de Minas
+   Microrregião: Sete Lagoas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Francisco Badaró
+   Microrregião: Capelinha
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Francisco Dumont
+   Microrregião: Bocaiúva
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Francisco Sá
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Franciscópolis
+   Microrregião: Teófilo Otoni
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Frei Gaspar
+   Microrregião: Teófilo Otoni
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Frei Inocêncio
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Frei Lagonegro
+   Microrregião: Peçanha
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Fronteira
+   Microrregião: Frutal
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Fronteira dos Vales
+   Microrregião: Nanuque
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Fruta de Leite
+   Microrregião: Salinas
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Frutal
+   Microrregião: Frutal
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Funilândia
+   Microrregião: Sete Lagoas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Galiléia
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Gameleiras
+   Microrregião: Janaúba
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Glaucilândia
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Goiabeira
+   Microrregião: Aimorés
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Goianá
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Gonçalves
+   Microrregião: Pouso Alegre
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Gonzaga
+   Microrregião: Guanhães
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Gouveia
+   Microrregião: Diamantina
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Governador Valadares
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Grão Mogol
+   Microrregião: Grão Mogol
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Grupiara
+   Microrregião: Patrocínio
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Guanhães
+   Microrregião: Guanhães
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Guapé
+   Microrregião: Varginha
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Guaraciaba
+   Microrregião: Ponte Nova
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Guaraciama
+   Microrregião: Bocaiúva
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Guaranésia
+   Microrregião: São Sebastião do Paraíso
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Guarani
+   Microrregião: Ubá
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Guarará
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Guarda-Mor
+   Microrregião: Paracatu
+   Mesorregião: Noroeste de Minas
+------------------------------
+📍 Município: Guaxupé
+   Microrregião: São Sebastião do Paraíso
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Guidoval
+   Microrregião: Ubá
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Guimarânia
+   Microrregião: Patos de Minas
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Guiricema
+   Microrregião: Ubá
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Gurinhatã
+   Microrregião: Ituiutaba
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Heliodora
+   Microrregião: Santa Rita do Sapucaí
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Iapu
+   Microrregião: Caratinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Ibertioga
+   Microrregião: Barbacena
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Ibiá
+   Microrregião: Araxá
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Ibiaí
+   Microrregião: Pirapora
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Ibiracatu
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Ibiraci
+   Microrregião: Passos
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Ibirité
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Ibitiúra de Minas
+   Microrregião: Poços de Caldas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Ibituruna
+   Microrregião: Oliveira
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Icaraí de Minas
+   Microrregião: Januária
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Igarapé
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Igaratinga
+   Microrregião: Divinópolis
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Iguatama
+   Microrregião: Piuí
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Ijaci
+   Microrregião: Lavras
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Ilicínea
+   Microrregião: Varginha
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Imbé de Minas
+   Microrregião: Caratinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Inconfidentes
+   Microrregião: Poços de Caldas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Indaiabira
+   Microrregião: Salinas
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Indianópolis
+   Microrregião: Uberlândia
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Ingaí
+   Microrregião: Lavras
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Inhapim
+   Microrregião: Caratinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Inhaúma
+   Microrregião: Sete Lagoas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Inimutaba
+   Microrregião: Curvelo
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Ipaba
+   Microrregião: Caratinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Ipanema
+   Microrregião: Aimorés
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Ipatinga
+   Microrregião: Ipatinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Ipiaçu
+   Microrregião: Ituiutaba
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Ipuiúna
+   Microrregião: Pouso Alegre
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Iraí de Minas
+   Microrregião: Patrocínio
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Itabira
+   Microrregião: Itabira
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Itabirinha
+   Microrregião: Mantena
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Itabirito
+   Microrregião: Ouro Preto
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Itacambira
+   Microrregião: Grão Mogol
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Itacarambi
+   Microrregião: Januária
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Itaguara
+   Microrregião: Itaguara
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Itaipé
+   Microrregião: Teófilo Otoni
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Itajubá
+   Microrregião: Itajubá
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Itamarandiba
+   Microrregião: Capelinha
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Itamarati de Minas
+   Microrregião: Cataguases
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Itambacuri
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Itambé do Mato Dentro
+   Microrregião: Conceição do Mato Dentro
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Itamogi
+   Microrregião: São Sebastião do Paraíso
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Itamonte
+   Microrregião: São Lourenço
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Itanhandu
+   Microrregião: São Lourenço
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Itanhomi
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Itaobim
+   Microrregião: Pedra Azul
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Itapagipe
+   Microrregião: Frutal
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Itapecerica
+   Microrregião: Formiga
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Itapeva
+   Microrregião: Pouso Alegre
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Itatiaiuçu
+   Microrregião: Itaguara
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Itaú de Minas
+   Microrregião: Passos
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Itaúna
+   Microrregião: Divinópolis
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Itaverava
+   Microrregião: Conselheiro Lafaiete
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Itinga
+   Microrregião: Araçuaí
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Itueta
+   Microrregião: Aimorés
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Ituiutaba
+   Microrregião: Ituiutaba
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Itumirim
+   Microrregião: Lavras
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Iturama
+   Microrregião: Frutal
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Itutinga
+   Microrregião: Lavras
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Jaboticatubas
+   Microrregião: Sete Lagoas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Jacinto
+   Microrregião: Almenara
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Jacuí
+   Microrregião: São Sebastião do Paraíso
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Jacutinga
+   Microrregião: Poços de Caldas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Jaguaraçu
+   Microrregião: Ipatinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Jaíba
+   Microrregião: Janaúba
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Jampruca
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Janaúba
+   Microrregião: Janaúba
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Januária
+   Microrregião: Januária
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Japaraíba
+   Microrregião: Bom Despacho
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Japonvar
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Jeceaba
+   Microrregião: Itaguara
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Jenipapo de Minas
+   Microrregião: Capelinha
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Jequeri
+   Microrregião: Ponte Nova
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Jequitaí
+   Microrregião: Pirapora
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Jequitibá
+   Microrregião: Sete Lagoas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Jequitinhonha
+   Microrregião: Almenara
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Jesuânia
+   Microrregião: São Lourenço
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Joaíma
+   Microrregião: Almenara
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Joanésia
+   Microrregião: Ipatinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: João Monlevade
+   Microrregião: Itabira
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: João Pinheiro
+   Microrregião: Paracatu
+   Mesorregião: Noroeste de Minas
+------------------------------
+📍 Município: Joaquim Felício
+   Microrregião: Curvelo
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Jordânia
+   Microrregião: Almenara
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: José Gonçalves de Minas
+   Microrregião: Capelinha
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: José Raydan
+   Microrregião: Peçanha
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Josenópolis
+   Microrregião: Grão Mogol
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Juatuba
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Juiz de Fora
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Juramento
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Juruaia
+   Microrregião: São Sebastião do Paraíso
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Juvenília
+   Microrregião: Januária
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Ladainha
+   Microrregião: Teófilo Otoni
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Lagamar
+   Microrregião: Paracatu
+   Mesorregião: Noroeste de Minas
+------------------------------
+📍 Município: Lagoa da Prata
+   Microrregião: Bom Despacho
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Lagoa dos Patos
+   Microrregião: Pirapora
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Lagoa Dourada
+   Microrregião: São João Del Rei
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Lagoa Formosa
+   Microrregião: Patos de Minas
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Lagoa Grande
+   Microrregião: Paracatu
+   Mesorregião: Noroeste de Minas
+------------------------------
+📍 Município: Lagoa Santa
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Lajinha
+   Microrregião: Manhuaçu
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Lambari
+   Microrregião: São Lourenço
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Lamim
+   Microrregião: Viçosa
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Laranjal
+   Microrregião: Cataguases
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Lassance
+   Microrregião: Pirapora
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Lavras
+   Microrregião: Lavras
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Leandro Ferreira
+   Microrregião: Bom Despacho
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Leme do Prado
+   Microrregião: Capelinha
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Leopoldina
+   Microrregião: Cataguases
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Liberdade
+   Microrregião: Andrelândia
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Lima Duarte
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Limeira do Oeste
+   Microrregião: Frutal
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Lontra
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Luisburgo
+   Microrregião: Manhuaçu
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Luislândia
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Luminárias
+   Microrregião: Lavras
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Luz
+   Microrregião: Bom Despacho
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Machacalis
+   Microrregião: Nanuque
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Machado
+   Microrregião: Alfenas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Madre de Deus de Minas
+   Microrregião: São João Del Rei
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Malacacheta
+   Microrregião: Teófilo Otoni
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Mamonas
+   Microrregião: Janaúba
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Manga
+   Microrregião: Januária
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Manhuaçu
+   Microrregião: Manhuaçu
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Manhumirim
+   Microrregião: Manhuaçu
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Mantena
+   Microrregião: Mantena
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Mar de Espanha
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Maravilhas
+   Microrregião: Sete Lagoas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Maria da Fé
+   Microrregião: Itajubá
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Mariana
+   Microrregião: Ouro Preto
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Marilac
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Mário Campos
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Maripá de Minas
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Marliéria
+   Microrregião: Ipatinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Marmelópolis
+   Microrregião: Itajubá
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Martinho Campos
+   Microrregião: Bom Despacho
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Martins Soares
+   Microrregião: Manhuaçu
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Mata Verde
+   Microrregião: Almenara
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Materlândia
+   Microrregião: Guanhães
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Mateus Leme
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Mathias Lobato
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Matias Barbosa
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Matias Cardoso
+   Microrregião: Januária
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Matipó
+   Microrregião: Manhuaçu
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Mato Verde
+   Microrregião: Janaúba
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Matozinhos
+   Microrregião: Sete Lagoas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Matutina
+   Microrregião: Patos de Minas
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Medeiros
+   Microrregião: Piuí
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Medina
+   Microrregião: Pedra Azul
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Mendes Pimentel
+   Microrregião: Mantena
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Mercês
+   Microrregião: Ubá
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Mesquita
+   Microrregião: Ipatinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Minas Novas
+   Microrregião: Capelinha
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Minduri
+   Microrregião: Andrelândia
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Mirabela
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Miradouro
+   Microrregião: Muriaé
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Miraí
+   Microrregião: Muriaé
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Miravânia
+   Microrregião: Januária
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Moeda
+   Microrregião: Itaguara
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Moema
+   Microrregião: Bom Despacho
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Monjolos
+   Microrregião: Curvelo
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Monsenhor Paulo
+   Microrregião: Varginha
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Montalvânia
+   Microrregião: Januária
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Monte Alegre de Minas
+   Microrregião: Uberlândia
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Monte Azul
+   Microrregião: Janaúba
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Monte Belo
+   Microrregião: São Sebastião do Paraíso
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Monte Carmelo
+   Microrregião: Patrocínio
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Monte Formoso
+   Microrregião: Almenara
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Monte Santo de Minas
+   Microrregião: São Sebastião do Paraíso
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Monte Sião
+   Microrregião: Poços de Caldas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Montes Claros
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Montezuma
+   Microrregião: Salinas
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Morada Nova de Minas
+   Microrregião: Três Marias
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Morro da Garça
+   Microrregião: Curvelo
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Morro do Pilar
+   Microrregião: Conceição do Mato Dentro
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Munhoz
+   Microrregião: Pouso Alegre
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Muriaé
+   Microrregião: Muriaé
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Mutum
+   Microrregião: Aimorés
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Muzambinho
+   Microrregião: São Sebastião do Paraíso
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Nacip Raydan
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Nanuque
+   Microrregião: Nanuque
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Naque
+   Microrregião: Ipatinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Natalândia
+   Microrregião: Unaí
+   Mesorregião: Noroeste de Minas
+------------------------------
+📍 Município: Natércia
+   Microrregião: Santa Rita do Sapucaí
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Nazareno
+   Microrregião: São João Del Rei
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Nepomuceno
+   Microrregião: Lavras
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Ninheira
+   Microrregião: Salinas
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Nova Belém
+   Microrregião: Mantena
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Nova Era
+   Microrregião: Itabira
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Nova Lima
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Nova Módica
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Nova Ponte
+   Microrregião: Araxá
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Nova Porteirinha
+   Microrregião: Janaúba
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Nova Resende
+   Microrregião: São Sebastião do Paraíso
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Nova Serrana
+   Microrregião: Divinópolis
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Nova União
+   Microrregião: Itabira
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Novo Cruzeiro
+   Microrregião: Araçuaí
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Novo Oriente de Minas
+   Microrregião: Teófilo Otoni
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Novorizonte
+   Microrregião: Salinas
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Olaria
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Olhos-d'Água
+   Microrregião: Bocaiúva
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Olímpio Noronha
+   Microrregião: São Lourenço
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Oliveira
+   Microrregião: Oliveira
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Oliveira Fortes
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Onça de Pitangui
+   Microrregião: Pará de Minas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Oratórios
+   Microrregião: Ponte Nova
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Orizânia
+   Microrregião: Muriaé
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Ouro Branco
+   Microrregião: Conselheiro Lafaiete
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Ouro Fino
+   Microrregião: Poços de Caldas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Ouro Preto
+   Microrregião: Ouro Preto
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Ouro Verde de Minas
+   Microrregião: Teófilo Otoni
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Padre Carvalho
+   Microrregião: Grão Mogol
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Padre Paraíso
+   Microrregião: Araçuaí
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Pai Pedro
+   Microrregião: Janaúba
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Paineiras
+   Microrregião: Três Marias
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Pains
+   Microrregião: Formiga
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Paiva
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Palma
+   Microrregião: Cataguases
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Palmópolis
+   Microrregião: Almenara
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Papagaios
+   Microrregião: Sete Lagoas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Pará de Minas
+   Microrregião: Pará de Minas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Paracatu
+   Microrregião: Paracatu
+   Mesorregião: Noroeste de Minas
+------------------------------
+📍 Município: Paraguaçu
+   Microrregião: Alfenas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Paraisópolis
+   Microrregião: Itajubá
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Paraopeba
+   Microrregião: Sete Lagoas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Passa Quatro
+   Microrregião: São Lourenço
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Passa Tempo
+   Microrregião: Oliveira
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Passa Vinte
+   Microrregião: Andrelândia
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Passabém
+   Microrregião: Conceição do Mato Dentro
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Passos
+   Microrregião: Passos
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Patis
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Patos de Minas
+   Microrregião: Patos de Minas
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Patrocínio
+   Microrregião: Patrocínio
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Patrocínio do Muriaé
+   Microrregião: Muriaé
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Paula Cândido
+   Microrregião: Viçosa
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Paulistas
+   Microrregião: Guanhães
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Pavão
+   Microrregião: Teófilo Otoni
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Peçanha
+   Microrregião: Peçanha
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Pedra Azul
+   Microrregião: Pedra Azul
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Pedra Bonita
+   Microrregião: Manhuaçu
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Pedra do Anta
+   Microrregião: Viçosa
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Pedra do Indaiá
+   Microrregião: Formiga
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Pedra Dourada
+   Microrregião: Muriaé
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Pedralva
+   Microrregião: Santa Rita do Sapucaí
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Pedras de Maria da Cruz
+   Microrregião: Januária
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Pedrinópolis
+   Microrregião: Araxá
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Pedro Leopoldo
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Pedro Teixeira
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Pequeri
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Pequi
+   Microrregião: Sete Lagoas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Perdigão
+   Microrregião: Divinópolis
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Perdizes
+   Microrregião: Araxá
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Perdões
+   Microrregião: Campo Belo
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Periquito
+   Microrregião: Ipatinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Pescador
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Piau
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Piedade de Caratinga
+   Microrregião: Caratinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Piedade de Ponte Nova
+   Microrregião: Ponte Nova
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Piedade do Rio Grande
+   Microrregião: São João Del Rei
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Piedade dos Gerais
+   Microrregião: Itaguara
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Pimenta
+   Microrregião: Formiga
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Pingo-d'Água
+   Microrregião: Caratinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Pintópolis
+   Microrregião: Januária
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Piracema
+   Microrregião: Oliveira
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Pirajuba
+   Microrregião: Frutal
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Piranga
+   Microrregião: Viçosa
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Piranguçu
+   Microrregião: Itajubá
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Piranguinho
+   Microrregião: Itajubá
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Pirapetinga
+   Microrregião: Cataguases
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Pirapora
+   Microrregião: Pirapora
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Piraúba
+   Microrregião: Ubá
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Pitangui
+   Microrregião: Pará de Minas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Piumhi
+   Microrregião: Piuí
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Planura
+   Microrregião: Frutal
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Poço Fundo
+   Microrregião: Alfenas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Poços de Caldas
+   Microrregião: Poços de Caldas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Pocrane
+   Microrregião: Aimorés
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Pompéu
+   Microrregião: Três Marias
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Ponte Nova
+   Microrregião: Ponte Nova
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Ponto Chique
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Ponto dos Volantes
+   Microrregião: Araçuaí
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Porteirinha
+   Microrregião: Janaúba
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Porto Firme
+   Microrregião: Viçosa
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Poté
+   Microrregião: Teófilo Otoni
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Pouso Alegre
+   Microrregião: Pouso Alegre
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Pouso Alto
+   Microrregião: São Lourenço
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Prados
+   Microrregião: São João Del Rei
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Prata
+   Microrregião: Uberlândia
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Pratápolis
+   Microrregião: Passos
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Pratinha
+   Microrregião: Araxá
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Presidente Bernardes
+   Microrregião: Viçosa
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Presidente Juscelino
+   Microrregião: Curvelo
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Presidente Kubitschek
+   Microrregião: Diamantina
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Presidente Olegário
+   Microrregião: Paracatu
+   Mesorregião: Noroeste de Minas
+------------------------------
+📍 Município: Prudente de Morais
+   Microrregião: Sete Lagoas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Quartel Geral
+   Microrregião: Bom Despacho
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Queluzito
+   Microrregião: Conselheiro Lafaiete
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Raposos
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Raul Soares
+   Microrregião: Ponte Nova
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Recreio
+   Microrregião: Cataguases
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Reduto
+   Microrregião: Manhuaçu
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Resende Costa
+   Microrregião: São João Del Rei
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Resplendor
+   Microrregião: Aimorés
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Ressaquinha
+   Microrregião: Barbacena
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Riachinho
+   Microrregião: Pirapora
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Riacho dos Machados
+   Microrregião: Janaúba
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Ribeirão das Neves
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Ribeirão Vermelho
+   Microrregião: Lavras
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Rio Acima
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Rio Casca
+   Microrregião: Ponte Nova
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Rio do Prado
+   Microrregião: Almenara
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Rio Doce
+   Microrregião: Ponte Nova
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Rio Espera
+   Microrregião: Viçosa
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Rio Manso
+   Microrregião: Itaguara
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Rio Novo
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Rio Paranaíba
+   Microrregião: Patos de Minas
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Rio Pardo de Minas
+   Microrregião: Salinas
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Rio Piracicaba
+   Microrregião: Itabira
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Rio Pomba
+   Microrregião: Ubá
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Rio Preto
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Rio Vermelho
+   Microrregião: Conceição do Mato Dentro
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Ritápolis
+   Microrregião: São João Del Rei
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Rochedo de Minas
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Rodeiro
+   Microrregião: Ubá
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Romaria
+   Microrregião: Patrocínio
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Rosário da Limeira
+   Microrregião: Muriaé
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Rubelita
+   Microrregião: Salinas
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Rubim
+   Microrregião: Almenara
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Sabará
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Sabinópolis
+   Microrregião: Guanhães
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Sacramento
+   Microrregião: Araxá
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Salinas
+   Microrregião: Salinas
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Salto da Divisa
+   Microrregião: Almenara
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Santa Bárbara
+   Microrregião: Itabira
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Santa Bárbara do Leste
+   Microrregião: Caratinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Santa Bárbara do Monte Verde
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Santa Bárbara do Tugúrio
+   Microrregião: Barbacena
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Santa Cruz de Minas
+   Microrregião: São João Del Rei
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Santa Cruz de Salinas
+   Microrregião: Salinas
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Santa Cruz do Escalvado
+   Microrregião: Ponte Nova
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Santa Efigênia de Minas
+   Microrregião: Guanhães
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Santa Fé de Minas
+   Microrregião: Pirapora
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Santa Helena de Minas
+   Microrregião: Nanuque
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Santa Juliana
+   Microrregião: Araxá
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Santa Luzia
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Santa Margarida
+   Microrregião: Manhuaçu
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Santa Maria de Itabira
+   Microrregião: Itabira
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Santa Maria do Salto
+   Microrregião: Almenara
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Santa Maria do Suaçuí
+   Microrregião: Peçanha
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Santa Rita de Caldas
+   Microrregião: Poços de Caldas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Santa Rita de Ibitipoca
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Santa Rita de Jacutinga
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Santa Rita de Minas
+   Microrregião: Caratinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Santa Rita do Itueto
+   Microrregião: Aimorés
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Santa Rita do Sapucaí
+   Microrregião: Santa Rita do Sapucaí
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Santa Rosa da Serra
+   Microrregião: Patos de Minas
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Santa Vitória
+   Microrregião: Ituiutaba
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Santana da Vargem
+   Microrregião: Varginha
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Santana de Cataguases
+   Microrregião: Cataguases
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Santana de Pirapama
+   Microrregião: Sete Lagoas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Santana do Deserto
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Santana do Garambéu
+   Microrregião: São João Del Rei
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Santana do Jacaré
+   Microrregião: Campo Belo
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Santana do Manhuaçu
+   Microrregião: Manhuaçu
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Santana do Paraíso
+   Microrregião: Ipatinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Santana do Riacho
+   Microrregião: Sete Lagoas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Santana dos Montes
+   Microrregião: Conselheiro Lafaiete
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Santo Antônio do Amparo
+   Microrregião: Oliveira
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Santo Antônio do Aventureiro
+   Microrregião: Cataguases
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Santo Antônio do Grama
+   Microrregião: Ponte Nova
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Santo Antônio do Itambé
+   Microrregião: Conceição do Mato Dentro
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Santo Antônio do Jacinto
+   Microrregião: Almenara
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Santo Antônio do Monte
+   Microrregião: Divinópolis
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Santo Antônio do Retiro
+   Microrregião: Salinas
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Santo Antônio do Rio Abaixo
+   Microrregião: Conceição do Mato Dentro
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Santo Hipólito
+   Microrregião: Curvelo
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Santos Dumont
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: São Bento Abade
+   Microrregião: Varginha
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: São Brás do Suaçuí
+   Microrregião: Conselheiro Lafaiete
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: São Domingos das Dores
+   Microrregião: Caratinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: São Domingos do Prata
+   Microrregião: Itabira
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: São Félix de Minas
+   Microrregião: Mantena
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: São Francisco
+   Microrregião: Januária
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: São Francisco de Paula
+   Microrregião: Oliveira
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: São Francisco de Sales
+   Microrregião: Frutal
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: São Francisco do Glória
+   Microrregião: Muriaé
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: São Geraldo
+   Microrregião: Ubá
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: São Geraldo da Piedade
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: São Geraldo do Baixio
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: São Gonçalo do Abaeté
+   Microrregião: Paracatu
+   Mesorregião: Noroeste de Minas
+------------------------------
+📍 Município: São Gonçalo do Pará
+   Microrregião: Divinópolis
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: São Gonçalo do Rio Abaixo
+   Microrregião: Itabira
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: São Gonçalo do Rio Preto
+   Microrregião: Diamantina
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: São Gonçalo do Sapucaí
+   Microrregião: Santa Rita do Sapucaí
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: São Gotardo
+   Microrregião: Patos de Minas
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: São João Batista do Glória
+   Microrregião: Passos
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: São João da Lagoa
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: São João da Mata
+   Microrregião: Santa Rita do Sapucaí
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: São João da Ponte
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: São João das Missões
+   Microrregião: Januária
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: São João del Rei
+   Microrregião: São João Del Rei
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: São João do Manhuaçu
+   Microrregião: Manhuaçu
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: São João do Manteninha
+   Microrregião: Mantena
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: São João do Oriente
+   Microrregião: Caratinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: São João do Pacuí
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: São João do Paraíso
+   Microrregião: Salinas
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: São João Evangelista
+   Microrregião: Guanhães
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: São João Nepomuceno
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: São Joaquim de Bicas
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: São José da Barra
+   Microrregião: Passos
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: São José da Lapa
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: São José da Safira
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: São José da Varginha
+   Microrregião: Pará de Minas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: São José do Alegre
+   Microrregião: Santa Rita do Sapucaí
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: São José do Divino
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: São José do Goiabal
+   Microrregião: Itabira
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: São José do Jacuri
+   Microrregião: Peçanha
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: São José do Mantimento
+   Microrregião: Manhuaçu
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: São Lourenço
+   Microrregião: São Lourenço
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: São Miguel do Anta
+   Microrregião: Viçosa
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: São Pedro da União
+   Microrregião: São Sebastião do Paraíso
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: São Pedro do Suaçuí
+   Microrregião: Peçanha
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: São Pedro dos Ferros
+   Microrregião: Ponte Nova
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: São Romão
+   Microrregião: Pirapora
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: São Roque de Minas
+   Microrregião: Piuí
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: São Sebastião da Bela Vista
+   Microrregião: Santa Rita do Sapucaí
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: São Sebastião da Vargem Alegre
+   Microrregião: Muriaé
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: São Sebastião do Anta
+   Microrregião: Caratinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: São Sebastião do Maranhão
+   Microrregião: Peçanha
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: São Sebastião do Oeste
+   Microrregião: Divinópolis
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: São Sebastião do Paraíso
+   Microrregião: São Sebastião do Paraíso
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: São Sebastião do Rio Preto
+   Microrregião: Conceição do Mato Dentro
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: São Sebastião do Rio Verde
+   Microrregião: São Lourenço
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: São Tiago
+   Microrregião: São João Del Rei
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: São Tomás de Aquino
+   Microrregião: São Sebastião do Paraíso
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: São Tomé das Letras
+   Microrregião: Varginha
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: São Vicente de Minas
+   Microrregião: Andrelândia
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Sapucaí-Mirim
+   Microrregião: Pouso Alegre
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Sardoá
+   Microrregião: Guanhães
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Sarzedo
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Sem-Peixe
+   Microrregião: Ponte Nova
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Senador Amaral
+   Microrregião: Pouso Alegre
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Senador Cortes
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Senador Firmino
+   Microrregião: Ubá
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Senador José Bento
+   Microrregião: Pouso Alegre
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Senador Modestino Gonçalves
+   Microrregião: Diamantina
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Senhora de Oliveira
+   Microrregião: Viçosa
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Senhora do Porto
+   Microrregião: Guanhães
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Senhora dos Remédios
+   Microrregião: Barbacena
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Sericita
+   Microrregião: Ponte Nova
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Seritinga
+   Microrregião: Andrelândia
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Serra Azul de Minas
+   Microrregião: Conceição do Mato Dentro
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Serra da Saudade
+   Microrregião: Bom Despacho
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Serra do Salitre
+   Microrregião: Patrocínio
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Serra dos Aimorés
+   Microrregião: Nanuque
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Serrania
+   Microrregião: Alfenas
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Serranópolis de Minas
+   Microrregião: Janaúba
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Serranos
+   Microrregião: Andrelândia
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Serro
+   Microrregião: Conceição do Mato Dentro
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Sete Lagoas
+   Microrregião: Sete Lagoas
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Setubinha
+   Microrregião: Teófilo Otoni
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Silveirânia
+   Microrregião: Ubá
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Silvianópolis
+   Microrregião: Santa Rita do Sapucaí
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Simão Pereira
+   Microrregião: Juiz de Fora
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Simonésia
+   Microrregião: Manhuaçu
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Sobrália
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Soledade de Minas
+   Microrregião: São Lourenço
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Tabuleiro
+   Microrregião: Ubá
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Taiobeiras
+   Microrregião: Salinas
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Taparuba
+   Microrregião: Aimorés
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Tapira
+   Microrregião: Araxá
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Tapiraí
+   Microrregião: Piuí
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Taquaraçu de Minas
+   Microrregião: Itabira
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Tarumirim
+   Microrregião: Caratinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Teixeiras
+   Microrregião: Viçosa
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Teófilo Otoni
+   Microrregião: Teófilo Otoni
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Timóteo
+   Microrregião: Ipatinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Tiradentes
+   Microrregião: São João Del Rei
+   Mesorregião: Campo das Vertentes
+------------------------------
+📍 Município: Tiros
+   Microrregião: Patos de Minas
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Tocantins
+   Microrregião: Ubá
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Tocos do Moji
+   Microrregião: Pouso Alegre
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Toledo
+   Microrregião: Pouso Alegre
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Tombos
+   Microrregião: Muriaé
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Três Corações
+   Microrregião: Varginha
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Três Marias
+   Microrregião: Três Marias
+   Mesorregião: Central Mineira
+------------------------------
+📍 Município: Três Pontas
+   Microrregião: Varginha
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Tumiritinga
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Tupaciguara
+   Microrregião: Uberlândia
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Turmalina
+   Microrregião: Capelinha
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Turvolândia
+   Microrregião: Santa Rita do Sapucaí
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Ubá
+   Microrregião: Ubá
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Ubaí
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Ubaporanga
+   Microrregião: Caratinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Uberaba
+   Microrregião: Uberaba
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Uberlândia
+   Microrregião: Uberlândia
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Umburatiba
+   Microrregião: Nanuque
+   Mesorregião: Vale do Mucuri
+------------------------------
+📍 Município: Unaí
+   Microrregião: Unaí
+   Mesorregião: Noroeste de Minas
+------------------------------
+📍 Município: União de Minas
+   Microrregião: Frutal
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Uruana de Minas
+   Microrregião: Unaí
+   Mesorregião: Noroeste de Minas
+------------------------------
+📍 Município: Urucânia
+   Microrregião: Ponte Nova
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Urucuia
+   Microrregião: Januária
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Vargem Alegre
+   Microrregião: Caratinga
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Vargem Bonita
+   Microrregião: Piuí
+   Mesorregião: Oeste de Minas
+------------------------------
+📍 Município: Vargem Grande do Rio Pardo
+   Microrregião: Salinas
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Varginha
+   Microrregião: Varginha
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Varjão de Minas
+   Microrregião: Paracatu
+   Mesorregião: Noroeste de Minas
+------------------------------
+📍 Município: Várzea da Palma
+   Microrregião: Pirapora
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Varzelândia
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Vazante
+   Microrregião: Paracatu
+   Mesorregião: Noroeste de Minas
+------------------------------
+📍 Município: Verdelândia
+   Microrregião: Montes Claros
+   Mesorregião: Norte de Minas
+------------------------------
+📍 Município: Veredinha
+   Microrregião: Capelinha
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Veríssimo
+   Microrregião: Uberaba
+   Mesorregião: Triângulo Mineiro/Alto Paranaíba
+------------------------------
+📍 Município: Vermelho Novo
+   Microrregião: Ponte Nova
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Vespasiano
+   Microrregião: Belo Horizonte
+   Mesorregião: Metropolitana de Belo Horizonte
+------------------------------
+📍 Município: Viçosa
+   Microrregião: Viçosa
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Vieiras
+   Microrregião: Muriaé
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Virgem da Lapa
+   Microrregião: Araçuaí
+   Mesorregião: Jequitinhonha
+------------------------------
+📍 Município: Virgínia
+   Microrregião: Itajubá
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------
+📍 Município: Virginópolis
+   Microrregião: Guanhães
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Virgolândia
+   Microrregião: Governador Valadares
+   Mesorregião: Vale do Rio Doce
+------------------------------
+📍 Município: Visconde do Rio Branco
+   Microrregião: Ubá
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Volta Grande
+   Microrregião: Cataguases
+   Mesorregião: Zona da Mata
+------------------------------
+📍 Município: Wenceslau Braz
+   Microrregião: Itajubá
+   Mesorregião: Sul/Sudoeste de Minas
+------------------------------

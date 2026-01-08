@@ -1,0 +1,896 @@
+📍 Município: Acauã
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Agricolândia
+   Microrregião: Médio Parnaíba Piauiense
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Água Branca
+   Microrregião: Médio Parnaíba Piauiense
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Alagoinha do Piauí
+   Microrregião: Pio IX
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Alegrete do Piauí
+   Microrregião: Pio IX
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Alto Longá
+   Microrregião: Campo Maior
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Altos
+   Microrregião: Teresina
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Alvorada do Gurguéia
+   Microrregião: Alto Médio Gurguéia
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Amarante
+   Microrregião: Médio Parnaíba Piauiense
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Angical do Piauí
+   Microrregião: Médio Parnaíba Piauiense
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Anísio de Abreu
+   Microrregião: São Raimundo Nonato
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Antônio Almeida
+   Microrregião: Bertolínia
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Aroazes
+   Microrregião: Valença do Piauí
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Aroeiras do Itaim
+   Microrregião: Picos
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Arraial
+   Microrregião: Médio Parnaíba Piauiense
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Assunção do Piauí
+   Microrregião: Campo Maior
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Avelino Lopes
+   Microrregião: Chapadas do Extremo Sul Piauiense
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Baixa Grande do Ribeiro
+   Microrregião: Alto Parnaíba Piauiense
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Barra D'Alcântara
+   Microrregião: Valença do Piauí
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Barras
+   Microrregião: Baixo Parnaíba Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Barreiras do Piauí
+   Microrregião: Alto Médio Gurguéia
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Barro Duro
+   Microrregião: Médio Parnaíba Piauiense
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Batalha
+   Microrregião: Baixo Parnaíba Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Bela Vista do Piauí
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Belém do Piauí
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Beneditinos
+   Microrregião: Teresina
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Bertolínia
+   Microrregião: Bertolínia
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Betânia do Piauí
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Boa Hora
+   Microrregião: Baixo Parnaíba Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Bocaina
+   Microrregião: Picos
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Bom Jesus
+   Microrregião: Alto Médio Gurguéia
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Bom Princípio do Piauí
+   Microrregião: Litoral Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Bonfim do Piauí
+   Microrregião: São Raimundo Nonato
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Boqueirão do Piauí
+   Microrregião: Campo Maior
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Brasileira
+   Microrregião: Baixo Parnaíba Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Brejo do Piauí
+   Microrregião: São Raimundo Nonato
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Buriti dos Lopes
+   Microrregião: Litoral Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Buriti dos Montes
+   Microrregião: Campo Maior
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Cabeceiras do Piauí
+   Microrregião: Baixo Parnaíba Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Cajazeiras do Piauí
+   Microrregião: Picos
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Cajueiro da Praia
+   Microrregião: Litoral Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Caldeirão Grande do Piauí
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Campinas do Piauí
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Campo Alegre do Fidalgo
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Campo Grande do Piauí
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Campo Largo do Piauí
+   Microrregião: Baixo Parnaíba Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Campo Maior
+   Microrregião: Campo Maior
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Canavieira
+   Microrregião: Floriano
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Canto do Buriti
+   Microrregião: São Raimundo Nonato
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Capitão de Campos
+   Microrregião: Campo Maior
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Capitão Gervásio Oliveira
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Caracol
+   Microrregião: São Raimundo Nonato
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Caraúbas do Piauí
+   Microrregião: Litoral Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Caridade do Piauí
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Castelo do Piauí
+   Microrregião: Campo Maior
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Caxingó
+   Microrregião: Litoral Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Cocal
+   Microrregião: Litoral Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Cocal de Telha
+   Microrregião: Campo Maior
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Cocal dos Alves
+   Microrregião: Litoral Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Coivaras
+   Microrregião: Teresina
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Colônia do Gurguéia
+   Microrregião: Bertolínia
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Colônia do Piauí
+   Microrregião: Picos
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Conceição do Canindé
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Coronel José Dias
+   Microrregião: São Raimundo Nonato
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Corrente
+   Microrregião: Chapadas do Extremo Sul Piauiense
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Cristalândia do Piauí
+   Microrregião: Chapadas do Extremo Sul Piauiense
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Cristino Castro
+   Microrregião: Alto Médio Gurguéia
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Curimatá
+   Microrregião: Chapadas do Extremo Sul Piauiense
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Currais
+   Microrregião: Alto Médio Gurguéia
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Curral Novo do Piauí
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Curralinhos
+   Microrregião: Teresina
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Demerval Lobão
+   Microrregião: Teresina
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Dirceu Arcoverde
+   Microrregião: São Raimundo Nonato
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Dom Expedito Lopes
+   Microrregião: Picos
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Dom Inocêncio
+   Microrregião: São Raimundo Nonato
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Domingos Mourão
+   Microrregião: Campo Maior
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Elesbão Veloso
+   Microrregião: Valença do Piauí
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Eliseu Martins
+   Microrregião: Bertolínia
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Esperantina
+   Microrregião: Baixo Parnaíba Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Fartura do Piauí
+   Microrregião: São Raimundo Nonato
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Flores do Piauí
+   Microrregião: Floriano
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Floresta do Piauí
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Floriano
+   Microrregião: Floriano
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Francinópolis
+   Microrregião: Valença do Piauí
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Francisco Ayres
+   Microrregião: Médio Parnaíba Piauiense
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Francisco Macedo
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Francisco Santos
+   Microrregião: Pio IX
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Fronteiras
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Geminiano
+   Microrregião: Picos
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Gilbués
+   Microrregião: Alto Médio Gurguéia
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Guadalupe
+   Microrregião: Floriano
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Guaribas
+   Microrregião: São Raimundo Nonato
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Hugo Napoleão
+   Microrregião: Médio Parnaíba Piauiense
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Ilha Grande
+   Microrregião: Litoral Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Inhuma
+   Microrregião: Valença do Piauí
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Ipiranga do Piauí
+   Microrregião: Picos
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Isaías Coelho
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Itainópolis
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Itaueira
+   Microrregião: Floriano
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Jacobina do Piauí
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Jaicós
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Jardim do Mulato
+   Microrregião: Médio Parnaíba Piauiense
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Jatobá do Piauí
+   Microrregião: Campo Maior
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Jerumenha
+   Microrregião: Floriano
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: João Costa
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Joaquim Pires
+   Microrregião: Baixo Parnaíba Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Joca Marques
+   Microrregião: Baixo Parnaíba Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: José de Freitas
+   Microrregião: Teresina
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Juazeiro do Piauí
+   Microrregião: Campo Maior
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Júlio Borges
+   Microrregião: Chapadas do Extremo Sul Piauiense
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Jurema
+   Microrregião: São Raimundo Nonato
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Lagoa Alegre
+   Microrregião: Teresina
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Lagoa de São Francisco
+   Microrregião: Campo Maior
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Lagoa do Barro do Piauí
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Lagoa do Piauí
+   Microrregião: Teresina
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Lagoa do Sítio
+   Microrregião: Valença do Piauí
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Lagoinha do Piauí
+   Microrregião: Médio Parnaíba Piauiense
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Landri Sales
+   Microrregião: Bertolínia
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Luís Correia
+   Microrregião: Litoral Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Luzilândia
+   Microrregião: Baixo Parnaíba Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Madeiro
+   Microrregião: Baixo Parnaíba Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Manoel Emídio
+   Microrregião: Bertolínia
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Marcolândia
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Marcos Parente
+   Microrregião: Bertolínia
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Massapê do Piauí
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Matias Olímpio
+   Microrregião: Baixo Parnaíba Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Miguel Alves
+   Microrregião: Baixo Parnaíba Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Miguel Leão
+   Microrregião: Teresina
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Milton Brandão
+   Microrregião: Campo Maior
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Monsenhor Gil
+   Microrregião: Teresina
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Monsenhor Hipólito
+   Microrregião: Pio IX
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Monte Alegre do Piauí
+   Microrregião: Alto Médio Gurguéia
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Morro Cabeça no Tempo
+   Microrregião: Chapadas do Extremo Sul Piauiense
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Morro do Chapéu do Piauí
+   Microrregião: Baixo Parnaíba Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Murici dos Portelas
+   Microrregião: Litoral Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Nazaré do Piauí
+   Microrregião: Floriano
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Nazária
+   Microrregião: Teresina
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Nossa Senhora de Nazaré
+   Microrregião: Campo Maior
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Nossa Senhora dos Remédios
+   Microrregião: Baixo Parnaíba Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Nova Santa Rita
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Novo Oriente do Piauí
+   Microrregião: Valença do Piauí
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Novo Santo Antônio
+   Microrregião: Campo Maior
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Oeiras
+   Microrregião: Picos
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Olho D'Água do Piauí
+   Microrregião: Médio Parnaíba Piauiense
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Padre Marcos
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Paes Landim
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Pajeú do Piauí
+   Microrregião: São Raimundo Nonato
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Palmeira do Piauí
+   Microrregião: Alto Médio Gurguéia
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Palmeirais
+   Microrregião: Médio Parnaíba Piauiense
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Paquetá
+   Microrregião: Picos
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Parnaguá
+   Microrregião: Chapadas do Extremo Sul Piauiense
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Parnaíba
+   Microrregião: Litoral Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Passagem Franca do Piauí
+   Microrregião: Médio Parnaíba Piauiense
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Patos do Piauí
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Pau D'Arco do Piauí
+   Microrregião: Teresina
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Paulistana
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Pavussu
+   Microrregião: Floriano
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Pedro II
+   Microrregião: Campo Maior
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Pedro Laurentino
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Picos
+   Microrregião: Picos
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Pimenteiras
+   Microrregião: Valença do Piauí
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Pio IX
+   Microrregião: Pio IX
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Piracuruca
+   Microrregião: Litoral Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Piripiri
+   Microrregião: Baixo Parnaíba Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Porto
+   Microrregião: Baixo Parnaíba Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: Porto Alegre do Piauí
+   Microrregião: Bertolínia
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Prata do Piauí
+   Microrregião: Valença do Piauí
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Queimada Nova
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Redenção do Gurguéia
+   Microrregião: Alto Médio Gurguéia
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Regeneração
+   Microrregião: Médio Parnaíba Piauiense
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Riacho Frio
+   Microrregião: Chapadas do Extremo Sul Piauiense
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Ribeira do Piauí
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Ribeiro Gonçalves
+   Microrregião: Alto Parnaíba Piauiense
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Rio Grande do Piauí
+   Microrregião: Floriano
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Santa Cruz do Piauí
+   Microrregião: Picos
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Santa Cruz dos Milagres
+   Microrregião: Valença do Piauí
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Santa Filomena
+   Microrregião: Alto Parnaíba Piauiense
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Santa Luz
+   Microrregião: Alto Médio Gurguéia
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Santa Rosa do Piauí
+   Microrregião: Picos
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Santana do Piauí
+   Microrregião: Picos
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Santo Antônio de Lisboa
+   Microrregião: Pio IX
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Santo Antônio dos Milagres
+   Microrregião: Médio Parnaíba Piauiense
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Santo Inácio do Piauí
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: São Braz do Piauí
+   Microrregião: São Raimundo Nonato
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: São Félix do Piauí
+   Microrregião: Valença do Piauí
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: São Francisco de Assis do Piauí
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: São Francisco do Piauí
+   Microrregião: Floriano
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: São Gonçalo do Gurguéia
+   Microrregião: Alto Médio Gurguéia
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: São Gonçalo do Piauí
+   Microrregião: Médio Parnaíba Piauiense
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: São João da Canabrava
+   Microrregião: Picos
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: São João da Fronteira
+   Microrregião: Litoral Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: São João da Serra
+   Microrregião: Campo Maior
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: São João da Varjota
+   Microrregião: Picos
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: São João do Arraial
+   Microrregião: Baixo Parnaíba Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: São João do Piauí
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: São José do Divino
+   Microrregião: Litoral Piauiense
+   Mesorregião: Norte Piauiense
+------------------------------
+📍 Município: São José do Peixe
+   Microrregião: Floriano
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: São José do Piauí
+   Microrregião: Picos
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: São Julião
+   Microrregião: Pio IX
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: São Lourenço do Piauí
+   Microrregião: São Raimundo Nonato
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: São Luis do Piauí
+   Microrregião: Picos
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: São Miguel da Baixa Grande
+   Microrregião: Valença do Piauí
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: São Miguel do Fidalgo
+   Microrregião: Floriano
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: São Miguel do Tapuio
+   Microrregião: Campo Maior
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: São Pedro do Piauí
+   Microrregião: Médio Parnaíba Piauiense
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: São Raimundo Nonato
+   Microrregião: São Raimundo Nonato
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Sebastião Barros
+   Microrregião: Chapadas do Extremo Sul Piauiense
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Sebastião Leal
+   Microrregião: Bertolínia
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Sigefredo Pacheco
+   Microrregião: Campo Maior
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Simões
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Simplício Mendes
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Socorro do Piauí
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Sussuapara
+   Microrregião: Picos
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Tamboril do Piauí
+   Microrregião: São Raimundo Nonato
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Tanque do Piauí
+   Microrregião: Picos
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Teresina
+   Microrregião: Teresina
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: União
+   Microrregião: Teresina
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Uruçuí
+   Microrregião: Alto Parnaíba Piauiense
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Valença do Piauí
+   Microrregião: Valença do Piauí
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Várzea Branca
+   Microrregião: São Raimundo Nonato
+   Mesorregião: Sudoeste Piauiense
+------------------------------
+📍 Município: Várzea Grande
+   Microrregião: Valença do Piauí
+   Mesorregião: Centro-Norte Piauiense
+------------------------------
+📍 Município: Vera Mendes
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Vila Nova do Piauí
+   Microrregião: Alto Médio Canindé
+   Mesorregião: Sudeste Piauiense
+------------------------------
+📍 Município: Wall Ferraz
+   Microrregião: Picos
+   Mesorregião: Sudeste Piauiense
+------------------------------

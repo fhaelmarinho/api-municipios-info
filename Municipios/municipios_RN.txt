@@ -1,0 +1,668 @@
+📍 Município: Acari
+   Microrregião: Seridó Oriental
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Açu
+   Microrregião: Vale do Açu
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Afonso Bezerra
+   Microrregião: Angicos
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Água Nova
+   Microrregião: Serra de São Miguel
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Alexandria
+   Microrregião: Pau dos Ferros
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Almino Afonso
+   Microrregião: Umarizal
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Alto do Rodrigues
+   Microrregião: Vale do Açu
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Angicos
+   Microrregião: Angicos
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Antônio Martins
+   Microrregião: Umarizal
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Apodi
+   Microrregião: Chapada do Apodi
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Areia Branca
+   Microrregião: Mossoró
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Arês
+   Microrregião: Litoral Sul
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Baía Formosa
+   Microrregião: Litoral Sul
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Baraúna
+   Microrregião: Mossoró
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Barcelona
+   Microrregião: Borborema Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Bento Fernandes
+   Microrregião: Baixa Verde
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Bodó
+   Microrregião: Serra de Santana
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Bom Jesus
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Brejinho
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Caiçara do Norte
+   Microrregião: Macau
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Caiçara do Rio do Vento
+   Microrregião: Angicos
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Caicó
+   Microrregião: Seridó Ocidental
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Campo Grande
+   Microrregião: Médio Oeste
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Campo Redondo
+   Microrregião: Borborema Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Canguaretama
+   Microrregião: Litoral Sul
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Caraúbas
+   Microrregião: Chapada do Apodi
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Carnaúba dos Dantas
+   Microrregião: Seridó Oriental
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Carnaubais
+   Microrregião: Vale do Açu
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Ceará-Mirim
+   Microrregião: Macaíba
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Cerro Corá
+   Microrregião: Serra de Santana
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Coronel Ezequiel
+   Microrregião: Borborema Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Coronel João Pessoa
+   Microrregião: Serra de São Miguel
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Cruzeta
+   Microrregião: Seridó Oriental
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Currais Novos
+   Microrregião: Seridó Oriental
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Doutor Severiano
+   Microrregião: Serra de São Miguel
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Encanto
+   Microrregião: Serra de São Miguel
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Equador
+   Microrregião: Seridó Oriental
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Espírito Santo
+   Microrregião: Litoral Sul
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Extremoz
+   Microrregião: Natal
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Felipe Guerra
+   Microrregião: Chapada do Apodi
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Fernando Pedroza
+   Microrregião: Angicos
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Florânia
+   Microrregião: Serra de Santana
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Francisco Dantas
+   Microrregião: Pau dos Ferros
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Frutuoso Gomes
+   Microrregião: Umarizal
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Galinhos
+   Microrregião: Macau
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Goianinha
+   Microrregião: Litoral Sul
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Governador Dix-Sept Rosado
+   Microrregião: Chapada do Apodi
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Grossos
+   Microrregião: Mossoró
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Guamaré
+   Microrregião: Macau
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Ielmo Marinho
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Ipanguaçu
+   Microrregião: Vale do Açu
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Ipueira
+   Microrregião: Seridó Ocidental
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Itajá
+   Microrregião: Vale do Açu
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Itaú
+   Microrregião: Pau dos Ferros
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Jaçanã
+   Microrregião: Borborema Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Jandaíra
+   Microrregião: Baixa Verde
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Janduís
+   Microrregião: Médio Oeste
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Januário Cicco
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Japi
+   Microrregião: Borborema Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Jardim de Angicos
+   Microrregião: Angicos
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Jardim de Piranhas
+   Microrregião: Seridó Ocidental
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Jardim do Seridó
+   Microrregião: Seridó Oriental
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: João Câmara
+   Microrregião: Baixa Verde
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: João Dias
+   Microrregião: Umarizal
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: José da Penha
+   Microrregião: Pau dos Ferros
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Jucurutu
+   Microrregião: Vale do Açu
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Jundiá
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Lagoa d'Anta
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Lagoa de Pedras
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Lagoa de Velhos
+   Microrregião: Borborema Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Lagoa Nova
+   Microrregião: Serra de Santana
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Lagoa Salgada
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Lajes
+   Microrregião: Angicos
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Lajes Pintadas
+   Microrregião: Borborema Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Lucrécia
+   Microrregião: Umarizal
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Luís Gomes
+   Microrregião: Serra de São Miguel
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Macaíba
+   Microrregião: Macaíba
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Macau
+   Microrregião: Macau
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Major Sales
+   Microrregião: Serra de São Miguel
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Marcelino Vieira
+   Microrregião: Pau dos Ferros
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Martins
+   Microrregião: Umarizal
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Maxaranguape
+   Microrregião: Litoral Nordeste
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Messias Targino
+   Microrregião: Médio Oeste
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Montanhas
+   Microrregião: Litoral Sul
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Monte Alegre
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Monte das Gameleiras
+   Microrregião: Borborema Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Mossoró
+   Microrregião: Mossoró
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Natal
+   Microrregião: Natal
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Nísia Floresta
+   Microrregião: Macaíba
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Nova Cruz
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Olho d'Água do Borges
+   Microrregião: Umarizal
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Ouro Branco
+   Microrregião: Seridó Oriental
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Paraná
+   Microrregião: Pau dos Ferros
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Paraú
+   Microrregião: Médio Oeste
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Parazinho
+   Microrregião: Baixa Verde
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Parelhas
+   Microrregião: Seridó Oriental
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Parnamirim
+   Microrregião: Natal
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Passa e Fica
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Passagem
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Patu
+   Microrregião: Umarizal
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Pau dos Ferros
+   Microrregião: Pau dos Ferros
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Pedra Grande
+   Microrregião: Litoral Nordeste
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Pedra Preta
+   Microrregião: Angicos
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Pedro Avelino
+   Microrregião: Angicos
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Pedro Velho
+   Microrregião: Litoral Sul
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Pendências
+   Microrregião: Vale do Açu
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Pilões
+   Microrregião: Pau dos Ferros
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Poço Branco
+   Microrregião: Baixa Verde
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Portalegre
+   Microrregião: Pau dos Ferros
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Porto do Mangue
+   Microrregião: Vale do Açu
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Pureza
+   Microrregião: Litoral Nordeste
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Rafael Fernandes
+   Microrregião: Pau dos Ferros
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Rafael Godeiro
+   Microrregião: Umarizal
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Riacho da Cruz
+   Microrregião: Pau dos Ferros
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Riacho de Santana
+   Microrregião: Serra de São Miguel
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Riachuelo
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Rio do Fogo
+   Microrregião: Litoral Nordeste
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Rodolfo Fernandes
+   Microrregião: Pau dos Ferros
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Ruy Barbosa
+   Microrregião: Borborema Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Santa Cruz
+   Microrregião: Borborema Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Santa Maria
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Santana do Matos
+   Microrregião: Serra de Santana
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Santana do Seridó
+   Microrregião: Seridó Oriental
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Santo Antônio
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: São Bento do Norte
+   Microrregião: Macau
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: São Bento do Trairí
+   Microrregião: Borborema Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: São Fernando
+   Microrregião: Seridó Ocidental
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: São Francisco do Oeste
+   Microrregião: Pau dos Ferros
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: São Gonçalo do Amarante
+   Microrregião: Macaíba
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: São João do Sabugi
+   Microrregião: Seridó Ocidental
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: São José de Mipibu
+   Microrregião: Macaíba
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: São José do Campestre
+   Microrregião: Borborema Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: São José do Seridó
+   Microrregião: Seridó Oriental
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: São Miguel
+   Microrregião: Serra de São Miguel
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: São Miguel do Gostoso
+   Microrregião: Litoral Nordeste
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: São Paulo do Potengi
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: São Pedro
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: São Rafael
+   Microrregião: Vale do Açu
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: São Tomé
+   Microrregião: Borborema Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: São Vicente
+   Microrregião: Serra de Santana
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Senador Elói de Souza
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Senador Georgino Avelino
+   Microrregião: Litoral Sul
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Serra Caiada
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Serra de São Bento
+   Microrregião: Borborema Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Serra do Mel
+   Microrregião: Mossoró
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Serra Negra do Norte
+   Microrregião: Seridó Ocidental
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Serrinha
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Serrinha dos Pintos
+   Microrregião: Umarizal
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Severiano Melo
+   Microrregião: Pau dos Ferros
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Sítio Novo
+   Microrregião: Borborema Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Taboleiro Grande
+   Microrregião: Pau dos Ferros
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Taipu
+   Microrregião: Litoral Nordeste
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Tangará
+   Microrregião: Borborema Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Tenente Ananias
+   Microrregião: Pau dos Ferros
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Tenente Laurentino Cruz
+   Microrregião: Serra de Santana
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Tibau
+   Microrregião: Mossoró
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Tibau do Sul
+   Microrregião: Litoral Sul
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Timbaúba dos Batistas
+   Microrregião: Seridó Ocidental
+   Mesorregião: Central Potiguar
+------------------------------
+📍 Município: Touros
+   Microrregião: Litoral Nordeste
+   Mesorregião: Leste Potiguar
+------------------------------
+📍 Município: Triunfo Potiguar
+   Microrregião: Médio Oeste
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Umarizal
+   Microrregião: Umarizal
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Upanema
+   Microrregião: Médio Oeste
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Várzea
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Venha-Ver
+   Microrregião: Serra de São Miguel
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Vera Cruz
+   Microrregião: Agreste Potiguar
+   Mesorregião: Agreste Potiguar
+------------------------------
+📍 Município: Viçosa
+   Microrregião: Pau dos Ferros
+   Mesorregião: Oeste Potiguar
+------------------------------
+📍 Município: Vila Flor
+   Microrregião: Litoral Sul
+   Mesorregião: Leste Potiguar
+------------------------------

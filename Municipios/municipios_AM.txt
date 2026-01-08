@@ -1,0 +1,248 @@
+📍 Município: Alvarães
+   Microrregião: Tefé
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Amaturá
+   Microrregião: Alto Solimões
+   Mesorregião: Sudoeste Amazonense
+------------------------------
+📍 Município: Anamã
+   Microrregião: Coari
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Anori
+   Microrregião: Coari
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Apuí
+   Microrregião: Madeira
+   Mesorregião: Sul Amazonense
+------------------------------
+📍 Município: Atalaia do Norte
+   Microrregião: Alto Solimões
+   Mesorregião: Sudoeste Amazonense
+------------------------------
+📍 Município: Autazes
+   Microrregião: Manaus
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Barcelos
+   Microrregião: Rio Negro
+   Mesorregião: Norte Amazonense
+------------------------------
+📍 Município: Barreirinha
+   Microrregião: Parintins
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Benjamin Constant
+   Microrregião: Alto Solimões
+   Mesorregião: Sudoeste Amazonense
+------------------------------
+📍 Município: Beruri
+   Microrregião: Coari
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Boa Vista do Ramos
+   Microrregião: Parintins
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Boca do Acre
+   Microrregião: Boca do Acre
+   Mesorregião: Sul Amazonense
+------------------------------
+📍 Município: Borba
+   Microrregião: Madeira
+   Mesorregião: Sul Amazonense
+------------------------------
+📍 Município: Caapiranga
+   Microrregião: Coari
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Canutama
+   Microrregião: Purus
+   Mesorregião: Sul Amazonense
+------------------------------
+📍 Município: Carauari
+   Microrregião: Juruá
+   Mesorregião: Sudoeste Amazonense
+------------------------------
+📍 Município: Careiro
+   Microrregião: Manaus
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Careiro da Várzea
+   Microrregião: Manaus
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Coari
+   Microrregião: Coari
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Codajás
+   Microrregião: Coari
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Eirunepé
+   Microrregião: Juruá
+   Mesorregião: Sudoeste Amazonense
+------------------------------
+📍 Município: Envira
+   Microrregião: Juruá
+   Mesorregião: Sudoeste Amazonense
+------------------------------
+📍 Município: Fonte Boa
+   Microrregião: Alto Solimões
+   Mesorregião: Sudoeste Amazonense
+------------------------------
+📍 Município: Guajará
+   Microrregião: Juruá
+   Mesorregião: Sudoeste Amazonense
+------------------------------
+📍 Município: Humaitá
+   Microrregião: Madeira
+   Mesorregião: Sul Amazonense
+------------------------------
+📍 Município: Ipixuna
+   Microrregião: Juruá
+   Mesorregião: Sudoeste Amazonense
+------------------------------
+📍 Município: Iranduba
+   Microrregião: Manaus
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Itacoatiara
+   Microrregião: Itacoatiara
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Itamarati
+   Microrregião: Juruá
+   Mesorregião: Sudoeste Amazonense
+------------------------------
+📍 Município: Itapiranga
+   Microrregião: Itacoatiara
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Japurá
+   Microrregião: Japurá
+   Mesorregião: Norte Amazonense
+------------------------------
+📍 Município: Juruá
+   Microrregião: Juruá
+   Mesorregião: Sudoeste Amazonense
+------------------------------
+📍 Município: Jutaí
+   Microrregião: Alto Solimões
+   Mesorregião: Sudoeste Amazonense
+------------------------------
+📍 Município: Lábrea
+   Microrregião: Purus
+   Mesorregião: Sul Amazonense
+------------------------------
+📍 Município: Manacapuru
+   Microrregião: Manaus
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Manaquiri
+   Microrregião: Manaus
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Manaus
+   Microrregião: Manaus
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Manicoré
+   Microrregião: Madeira
+   Mesorregião: Sul Amazonense
+------------------------------
+📍 Município: Maraã
+   Microrregião: Japurá
+   Mesorregião: Norte Amazonense
+------------------------------
+📍 Município: Maués
+   Microrregião: Parintins
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Nhamundá
+   Microrregião: Parintins
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Nova Olinda do Norte
+   Microrregião: Itacoatiara
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Novo Airão
+   Microrregião: Rio Negro
+   Mesorregião: Norte Amazonense
+------------------------------
+📍 Município: Novo Aripuanã
+   Microrregião: Madeira
+   Mesorregião: Sul Amazonense
+------------------------------
+📍 Município: Parintins
+   Microrregião: Parintins
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Pauini
+   Microrregião: Boca do Acre
+   Mesorregião: Sul Amazonense
+------------------------------
+📍 Município: Presidente Figueiredo
+   Microrregião: Rio Preto da Eva
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Rio Preto da Eva
+   Microrregião: Rio Preto da Eva
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Santa Isabel do Rio Negro
+   Microrregião: Rio Negro
+   Mesorregião: Norte Amazonense
+------------------------------
+📍 Município: Santo Antônio do Içá
+   Microrregião: Alto Solimões
+   Mesorregião: Sudoeste Amazonense
+------------------------------
+📍 Município: São Gabriel da Cachoeira
+   Microrregião: Rio Negro
+   Mesorregião: Norte Amazonense
+------------------------------
+📍 Município: São Paulo de Olivença
+   Microrregião: Alto Solimões
+   Mesorregião: Sudoeste Amazonense
+------------------------------
+📍 Município: São Sebastião do Uatumã
+   Microrregião: Parintins
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Silves
+   Microrregião: Itacoatiara
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Tabatinga
+   Microrregião: Alto Solimões
+   Mesorregião: Sudoeste Amazonense
+------------------------------
+📍 Município: Tapauá
+   Microrregião: Purus
+   Mesorregião: Sul Amazonense
+------------------------------
+📍 Município: Tefé
+   Microrregião: Tefé
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Tonantins
+   Microrregião: Alto Solimões
+   Mesorregião: Sudoeste Amazonense
+------------------------------
+📍 Município: Uarini
+   Microrregião: Tefé
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Urucará
+   Microrregião: Parintins
+   Mesorregião: Centro Amazonense
+------------------------------
+📍 Município: Urucurituba
+   Microrregião: Itacoatiara
+   Mesorregião: Centro Amazonense
+------------------------------

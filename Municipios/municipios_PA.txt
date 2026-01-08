@@ -1,0 +1,576 @@
+📍 Município: Abaetetuba
+   Microrregião: Cametá
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Abel Figueiredo
+   Microrregião: Paragominas
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Acará
+   Microrregião: Tomé-Açu
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Afuá
+   Microrregião: Furos de Breves
+   Mesorregião: Marajó
+------------------------------
+📍 Município: Água Azul do Norte
+   Microrregião: Parauapebas
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Alenquer
+   Microrregião: Santarém
+   Mesorregião: Baixo Amazonas
+------------------------------
+📍 Município: Almeirim
+   Microrregião: Almeirim
+   Mesorregião: Baixo Amazonas
+------------------------------
+📍 Município: Altamira
+   Microrregião: Altamira
+   Mesorregião: Sudoeste Paraense
+------------------------------
+📍 Município: Anajás
+   Microrregião: Furos de Breves
+   Mesorregião: Marajó
+------------------------------
+📍 Município: Ananindeua
+   Microrregião: Belém
+   Mesorregião: Metropolitana de Belém
+------------------------------
+📍 Município: Anapu
+   Microrregião: Altamira
+   Mesorregião: Sudoeste Paraense
+------------------------------
+📍 Município: Augusto Corrêa
+   Microrregião: Bragantina
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Aurora do Pará
+   Microrregião: Guamá
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Aveiro
+   Microrregião: Itaituba
+   Mesorregião: Sudoeste Paraense
+------------------------------
+📍 Município: Bagre
+   Microrregião: Portel
+   Mesorregião: Marajó
+------------------------------
+📍 Município: Baião
+   Microrregião: Cametá
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Bannach
+   Microrregião: São Félix do Xingu
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Barcarena
+   Microrregião: Belém
+   Mesorregião: Metropolitana de Belém
+------------------------------
+📍 Município: Belém
+   Microrregião: Belém
+   Mesorregião: Metropolitana de Belém
+------------------------------
+📍 Município: Belterra
+   Microrregião: Santarém
+   Mesorregião: Baixo Amazonas
+------------------------------
+📍 Município: Benevides
+   Microrregião: Belém
+   Mesorregião: Metropolitana de Belém
+------------------------------
+📍 Município: Bom Jesus do Tocantins
+   Microrregião: Paragominas
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Bonito
+   Microrregião: Bragantina
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Bragança
+   Microrregião: Bragantina
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Brasil Novo
+   Microrregião: Altamira
+   Mesorregião: Sudoeste Paraense
+------------------------------
+📍 Município: Brejo Grande do Araguaia
+   Microrregião: Marabá
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Breu Branco
+   Microrregião: Tucuruí
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Breves
+   Microrregião: Furos de Breves
+   Mesorregião: Marajó
+------------------------------
+📍 Município: Bujaru
+   Microrregião: Castanhal
+   Mesorregião: Metropolitana de Belém
+------------------------------
+📍 Município: Cachoeira do Arari
+   Microrregião: Arari
+   Mesorregião: Marajó
+------------------------------
+📍 Município: Cachoeira do Piriá
+   Microrregião: Guamá
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Cametá
+   Microrregião: Cametá
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Canaã dos Carajás
+   Microrregião: Parauapebas
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Capanema
+   Microrregião: Bragantina
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Capitão Poço
+   Microrregião: Guamá
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Castanhal
+   Microrregião: Castanhal
+   Mesorregião: Metropolitana de Belém
+------------------------------
+📍 Município: Chaves
+   Microrregião: Arari
+   Mesorregião: Marajó
+------------------------------
+📍 Município: Colares
+   Microrregião: Salgado
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Conceição do Araguaia
+   Microrregião: Conceição do Araguaia
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Concórdia do Pará
+   Microrregião: Tomé-Açu
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Cumaru do Norte
+   Microrregião: São Félix do Xingu
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Curionópolis
+   Microrregião: Parauapebas
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Curralinho
+   Microrregião: Furos de Breves
+   Mesorregião: Marajó
+------------------------------
+📍 Município: Curuá
+   Microrregião: Santarém
+   Mesorregião: Baixo Amazonas
+------------------------------
+📍 Município: Curuçá
+   Microrregião: Salgado
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Dom Eliseu
+   Microrregião: Paragominas
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Eldorado do Carajás
+   Microrregião: Parauapebas
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Faro
+   Microrregião: Óbidos
+   Mesorregião: Baixo Amazonas
+------------------------------
+📍 Município: Floresta do Araguaia
+   Microrregião: Conceição do Araguaia
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Garrafão do Norte
+   Microrregião: Guamá
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Goianésia do Pará
+   Microrregião: Paragominas
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Gurupá
+   Microrregião: Portel
+   Mesorregião: Marajó
+------------------------------
+📍 Município: Igarapé-Açu
+   Microrregião: Bragantina
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Igarapé-Miri
+   Microrregião: Cametá
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Inhangapi
+   Microrregião: Castanhal
+   Mesorregião: Metropolitana de Belém
+------------------------------
+📍 Município: Ipixuna do Pará
+   Microrregião: Guamá
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Irituia
+   Microrregião: Guamá
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Itaituba
+   Microrregião: Itaituba
+   Mesorregião: Sudoeste Paraense
+------------------------------
+📍 Município: Itupiranga
+   Microrregião: Tucuruí
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Jacareacanga
+   Microrregião: Itaituba
+   Mesorregião: Sudoeste Paraense
+------------------------------
+📍 Município: Jacundá
+   Microrregião: Tucuruí
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Juruti
+   Microrregião: Óbidos
+   Mesorregião: Baixo Amazonas
+------------------------------
+📍 Município: Limoeiro do Ajuru
+   Microrregião: Cametá
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Mãe do Rio
+   Microrregião: Guamá
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Magalhães Barata
+   Microrregião: Salgado
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Marabá
+   Microrregião: Marabá
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Maracanã
+   Microrregião: Salgado
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Marapanim
+   Microrregião: Salgado
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Marituba
+   Microrregião: Belém
+   Mesorregião: Metropolitana de Belém
+------------------------------
+📍 Município: Medicilândia
+   Microrregião: Altamira
+   Mesorregião: Sudoeste Paraense
+------------------------------
+📍 Município: Melgaço
+   Microrregião: Portel
+   Mesorregião: Marajó
+------------------------------
+📍 Município: Mocajuba
+   Microrregião: Cametá
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Moju
+   Microrregião: Tomé-Açu
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Mojuí dos Campos
+   Microrregião: Santarém
+   Mesorregião: Baixo Amazonas
+------------------------------
+📍 Município: Monte Alegre
+   Microrregião: Santarém
+   Mesorregião: Baixo Amazonas
+------------------------------
+📍 Município: Muaná
+   Microrregião: Arari
+   Mesorregião: Marajó
+------------------------------
+📍 Município: Nova Esperança do Piriá
+   Microrregião: Guamá
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Nova Ipixuna
+   Microrregião: Tucuruí
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Nova Timboteua
+   Microrregião: Bragantina
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Novo Progresso
+   Microrregião: Itaituba
+   Mesorregião: Sudoeste Paraense
+------------------------------
+📍 Município: Novo Repartimento
+   Microrregião: Tucuruí
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Óbidos
+   Microrregião: Óbidos
+   Mesorregião: Baixo Amazonas
+------------------------------
+📍 Município: Oeiras do Pará
+   Microrregião: Cametá
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Oriximiná
+   Microrregião: Óbidos
+   Mesorregião: Baixo Amazonas
+------------------------------
+📍 Município: Ourém
+   Microrregião: Guamá
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Ourilândia do Norte
+   Microrregião: São Félix do Xingu
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Pacajá
+   Microrregião: Altamira
+   Mesorregião: Sudoeste Paraense
+------------------------------
+📍 Município: Palestina do Pará
+   Microrregião: Marabá
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Paragominas
+   Microrregião: Paragominas
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Parauapebas
+   Microrregião: Parauapebas
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Pau D'Arco
+   Microrregião: Redenção
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Peixe-Boi
+   Microrregião: Bragantina
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Piçarra
+   Microrregião: Redenção
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Placas
+   Microrregião: Santarém
+   Mesorregião: Baixo Amazonas
+------------------------------
+📍 Município: Ponta de Pedras
+   Microrregião: Arari
+   Mesorregião: Marajó
+------------------------------
+📍 Município: Portel
+   Microrregião: Portel
+   Mesorregião: Marajó
+------------------------------
+📍 Município: Porto de Moz
+   Microrregião: Almeirim
+   Mesorregião: Baixo Amazonas
+------------------------------
+📍 Município: Prainha
+   Microrregião: Santarém
+   Mesorregião: Baixo Amazonas
+------------------------------
+📍 Município: Primavera
+   Microrregião: Bragantina
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Quatipuru
+   Microrregião: Bragantina
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Redenção
+   Microrregião: Redenção
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Rio Maria
+   Microrregião: Redenção
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Rondon do Pará
+   Microrregião: Paragominas
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Rurópolis
+   Microrregião: Itaituba
+   Mesorregião: Sudoeste Paraense
+------------------------------
+📍 Município: Salinópolis
+   Microrregião: Salgado
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Salvaterra
+   Microrregião: Arari
+   Mesorregião: Marajó
+------------------------------
+📍 Município: Santa Bárbara do Pará
+   Microrregião: Belém
+   Mesorregião: Metropolitana de Belém
+------------------------------
+📍 Município: Santa Cruz do Arari
+   Microrregião: Arari
+   Mesorregião: Marajó
+------------------------------
+📍 Município: Santa Izabel do Pará
+   Microrregião: Castanhal
+   Mesorregião: Metropolitana de Belém
+------------------------------
+📍 Município: Santa Luzia do Pará
+   Microrregião: Guamá
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Santa Maria das Barreiras
+   Microrregião: Conceição do Araguaia
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Santa Maria do Pará
+   Microrregião: Bragantina
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Santana do Araguaia
+   Microrregião: Conceição do Araguaia
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Santarém
+   Microrregião: Santarém
+   Mesorregião: Baixo Amazonas
+------------------------------
+📍 Município: Santarém Novo
+   Microrregião: Bragantina
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Santo Antônio do Tauá
+   Microrregião: Castanhal
+   Mesorregião: Metropolitana de Belém
+------------------------------
+📍 Município: São Caetano de Odivelas
+   Microrregião: Salgado
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: São Domingos do Araguaia
+   Microrregião: Marabá
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: São Domingos do Capim
+   Microrregião: Guamá
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: São Félix do Xingu
+   Microrregião: São Félix do Xingu
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: São Francisco do Pará
+   Microrregião: Bragantina
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: São Geraldo do Araguaia
+   Microrregião: Redenção
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: São João da Ponta
+   Microrregião: Salgado
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: São João de Pirabas
+   Microrregião: Salgado
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: São João do Araguaia
+   Microrregião: Marabá
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: São Miguel do Guamá
+   Microrregião: Guamá
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: São Sebastião da Boa Vista
+   Microrregião: Furos de Breves
+   Mesorregião: Marajó
+------------------------------
+📍 Município: Sapucaia
+   Microrregião: Redenção
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Senador José Porfírio
+   Microrregião: Altamira
+   Mesorregião: Sudoeste Paraense
+------------------------------
+📍 Município: Soure
+   Microrregião: Arari
+   Mesorregião: Marajó
+------------------------------
+📍 Município: Tailândia
+   Microrregião: Tomé-Açu
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Terra Alta
+   Microrregião: Salgado
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Terra Santa
+   Microrregião: Óbidos
+   Mesorregião: Baixo Amazonas
+------------------------------
+📍 Município: Tomé-Açu
+   Microrregião: Tomé-Açu
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Tracuateua
+   Microrregião: Bragantina
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Trairão
+   Microrregião: Itaituba
+   Mesorregião: Sudoeste Paraense
+------------------------------
+📍 Município: Tucumã
+   Microrregião: São Félix do Xingu
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Tucuruí
+   Microrregião: Tucuruí
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Ulianópolis
+   Microrregião: Paragominas
+   Mesorregião: Sudeste Paraense
+------------------------------
+📍 Município: Uruará
+   Microrregião: Altamira
+   Mesorregião: Sudoeste Paraense
+------------------------------
+📍 Município: Vigia
+   Microrregião: Salgado
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Viseu
+   Microrregião: Guamá
+   Mesorregião: Nordeste Paraense
+------------------------------
+📍 Município: Vitória do Xingu
+   Microrregião: Altamira
+   Mesorregião: Sudoeste Paraense
+------------------------------
+📍 Município: Xinguara
+   Microrregião: Redenção
+   Mesorregião: Sudeste Paraense
+------------------------------

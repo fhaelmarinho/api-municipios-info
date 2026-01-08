@@ -1,0 +1,68 @@
+📍 Município: Acorizal
+   Microrregião: Rosário Oeste
+   Mesorregião: Centro-Sul Mato-grossense
+------------------------------
+📍 Município: Água Boa
+   Microrregião: Canarana
+   Mesorregião: Nordeste Mato-grossense
+------------------------------
+📍 Município: Alta Floresta
+   Microrregião: Alta Floresta
+   Mesorregião: Norte Mato-grossense
+------------------------------
+📍 Município: Alto Araguaia
+   Microrregião: Alto Araguaia
+   Mesorregião: Sudeste Mato-grossense
+------------------------------
+📍 Município: Alto Boa Vista
+   Microrregião: Norte Araguaia
+   Mesorregião: Nordeste Mato-grossense
+------------------------------
+📍 Município: Alto Garças
+   Microrregião: Alto Araguaia
+   Mesorregião: Sudeste Mato-grossense
+------------------------------
+📍 Município: Alto Paraguai
+   Microrregião: Alto Paraguai
+   Mesorregião: Centro-Sul Mato-grossense
+------------------------------
+📍 Município: Alto Taquari
+   Microrregião: Alto Araguaia
+   Mesorregião: Sudeste Mato-grossense
+------------------------------
+📍 Município: Apiacás
+   Microrregião: Alta Floresta
+   Mesorregião: Norte Mato-grossense
+------------------------------
+📍 Município: Araguaiana
+   Microrregião: Médio Araguaia
+   Mesorregião: Nordeste Mato-grossense
+------------------------------
+📍 Município: Araguainha
+   Microrregião: Tesouro
+   Mesorregião: Sudeste Mato-grossense
+------------------------------
+📍 Município: Araputanga
+   Microrregião: Jauru
+   Mesorregião: Sudoeste Mato-grossense
+------------------------------
+📍 Município: Arenápolis
+   Microrregião: Alto Paraguai
+   Mesorregião: Centro-Sul Mato-grossense
+------------------------------
+📍 Município: Aripuanã
+   Microrregião: Aripuanã
+   Mesorregião: Norte Mato-grossense
+------------------------------
+📍 Município: Barão de Melgaço
+   Microrregião: Alto Pantanal
+   Mesorregião: Centro-Sul Mato-grossense
+------------------------------
+📍 Município: Barra do Bugres
+   Microrregião: Tangará da Serra
+   Mesorregião: Sudoeste Mato-grossense
+------------------------------
+📍 Município: Barra do Garças
+   Microrregião: Médio Araguaia
+   Mesorregião: Nordeste Mato-grossense
+------------------------------

@@ -1,0 +1,1180 @@
+📍 Município: Abdon Batista
+   Microrregião: Curitibanos
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Abelardo Luz
+   Microrregião: Xanxerê
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Agrolândia
+   Microrregião: Ituporanga
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Agronômica
+   Microrregião: Rio do Sul
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Água Doce
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Águas de Chapecó
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Águas Frias
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Águas Mornas
+   Microrregião: Tabuleiro
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: Alfredo Wagner
+   Microrregião: Tabuleiro
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: Alto Bela Vista
+   Microrregião: Concórdia
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Anchieta
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Angelina
+   Microrregião: Tijucas
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: Anita Garibaldi
+   Microrregião: Campos de Lages
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Anitápolis
+   Microrregião: Tabuleiro
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: Antônio Carlos
+   Microrregião: Florianópolis
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: Apiúna
+   Microrregião: Blumenau
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Arabutã
+   Microrregião: Concórdia
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Araquari
+   Microrregião: Joinville
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Araranguá
+   Microrregião: Araranguá
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Armazém
+   Microrregião: Tubarão
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Arroio Trinta
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Arvoredo
+   Microrregião: Concórdia
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Ascurra
+   Microrregião: Blumenau
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Atalanta
+   Microrregião: Ituporanga
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Aurora
+   Microrregião: Rio do Sul
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Balneário Arroio do Silva
+   Microrregião: Araranguá
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Balneário Barra do Sul
+   Microrregião: Joinville
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Balneário Camboriú
+   Microrregião: Itajaí
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Balneário Gaivota
+   Microrregião: Araranguá
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Balneário Piçarras
+   Microrregião: Itajaí
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Balneário Rincão
+   Microrregião: Criciúma
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Bandeirante
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Barra Bonita
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Barra Velha
+   Microrregião: Itajaí
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Bela Vista do Toldo
+   Microrregião: Canoinhas
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Belmonte
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Benedito Novo
+   Microrregião: Blumenau
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Biguaçu
+   Microrregião: Florianópolis
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: Blumenau
+   Microrregião: Blumenau
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Bocaina do Sul
+   Microrregião: Campos de Lages
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Bom Jardim da Serra
+   Microrregião: Campos de Lages
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Bom Jesus
+   Microrregião: Xanxerê
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Bom Jesus do Oeste
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Bom Retiro
+   Microrregião: Campos de Lages
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Bombinhas
+   Microrregião: Itajaí
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Botuverá
+   Microrregião: Blumenau
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Braço do Norte
+   Microrregião: Tubarão
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Braço do Trombudo
+   Microrregião: Rio do Sul
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Brunópolis
+   Microrregião: Curitibanos
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Brusque
+   Microrregião: Blumenau
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Caçador
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Caibi
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Calmon
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Camboriú
+   Microrregião: Itajaí
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Campo Alegre
+   Microrregião: São Bento do Sul
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Campo Belo do Sul
+   Microrregião: Campos de Lages
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Campo Erê
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Campos Novos
+   Microrregião: Curitibanos
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Canelinha
+   Microrregião: Tijucas
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: Canoinhas
+   Microrregião: Canoinhas
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Capão Alto
+   Microrregião: Campos de Lages
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Capinzal
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Capivari de Baixo
+   Microrregião: Tubarão
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Catanduvas
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Caxambu do Sul
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Celso Ramos
+   Microrregião: Campos de Lages
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Cerro Negro
+   Microrregião: Campos de Lages
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Chapadão do Lageado
+   Microrregião: Ituporanga
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Chapecó
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Cocal do Sul
+   Microrregião: Criciúma
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Concórdia
+   Microrregião: Concórdia
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Cordilheira Alta
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Coronel Freitas
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Coronel Martins
+   Microrregião: Xanxerê
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Correia Pinto
+   Microrregião: Campos de Lages
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Corupá
+   Microrregião: Joinville
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Criciúma
+   Microrregião: Criciúma
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Cunha Porã
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Cunhataí
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Curitibanos
+   Microrregião: Curitibanos
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Descanso
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Dionísio Cerqueira
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Dona Emma
+   Microrregião: Rio do Sul
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Doutor Pedrinho
+   Microrregião: Blumenau
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Entre Rios
+   Microrregião: Xanxerê
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Ermo
+   Microrregião: Araranguá
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Erval Velho
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Faxinal dos Guedes
+   Microrregião: Xanxerê
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Flor do Sertão
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Florianópolis
+   Microrregião: Florianópolis
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: Formosa do Sul
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Forquilhinha
+   Microrregião: Criciúma
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Fraiburgo
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Frei Rogério
+   Microrregião: Curitibanos
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Galvão
+   Microrregião: Xanxerê
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Garopaba
+   Microrregião: Tubarão
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Garuva
+   Microrregião: Joinville
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Gaspar
+   Microrregião: Blumenau
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Governador Celso Ramos
+   Microrregião: Florianópolis
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: Grão-Pará
+   Microrregião: Tubarão
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Gravatal
+   Microrregião: Tubarão
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Guabiruba
+   Microrregião: Blumenau
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Guaraciaba
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Guaramirim
+   Microrregião: Joinville
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Guarujá do Sul
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Guatambú
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Herval d'Oeste
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Ibiam
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Ibicaré
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Ibirama
+   Microrregião: Rio do Sul
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Içara
+   Microrregião: Criciúma
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Ilhota
+   Microrregião: Itajaí
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Imaruí
+   Microrregião: Tubarão
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Imbituba
+   Microrregião: Tubarão
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Imbuia
+   Microrregião: Ituporanga
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Indaial
+   Microrregião: Blumenau
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Iomerê
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Ipira
+   Microrregião: Concórdia
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Iporã do Oeste
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Ipuaçu
+   Microrregião: Xanxerê
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Ipumirim
+   Microrregião: Concórdia
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Iraceminha
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Irani
+   Microrregião: Concórdia
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Irati
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Irineópolis
+   Microrregião: Canoinhas
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Itá
+   Microrregião: Concórdia
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Itaiópolis
+   Microrregião: Canoinhas
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Itajaí
+   Microrregião: Itajaí
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Itapema
+   Microrregião: Itajaí
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Itapiranga
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Itapoá
+   Microrregião: Joinville
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Ituporanga
+   Microrregião: Ituporanga
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Jaborá
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Jacinto Machado
+   Microrregião: Araranguá
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Jaguaruna
+   Microrregião: Tubarão
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Jaraguá do Sul
+   Microrregião: Joinville
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Jardinópolis
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Joaçaba
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Joinville
+   Microrregião: Joinville
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: José Boiteux
+   Microrregião: Rio do Sul
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Jupiá
+   Microrregião: Xanxerê
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Lacerdópolis
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Lages
+   Microrregião: Campos de Lages
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Laguna
+   Microrregião: Tubarão
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Lajeado Grande
+   Microrregião: Xanxerê
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Laurentino
+   Microrregião: Rio do Sul
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Lauro Müller
+   Microrregião: Criciúma
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Lebon Régis
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Leoberto Leal
+   Microrregião: Tijucas
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: Lindóia do Sul
+   Microrregião: Concórdia
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Lontras
+   Microrregião: Rio do Sul
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Luiz Alves
+   Microrregião: Blumenau
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Luzerna
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Macieira
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Mafra
+   Microrregião: Canoinhas
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Major Gercino
+   Microrregião: Tijucas
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: Major Vieira
+   Microrregião: Canoinhas
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Maracajá
+   Microrregião: Araranguá
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Maravilha
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Marema
+   Microrregião: Xanxerê
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Massaranduba
+   Microrregião: Joinville
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Matos Costa
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Meleiro
+   Microrregião: Araranguá
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Mirim Doce
+   Microrregião: Rio do Sul
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Modelo
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Mondaí
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Monte Carlo
+   Microrregião: Curitibanos
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Monte Castelo
+   Microrregião: Canoinhas
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Morro da Fumaça
+   Microrregião: Criciúma
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Morro Grande
+   Microrregião: Araranguá
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Navegantes
+   Microrregião: Itajaí
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Nova Erechim
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Nova Itaberaba
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Nova Trento
+   Microrregião: Tijucas
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: Nova Veneza
+   Microrregião: Criciúma
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Novo Horizonte
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Orleans
+   Microrregião: Tubarão
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Otacílio Costa
+   Microrregião: Campos de Lages
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Ouro
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Ouro Verde
+   Microrregião: Xanxerê
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Paial
+   Microrregião: Concórdia
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Painel
+   Microrregião: Campos de Lages
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Palhoça
+   Microrregião: Florianópolis
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: Palma Sola
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Palmeira
+   Microrregião: Campos de Lages
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Palmitos
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Papanduva
+   Microrregião: Canoinhas
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Paraíso
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Passo de Torres
+   Microrregião: Araranguá
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Passos Maia
+   Microrregião: Xanxerê
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Paulo Lopes
+   Microrregião: Florianópolis
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: Pedras Grandes
+   Microrregião: Tubarão
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Penha
+   Microrregião: Itajaí
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Peritiba
+   Microrregião: Concórdia
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Pescaria Brava
+   Microrregião: Tubarão
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Petrolândia
+   Microrregião: Ituporanga
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Pinhalzinho
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Pinheiro Preto
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Piratuba
+   Microrregião: Concórdia
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Planalto Alegre
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Pomerode
+   Microrregião: Blumenau
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Ponte Alta
+   Microrregião: Curitibanos
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Ponte Alta do Norte
+   Microrregião: Curitibanos
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Ponte Serrada
+   Microrregião: Xanxerê
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Porto Belo
+   Microrregião: Itajaí
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Porto União
+   Microrregião: Canoinhas
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Pouso Redondo
+   Microrregião: Rio do Sul
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Praia Grande
+   Microrregião: Araranguá
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Presidente Castello Branco
+   Microrregião: Concórdia
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Presidente Getúlio
+   Microrregião: Rio do Sul
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Presidente Nereu
+   Microrregião: Rio do Sul
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Princesa
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Quilombo
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Rancho Queimado
+   Microrregião: Tabuleiro
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: Rio das Antas
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Rio do Campo
+   Microrregião: Rio do Sul
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Rio do Oeste
+   Microrregião: Rio do Sul
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Rio do Sul
+   Microrregião: Rio do Sul
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Rio dos Cedros
+   Microrregião: Blumenau
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Rio Fortuna
+   Microrregião: Tubarão
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Rio Negrinho
+   Microrregião: São Bento do Sul
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Rio Rufino
+   Microrregião: Campos de Lages
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Riqueza
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Rodeio
+   Microrregião: Blumenau
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Romelândia
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Salete
+   Microrregião: Rio do Sul
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Saltinho
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Salto Veloso
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Sangão
+   Microrregião: Tubarão
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Santa Cecília
+   Microrregião: Curitibanos
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Santa Helena
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Santa Rosa de Lima
+   Microrregião: Tubarão
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Santa Rosa do Sul
+   Microrregião: Araranguá
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Santa Terezinha
+   Microrregião: Canoinhas
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Santa Terezinha do Progresso
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Santiago do Sul
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Santo Amaro da Imperatriz
+   Microrregião: Florianópolis
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: São Bento do Sul
+   Microrregião: São Bento do Sul
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: São Bernardino
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: São Bonifácio
+   Microrregião: Tabuleiro
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: São Carlos
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: São Cristóvão do Sul
+   Microrregião: Curitibanos
+   Mesorregião: Serrana
+------------------------------
+📍 Município: São Domingos
+   Microrregião: Xanxerê
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: São Francisco do Sul
+   Microrregião: Joinville
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: São João Batista
+   Microrregião: Tijucas
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: São João do Itaperiú
+   Microrregião: Itajaí
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: São João do Oeste
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: São João do Sul
+   Microrregião: Araranguá
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: São Joaquim
+   Microrregião: Campos de Lages
+   Mesorregião: Serrana
+------------------------------
+📍 Município: São José
+   Microrregião: Florianópolis
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: São José do Cedro
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: São José do Cerrito
+   Microrregião: Campos de Lages
+   Mesorregião: Serrana
+------------------------------
+📍 Município: São Lourenço do Oeste
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: São Ludgero
+   Microrregião: Tubarão
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: São Martinho
+   Microrregião: Tubarão
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: São Miguel da Boa Vista
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: São Miguel do Oeste
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: São Pedro de Alcântara
+   Microrregião: Florianópolis
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: Saudades
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Schroeder
+   Microrregião: Joinville
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Seara
+   Microrregião: Concórdia
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Serra Alta
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Siderópolis
+   Microrregião: Criciúma
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Sombrio
+   Microrregião: Araranguá
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Sul Brasil
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Taió
+   Microrregião: Rio do Sul
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Tangará
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Tigrinhos
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Tijucas
+   Microrregião: Tijucas
+   Mesorregião: Grande Florianópolis
+------------------------------
+📍 Município: Timbé do Sul
+   Microrregião: Araranguá
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Timbó
+   Microrregião: Blumenau
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Timbó Grande
+   Microrregião: Canoinhas
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Três Barras
+   Microrregião: Canoinhas
+   Mesorregião: Norte Catarinense
+------------------------------
+📍 Município: Treviso
+   Microrregião: Criciúma
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Treze de Maio
+   Microrregião: Tubarão
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Treze Tílias
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Trombudo Central
+   Microrregião: Rio do Sul
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Tubarão
+   Microrregião: Tubarão
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Tunápolis
+   Microrregião: São Miguel do Oeste
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Turvo
+   Microrregião: Araranguá
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: União do Oeste
+   Microrregião: Chapecó
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Urubici
+   Microrregião: Campos de Lages
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Urupema
+   Microrregião: Campos de Lages
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Urussanga
+   Microrregião: Criciúma
+   Mesorregião: Sul Catarinense
+------------------------------
+📍 Município: Vargeão
+   Microrregião: Xanxerê
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Vargem
+   Microrregião: Curitibanos
+   Mesorregião: Serrana
+------------------------------
+📍 Município: Vargem Bonita
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Vidal Ramos
+   Microrregião: Ituporanga
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Videira
+   Microrregião: Joaçaba
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Vitor Meireles
+   Microrregião: Rio do Sul
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Witmarsum
+   Microrregião: Rio do Sul
+   Mesorregião: Vale do Itajaí
+------------------------------
+📍 Município: Xanxerê
+   Microrregião: Xanxerê
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Xavantina
+   Microrregião: Concórdia
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Xaxim
+   Microrregião: Xanxerê
+   Mesorregião: Oeste Catarinense
+------------------------------
+📍 Município: Zortéa
+   Microrregião: Curitibanos
+   Mesorregião: Serrana
+------------------------------

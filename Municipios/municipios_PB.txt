@@ -1,0 +1,892 @@
+📍 Município: Água Branca
+   Microrregião: Serra do Teixeira
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Aguiar
+   Microrregião: Piancó
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Alagoa Grande
+   Microrregião: Brejo Paraibano
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Alagoa Nova
+   Microrregião: Brejo Paraibano
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Alagoinha
+   Microrregião: Guarabira
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Alcantil
+   Microrregião: Cariri Oriental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Algodão de Jandaíra
+   Microrregião: Curimataú Ocidental
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Alhandra
+   Microrregião: Litoral Sul
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Amparo
+   Microrregião: Cariri Ocidental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Aparecida
+   Microrregião: Sousa
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Araçagi
+   Microrregião: Guarabira
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Arara
+   Microrregião: Curimataú Ocidental
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Araruna
+   Microrregião: Curimataú Oriental
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Areia
+   Microrregião: Brejo Paraibano
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Areia de Baraúnas
+   Microrregião: Patos
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Areial
+   Microrregião: Esperança
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Aroeiras
+   Microrregião: Umbuzeiro
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Assunção
+   Microrregião: Cariri Ocidental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Baía da Traição
+   Microrregião: Litoral Norte
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Bananeiras
+   Microrregião: Brejo Paraibano
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Baraúna
+   Microrregião: Seridó Oriental Paraibano
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Barra de Santa Rosa
+   Microrregião: Curimataú Ocidental
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Barra de Santana
+   Microrregião: Cariri Oriental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Barra de São Miguel
+   Microrregião: Cariri Oriental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Bayeux
+   Microrregião: João Pessoa
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Belém
+   Microrregião: Guarabira
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Belém do Brejo do Cruz
+   Microrregião: Catolé do Rocha
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Bernardino Batista
+   Microrregião: Cajazeiras
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Boa Ventura
+   Microrregião: Itaporanga
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Boa Vista
+   Microrregião: Campina Grande
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Bom Jesus
+   Microrregião: Cajazeiras
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Bom Sucesso
+   Microrregião: Catolé do Rocha
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Bonito de Santa Fé
+   Microrregião: Cajazeiras
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Boqueirão
+   Microrregião: Cariri Oriental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Borborema
+   Microrregião: Brejo Paraibano
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Brejo do Cruz
+   Microrregião: Catolé do Rocha
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Brejo dos Santos
+   Microrregião: Catolé do Rocha
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Caaporã
+   Microrregião: Litoral Sul
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Cabaceiras
+   Microrregião: Cariri Oriental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Cabedelo
+   Microrregião: João Pessoa
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Cachoeira dos Índios
+   Microrregião: Cajazeiras
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Cacimba de Areia
+   Microrregião: Patos
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Cacimba de Dentro
+   Microrregião: Curimataú Oriental
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Cacimbas
+   Microrregião: Serra do Teixeira
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Caiçara
+   Microrregião: Guarabira
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Cajazeiras
+   Microrregião: Cajazeiras
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Cajazeirinhas
+   Microrregião: Sousa
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Caldas Brandão
+   Microrregião: Itabaiana
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Camalaú
+   Microrregião: Cariri Ocidental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Campina Grande
+   Microrregião: Campina Grande
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Capim
+   Microrregião: Litoral Norte
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Caraúbas
+   Microrregião: Cariri Oriental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Carrapateira
+   Microrregião: Cajazeiras
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Casserengue
+   Microrregião: Curimataú Oriental
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Catingueira
+   Microrregião: Piancó
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Catolé do Rocha
+   Microrregião: Catolé do Rocha
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Caturité
+   Microrregião: Cariri Oriental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Conceição
+   Microrregião: Itaporanga
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Condado
+   Microrregião: Sousa
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Conde
+   Microrregião: João Pessoa
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Congo
+   Microrregião: Cariri Ocidental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Coremas
+   Microrregião: Piancó
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Coxixola
+   Microrregião: Cariri Ocidental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Cruz do Espírito Santo
+   Microrregião: Sapé
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Cubati
+   Microrregião: Seridó Oriental Paraibano
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Cuité
+   Microrregião: Curimataú Ocidental
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Cuité de Mamanguape
+   Microrregião: Litoral Norte
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Cuitegi
+   Microrregião: Guarabira
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Curral de Cima
+   Microrregião: Litoral Norte
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Curral Velho
+   Microrregião: Itaporanga
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Damião
+   Microrregião: Curimataú Ocidental
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Desterro
+   Microrregião: Serra do Teixeira
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Diamante
+   Microrregião: Itaporanga
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Dona Inês
+   Microrregião: Curimataú Oriental
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Duas Estradas
+   Microrregião: Guarabira
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Emas
+   Microrregião: Piancó
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Esperança
+   Microrregião: Esperança
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Fagundes
+   Microrregião: Campina Grande
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Frei Martinho
+   Microrregião: Seridó Oriental Paraibano
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Gado Bravo
+   Microrregião: Umbuzeiro
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Guarabira
+   Microrregião: Guarabira
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Gurinhém
+   Microrregião: Itabaiana
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Gurjão
+   Microrregião: Cariri Oriental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Ibiara
+   Microrregião: Itaporanga
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Igaracy
+   Microrregião: Piancó
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Imaculada
+   Microrregião: Serra do Teixeira
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Ingá
+   Microrregião: Itabaiana
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Itabaiana
+   Microrregião: Itabaiana
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Itaporanga
+   Microrregião: Itaporanga
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Itapororoca
+   Microrregião: Litoral Norte
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Itatuba
+   Microrregião: Itabaiana
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Jacaraú
+   Microrregião: Litoral Norte
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Jericó
+   Microrregião: Catolé do Rocha
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: João Pessoa
+   Microrregião: João Pessoa
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Joca Claudino
+   Microrregião: Cajazeiras
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Juarez Távora
+   Microrregião: Itabaiana
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Juazeirinho
+   Microrregião: Seridó Oriental Paraibano
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Junco do Seridó
+   Microrregião: Seridó Ocidental Paraibano
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Juripiranga
+   Microrregião: Sapé
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Juru
+   Microrregião: Serra do Teixeira
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Lagoa
+   Microrregião: Catolé do Rocha
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Lagoa de Dentro
+   Microrregião: Guarabira
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Lagoa Seca
+   Microrregião: Campina Grande
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Lastro
+   Microrregião: Sousa
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Livramento
+   Microrregião: Cariri Ocidental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Logradouro
+   Microrregião: Guarabira
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Lucena
+   Microrregião: João Pessoa
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Mãe d'Água
+   Microrregião: Patos
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Malta
+   Microrregião: Sousa
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Mamanguape
+   Microrregião: Litoral Norte
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Manaíra
+   Microrregião: Serra do Teixeira
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Marcação
+   Microrregião: Litoral Norte
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Mari
+   Microrregião: Sapé
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Marizópolis
+   Microrregião: Sousa
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Massaranduba
+   Microrregião: Campina Grande
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Mataraca
+   Microrregião: Litoral Norte
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Matinhas
+   Microrregião: Brejo Paraibano
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Mato Grosso
+   Microrregião: Catolé do Rocha
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Maturéia
+   Microrregião: Serra do Teixeira
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Mogeiro
+   Microrregião: Itabaiana
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Montadas
+   Microrregião: Esperança
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Monte Horebe
+   Microrregião: Cajazeiras
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Monteiro
+   Microrregião: Cariri Ocidental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Mulungu
+   Microrregião: Guarabira
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Natuba
+   Microrregião: Umbuzeiro
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Nazarezinho
+   Microrregião: Sousa
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Nova Floresta
+   Microrregião: Curimataú Ocidental
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Nova Olinda
+   Microrregião: Piancó
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Nova Palmeira
+   Microrregião: Seridó Oriental Paraibano
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Olho d'Água
+   Microrregião: Piancó
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Olivedos
+   Microrregião: Curimataú Ocidental
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Ouro Velho
+   Microrregião: Cariri Ocidental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Parari
+   Microrregião: Cariri Ocidental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Passagem
+   Microrregião: Patos
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Patos
+   Microrregião: Patos
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Paulista
+   Microrregião: Sousa
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Pedra Branca
+   Microrregião: Itaporanga
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Pedra Lavrada
+   Microrregião: Seridó Oriental Paraibano
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Pedras de Fogo
+   Microrregião: Litoral Sul
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Pedro Régis
+   Microrregião: Litoral Norte
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Piancó
+   Microrregião: Piancó
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Picuí
+   Microrregião: Seridó Oriental Paraibano
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Pilar
+   Microrregião: Sapé
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Pilões
+   Microrregião: Brejo Paraibano
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Pilõezinhos
+   Microrregião: Guarabira
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Pirpirituba
+   Microrregião: Guarabira
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Pitimbu
+   Microrregião: Litoral Sul
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Pocinhos
+   Microrregião: Curimataú Ocidental
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Poço Dantas
+   Microrregião: Cajazeiras
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Poço de José de Moura
+   Microrregião: Cajazeiras
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Pombal
+   Microrregião: Sousa
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Prata
+   Microrregião: Cariri Ocidental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Princesa Isabel
+   Microrregião: Serra do Teixeira
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Puxinanã
+   Microrregião: Campina Grande
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Queimadas
+   Microrregião: Campina Grande
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Quixaba
+   Microrregião: Patos
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Remígio
+   Microrregião: Curimataú Ocidental
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Riachão
+   Microrregião: Curimataú Oriental
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Riachão do Bacamarte
+   Microrregião: Itabaiana
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Riachão do Poço
+   Microrregião: Sapé
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Riacho de Santo Antônio
+   Microrregião: Cariri Oriental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Riacho dos Cavalos
+   Microrregião: Catolé do Rocha
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Rio Tinto
+   Microrregião: Litoral Norte
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Salgadinho
+   Microrregião: Seridó Ocidental Paraibano
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Salgado de São Félix
+   Microrregião: Itabaiana
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Santa Cecília
+   Microrregião: Umbuzeiro
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Santa Cruz
+   Microrregião: Sousa
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Santa Helena
+   Microrregião: Cajazeiras
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Santa Inês
+   Microrregião: Itaporanga
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Santa Luzia
+   Microrregião: Seridó Ocidental Paraibano
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Santa Rita
+   Microrregião: João Pessoa
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Santa Teresinha
+   Microrregião: Patos
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Santana de Mangueira
+   Microrregião: Itaporanga
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Santana dos Garrotes
+   Microrregião: Piancó
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Santo André
+   Microrregião: Cariri Oriental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: São Bentinho
+   Microrregião: Sousa
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: São Bento
+   Microrregião: Catolé do Rocha
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: São Domingos
+   Microrregião: Sousa
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: São Domingos do Cariri
+   Microrregião: Cariri Oriental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: São Francisco
+   Microrregião: Sousa
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: São João do Cariri
+   Microrregião: Cariri Oriental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: São João do Rio do Peixe
+   Microrregião: Cajazeiras
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: São João do Tigre
+   Microrregião: Cariri Ocidental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: São José da Lagoa Tapada
+   Microrregião: Sousa
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: São José de Caiana
+   Microrregião: Itaporanga
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: São José de Espinharas
+   Microrregião: Patos
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: São José de Piranhas
+   Microrregião: Cajazeiras
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: São José de Princesa
+   Microrregião: Serra do Teixeira
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: São José do Bonfim
+   Microrregião: Patos
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: São José do Brejo do Cruz
+   Microrregião: Catolé do Rocha
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: São José do Sabugi
+   Microrregião: Seridó Ocidental Paraibano
+   Mesorregião: Borborema
+------------------------------
+📍 Município: São José dos Cordeiros
+   Microrregião: Cariri Ocidental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: São José dos Ramos
+   Microrregião: Sapé
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: São Mamede
+   Microrregião: Seridó Ocidental Paraibano
+   Mesorregião: Borborema
+------------------------------
+📍 Município: São Miguel de Taipu
+   Microrregião: Sapé
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: São Sebastião de Lagoa de Roça
+   Microrregião: Esperança
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: São Sebastião do Umbuzeiro
+   Microrregião: Cariri Ocidental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: São Vicente do Seridó
+   Microrregião: Seridó Oriental Paraibano
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Sapé
+   Microrregião: Sapé
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Serra Branca
+   Microrregião: Cariri Ocidental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Serra da Raiz
+   Microrregião: Guarabira
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Serra Grande
+   Microrregião: Itaporanga
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Serra Redonda
+   Microrregião: Campina Grande
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Serraria
+   Microrregião: Brejo Paraibano
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Sertãozinho
+   Microrregião: Guarabira
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Sobrado
+   Microrregião: Sapé
+   Mesorregião: Mata Paraibana
+------------------------------
+📍 Município: Solânea
+   Microrregião: Curimataú Oriental
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Soledade
+   Microrregião: Curimataú Ocidental
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Sossêgo
+   Microrregião: Curimataú Ocidental
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Sousa
+   Microrregião: Sousa
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Sumé
+   Microrregião: Cariri Ocidental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Tacima
+   Microrregião: Curimataú Oriental
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Taperoá
+   Microrregião: Cariri Ocidental
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Tavares
+   Microrregião: Serra do Teixeira
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Teixeira
+   Microrregião: Serra do Teixeira
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Tenório
+   Microrregião: Seridó Oriental Paraibano
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Triunfo
+   Microrregião: Cajazeiras
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Uiraúna
+   Microrregião: Cajazeiras
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Umbuzeiro
+   Microrregião: Umbuzeiro
+   Mesorregião: Agreste Paraibano
+------------------------------
+📍 Município: Várzea
+   Microrregião: Seridó Ocidental Paraibano
+   Mesorregião: Borborema
+------------------------------
+📍 Município: Vieirópolis
+   Microrregião: Sousa
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Vista Serrana
+   Microrregião: Sousa
+   Mesorregião: Sertão Paraibano
+------------------------------
+📍 Município: Zabelê
+   Microrregião: Cariri Ocidental
+   Mesorregião: Borborema
+------------------------------

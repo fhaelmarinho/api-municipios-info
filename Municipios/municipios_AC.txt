@@ -1,0 +1,90 @@
+Municípios do Estado AC
+
+📍 Município: Acrelândia
+   Microrregião: Rio Branco
+   Mesorregião: Vale do Acre
+------------------------------
+📍 Município: Assis Brasil
+   Microrregião: Brasiléia
+   Mesorregião: Vale do Acre
+------------------------------
+📍 Município: Brasiléia
+   Microrregião: Brasiléia
+   Mesorregião: Vale do Acre
+------------------------------
+📍 Município: Bujari
+   Microrregião: Rio Branco
+   Mesorregião: Vale do Acre
+------------------------------
+📍 Município: Capixaba
+   Microrregião: Rio Branco
+   Mesorregião: Vale do Acre
+------------------------------
+📍 Município: Cruzeiro do Sul
+   Microrregião: Cruzeiro do Sul
+   Mesorregião: Vale do Juruá
+------------------------------
+📍 Município: Epitaciolândia
+   Microrregião: Brasiléia
+   Mesorregião: Vale do Acre
+------------------------------
+📍 Município: Feijó
+   Microrregião: Tarauacá
+   Mesorregião: Vale do Juruá
+------------------------------
+📍 Município: Jordão
+   Microrregião: Tarauacá
+   Mesorregião: Vale do Juruá
+------------------------------
+📍 Município: Mâncio Lima
+   Microrregião: Cruzeiro do Sul
+   Mesorregião: Vale do Juruá
+------------------------------
+📍 Município: Manoel Urbano
+   Microrregião: Sena Madureira
+   Mesorregião: Vale do Acre
+------------------------------
+📍 Município: Marechal Thaumaturgo
+   Microrregião: Cruzeiro do Sul
+   Mesorregião: Vale do Juruá
+------------------------------
+📍 Município: Plácido de Castro
+   Microrregião: Rio Branco
+   Mesorregião: Vale do Acre
+------------------------------
+📍 Município: Porto Acre
+   Microrregião: Rio Branco
+   Mesorregião: Vale do Acre
+------------------------------
+📍 Município: Porto Walter
+   Microrregião: Cruzeiro do Sul
+   Mesorregião: Vale do Juruá
+------------------------------
+📍 Município: Rio Branco
+   Microrregião: Rio Branco
+   Mesorregião: Vale do Acre
+------------------------------
+📍 Município: Rodrigues Alves
+   Microrregião: Cruzeiro do Sul
+   Mesorregião: Vale do Juruá
+------------------------------
+📍 Município: Santa Rosa do Purus
+   Microrregião: Sena Madureira
+   Mesorregião: Vale do Acre
+------------------------------
+📍 Município: Sena Madureira
+   Microrregião: Sena Madureira
+   Mesorregião: Vale do Acre
+------------------------------
+📍 Município: Senador Guiomard
+   Microrregião: Rio Branco
+   Mesorregião: Vale do Acre
+------------------------------
+📍 Município: Tarauacá
+   Microrregião: Tarauacá
+   Mesorregião: Vale do Juruá
+------------------------------
+📍 Município: Xapuri
+   Microrregião: Brasiléia
+   Mesorregião: Vale do Acre
+------------------------------

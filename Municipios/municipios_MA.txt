@@ -1,0 +1,868 @@
+📍 Município: Açailândia
+   Microrregião: Imperatriz
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Afonso Cunha
+   Microrregião: Coelho Neto
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Água Doce do Maranhão
+   Microrregião: Baixo Parnaíba Maranhense
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Alcântara
+   Microrregião: Litoral Ocidental Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Aldeias Altas
+   Microrregião: Coelho Neto
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Altamira do Maranhão
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Alto Alegre do Maranhão
+   Microrregião: Codó
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Alto Alegre do Pindaré
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Alto Parnaíba
+   Microrregião: Gerais de Balsas
+   Mesorregião: Sul Maranhense
+------------------------------
+📍 Município: Amapá do Maranhão
+   Microrregião: Gurupi
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Amarante do Maranhão
+   Microrregião: Imperatriz
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Anajatuba
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Anapurus
+   Microrregião: Chapadinha
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Apicum-Açu
+   Microrregião: Litoral Ocidental Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Araguanã
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Araioses
+   Microrregião: Baixo Parnaíba Maranhense
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Arame
+   Microrregião: Alto Mearim e Grajaú
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Arari
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Axixá
+   Microrregião: Rosário
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Bacabal
+   Microrregião: Médio Mearim
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Bacabeira
+   Microrregião: Rosário
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Bacuri
+   Microrregião: Litoral Ocidental Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Bacurituba
+   Microrregião: Litoral Ocidental Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Balsas
+   Microrregião: Gerais de Balsas
+   Mesorregião: Sul Maranhense
+------------------------------
+📍 Município: Barão de Grajaú
+   Microrregião: Chapadas do Alto Itapecuru
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Barra do Corda
+   Microrregião: Alto Mearim e Grajaú
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Barreirinhas
+   Microrregião: Lençóis Maranhenses
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Bela Vista do Maranhão
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Belágua
+   Microrregião: Chapadinha
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Benedito Leite
+   Microrregião: Chapadas das Mangabeiras
+   Mesorregião: Sul Maranhense
+------------------------------
+📍 Município: Bequimão
+   Microrregião: Litoral Ocidental Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Bernardo do Mearim
+   Microrregião: Médio Mearim
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Boa Vista do Gurupi
+   Microrregião: Gurupi
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Bom Jardim
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Bom Jesus das Selvas
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Bom Lugar
+   Microrregião: Médio Mearim
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Brejo
+   Microrregião: Chapadinha
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Brejo de Areia
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Buriti
+   Microrregião: Chapadinha
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Buriti Bravo
+   Microrregião: Caxias
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Buriticupu
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Buritirana
+   Microrregião: Imperatriz
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Cachoeira Grande
+   Microrregião: Rosário
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Cajapió
+   Microrregião: Litoral Ocidental Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Cajari
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Campestre do Maranhão
+   Microrregião: Porto Franco
+   Mesorregião: Sul Maranhense
+------------------------------
+📍 Município: Cândido Mendes
+   Microrregião: Gurupi
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Cantanhede
+   Microrregião: Itapecuru Mirim
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Capinzal do Norte
+   Microrregião: Codó
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Carolina
+   Microrregião: Porto Franco
+   Mesorregião: Sul Maranhense
+------------------------------
+📍 Município: Carutapera
+   Microrregião: Gurupi
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Caxias
+   Microrregião: Caxias
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Cedral
+   Microrregião: Litoral Ocidental Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Central do Maranhão
+   Microrregião: Litoral Ocidental Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Centro do Guilherme
+   Microrregião: Gurupi
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Centro Novo do Maranhão
+   Microrregião: Gurupi
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Chapadinha
+   Microrregião: Chapadinha
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Cidelândia
+   Microrregião: Imperatriz
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Codó
+   Microrregião: Codó
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Coelho Neto
+   Microrregião: Coelho Neto
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Colinas
+   Microrregião: Chapadas do Alto Itapecuru
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Conceição do Lago-Açu
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Coroatá
+   Microrregião: Codó
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Cururupu
+   Microrregião: Litoral Ocidental Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Davinópolis
+   Microrregião: Imperatriz
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Dom Pedro
+   Microrregião: Presidente Dutra
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Duque Bacelar
+   Microrregião: Coelho Neto
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Esperantinópolis
+   Microrregião: Médio Mearim
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Estreito
+   Microrregião: Porto Franco
+   Mesorregião: Sul Maranhense
+------------------------------
+📍 Município: Feira Nova do Maranhão
+   Microrregião: Gerais de Balsas
+   Mesorregião: Sul Maranhense
+------------------------------
+📍 Município: Fernando Falcão
+   Microrregião: Alto Mearim e Grajaú
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Formosa da Serra Negra
+   Microrregião: Alto Mearim e Grajaú
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Fortaleza dos Nogueiras
+   Microrregião: Chapadas das Mangabeiras
+   Mesorregião: Sul Maranhense
+------------------------------
+📍 Município: Fortuna
+   Microrregião: Presidente Dutra
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Godofredo Viana
+   Microrregião: Gurupi
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Gonçalves Dias
+   Microrregião: Presidente Dutra
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Governador Archer
+   Microrregião: Presidente Dutra
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Governador Edison Lobão
+   Microrregião: Imperatriz
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Governador Eugênio Barros
+   Microrregião: Presidente Dutra
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Governador Luiz Rocha
+   Microrregião: Presidente Dutra
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Governador Newton Bello
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Governador Nunes Freire
+   Microrregião: Gurupi
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Graça Aranha
+   Microrregião: Presidente Dutra
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Grajaú
+   Microrregião: Alto Mearim e Grajaú
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Guimarães
+   Microrregião: Litoral Ocidental Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Humberto de Campos
+   Microrregião: Lençóis Maranhenses
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Icatu
+   Microrregião: Rosário
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Igarapé do Meio
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Igarapé Grande
+   Microrregião: Médio Mearim
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Imperatriz
+   Microrregião: Imperatriz
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Itaipava do Grajaú
+   Microrregião: Alto Mearim e Grajaú
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Itapecuru Mirim
+   Microrregião: Itapecuru Mirim
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Itinga do Maranhão
+   Microrregião: Imperatriz
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Jatobá
+   Microrregião: Chapadas do Alto Itapecuru
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Jenipapo dos Vieiras
+   Microrregião: Alto Mearim e Grajaú
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: João Lisboa
+   Microrregião: Imperatriz
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Joselândia
+   Microrregião: Alto Mearim e Grajaú
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Junco do Maranhão
+   Microrregião: Gurupi
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Lago da Pedra
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Lago do Junco
+   Microrregião: Médio Mearim
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Lago dos Rodrigues
+   Microrregião: Médio Mearim
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Lago Verde
+   Microrregião: Médio Mearim
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Lagoa do Mato
+   Microrregião: Chapadas do Alto Itapecuru
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Lagoa Grande do Maranhão
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Lajeado Novo
+   Microrregião: Imperatriz
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Lima Campos
+   Microrregião: Médio Mearim
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Loreto
+   Microrregião: Chapadas das Mangabeiras
+   Mesorregião: Sul Maranhense
+------------------------------
+📍 Município: Luís Domingues
+   Microrregião: Gurupi
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Magalhães de Almeida
+   Microrregião: Baixo Parnaíba Maranhense
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Maracaçumé
+   Microrregião: Gurupi
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Marajá do Sena
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Maranhãozinho
+   Microrregião: Gurupi
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Mata Roma
+   Microrregião: Chapadinha
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Matinha
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Matões
+   Microrregião: Caxias
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Matões do Norte
+   Microrregião: Itapecuru Mirim
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Milagres do Maranhão
+   Microrregião: Chapadinha
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Mirador
+   Microrregião: Chapadas do Alto Itapecuru
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Miranda do Norte
+   Microrregião: Itapecuru Mirim
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Mirinzal
+   Microrregião: Litoral Ocidental Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Monção
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Montes Altos
+   Microrregião: Imperatriz
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Morros
+   Microrregião: Rosário
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Nina Rodrigues
+   Microrregião: Itapecuru Mirim
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Nova Colinas
+   Microrregião: Chapadas das Mangabeiras
+   Mesorregião: Sul Maranhense
+------------------------------
+📍 Município: Nova Iorque
+   Microrregião: Chapadas do Alto Itapecuru
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Nova Olinda do Maranhão
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Olho d'Água das Cunhãs
+   Microrregião: Médio Mearim
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Olinda Nova do Maranhão
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Paço do Lumiar
+   Microrregião: Aglomeração Urbana de São Luís
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Palmeirândia
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Paraibano
+   Microrregião: Chapadas do Alto Itapecuru
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Parnarama
+   Microrregião: Caxias
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Passagem Franca
+   Microrregião: Chapadas do Alto Itapecuru
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Pastos Bons
+   Microrregião: Chapadas do Alto Itapecuru
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Paulino Neves
+   Microrregião: Lençóis Maranhenses
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Paulo Ramos
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Pedreiras
+   Microrregião: Médio Mearim
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Pedro do Rosário
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Penalva
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Peri Mirim
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Peritoró
+   Microrregião: Codó
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Pindaré-Mirim
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Pinheiro
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Pio XII
+   Microrregião: Médio Mearim
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Pirapemas
+   Microrregião: Itapecuru Mirim
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Poção de Pedras
+   Microrregião: Médio Mearim
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Porto Franco
+   Microrregião: Porto Franco
+   Mesorregião: Sul Maranhense
+------------------------------
+📍 Município: Porto Rico do Maranhão
+   Microrregião: Litoral Ocidental Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Presidente Dutra
+   Microrregião: Presidente Dutra
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Presidente Juscelino
+   Microrregião: Rosário
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Presidente Médici
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Presidente Sarney
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Presidente Vargas
+   Microrregião: Itapecuru Mirim
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Primeira Cruz
+   Microrregião: Lençóis Maranhenses
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Raposa
+   Microrregião: Aglomeração Urbana de São Luís
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Riachão
+   Microrregião: Gerais de Balsas
+   Mesorregião: Sul Maranhense
+------------------------------
+📍 Município: Ribamar Fiquene
+   Microrregião: Imperatriz
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Rosário
+   Microrregião: Rosário
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Sambaíba
+   Microrregião: Chapadas das Mangabeiras
+   Mesorregião: Sul Maranhense
+------------------------------
+📍 Município: Santa Filomena do Maranhão
+   Microrregião: Alto Mearim e Grajaú
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Santa Helena
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Santa Inês
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Santa Luzia
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Santa Luzia do Paruá
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Santa Quitéria do Maranhão
+   Microrregião: Baixo Parnaíba Maranhense
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Santa Rita
+   Microrregião: Rosário
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Santana do Maranhão
+   Microrregião: Baixo Parnaíba Maranhense
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Santo Amaro do Maranhão
+   Microrregião: Lençóis Maranhenses
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Santo Antônio dos Lopes
+   Microrregião: Médio Mearim
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: São Benedito do Rio Preto
+   Microrregião: Chapadinha
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: São Bento
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: São Bernardo
+   Microrregião: Baixo Parnaíba Maranhense
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: São Domingos do Azeitão
+   Microrregião: Chapadas das Mangabeiras
+   Mesorregião: Sul Maranhense
+------------------------------
+📍 Município: São Domingos do Maranhão
+   Microrregião: Presidente Dutra
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: São Félix de Balsas
+   Microrregião: Chapadas das Mangabeiras
+   Mesorregião: Sul Maranhense
+------------------------------
+📍 Município: São Francisco do Brejão
+   Microrregião: Imperatriz
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: São Francisco do Maranhão
+   Microrregião: Chapadas do Alto Itapecuru
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: São João Batista
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: São João do Carú
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: São João do Paraíso
+   Microrregião: Porto Franco
+   Mesorregião: Sul Maranhense
+------------------------------
+📍 Município: São João do Soter
+   Microrregião: Caxias
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: São João dos Patos
+   Microrregião: Chapadas do Alto Itapecuru
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: São José de Ribamar
+   Microrregião: Aglomeração Urbana de São Luís
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: São José dos Basílios
+   Microrregião: Presidente Dutra
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: São Luís
+   Microrregião: Aglomeração Urbana de São Luís
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: São Luís Gonzaga do Maranhão
+   Microrregião: Médio Mearim
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: São Mateus do Maranhão
+   Microrregião: Médio Mearim
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: São Pedro da Água Branca
+   Microrregião: Imperatriz
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: São Pedro dos Crentes
+   Microrregião: Porto Franco
+   Mesorregião: Sul Maranhense
+------------------------------
+📍 Município: São Raimundo das Mangabeiras
+   Microrregião: Chapadas das Mangabeiras
+   Mesorregião: Sul Maranhense
+------------------------------
+📍 Município: São Raimundo do Doca Bezerra
+   Microrregião: Médio Mearim
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: São Roberto
+   Microrregião: Médio Mearim
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: São Vicente Ferrer
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Satubinha
+   Microrregião: Médio Mearim
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Senador Alexandre Costa
+   Microrregião: Presidente Dutra
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Senador La Rocque
+   Microrregião: Imperatriz
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Serrano do Maranhão
+   Microrregião: Litoral Ocidental Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Sítio Novo
+   Microrregião: Alto Mearim e Grajaú
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Sucupira do Norte
+   Microrregião: Chapadas do Alto Itapecuru
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Sucupira do Riachão
+   Microrregião: Chapadas do Alto Itapecuru
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Tasso Fragoso
+   Microrregião: Gerais de Balsas
+   Mesorregião: Sul Maranhense
+------------------------------
+📍 Município: Timbiras
+   Microrregião: Codó
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Timon
+   Microrregião: Caxias
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Trizidela do Vale
+   Microrregião: Médio Mearim
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Tufilândia
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Tuntum
+   Microrregião: Alto Mearim e Grajaú
+   Mesorregião: Centro Maranhense
+------------------------------
+📍 Município: Turiaçu
+   Microrregião: Gurupi
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Turilândia
+   Microrregião: Gurupi
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Tutóia
+   Microrregião: Lençóis Maranhenses
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Urbano Santos
+   Microrregião: Chapadinha
+   Mesorregião: Leste Maranhense
+------------------------------
+📍 Município: Vargem Grande
+   Microrregião: Itapecuru Mirim
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Viana
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Vila Nova dos Martírios
+   Microrregião: Imperatriz
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Vitória do Mearim
+   Microrregião: Baixada Maranhense
+   Mesorregião: Norte Maranhense
+------------------------------
+📍 Município: Vitorino Freire
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------
+📍 Município: Zé Doca
+   Microrregião: Pindaré
+   Mesorregião: Oeste Maranhense
+------------------------------

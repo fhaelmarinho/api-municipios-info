@@ -1,0 +1,300 @@
+📍 Município: Amparo do São Francisco
+   Microrregião: Propriá
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Aquidabã
+   Microrregião: Nossa Senhora das Dores
+   Mesorregião: Agreste Sergipano
+------------------------------
+📍 Município: Aracaju
+   Microrregião: Aracaju
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Arauá
+   Microrregião: Boquim
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Areia Branca
+   Microrregião: Agreste de Itabaiana
+   Mesorregião: Agreste Sergipano
+------------------------------
+📍 Município: Barra dos Coqueiros
+   Microrregião: Aracaju
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Boquim
+   Microrregião: Boquim
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Brejo Grande
+   Microrregião: Propriá
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Campo do Brito
+   Microrregião: Agreste de Itabaiana
+   Mesorregião: Agreste Sergipano
+------------------------------
+📍 Município: Canhoba
+   Microrregião: Propriá
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Canindé de São Francisco
+   Microrregião: Sergipana do Sertão do São Francisco
+   Mesorregião: Sertão Sergipano
+------------------------------
+📍 Município: Capela
+   Microrregião: Cotinguiba
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Carira
+   Microrregião: Carira
+   Mesorregião: Sertão Sergipano
+------------------------------
+📍 Município: Carmópolis
+   Microrregião: Baixo Cotinguiba
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Cedro de São João
+   Microrregião: Propriá
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Cristinápolis
+   Microrregião: Boquim
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Cumbe
+   Microrregião: Nossa Senhora das Dores
+   Mesorregião: Agreste Sergipano
+------------------------------
+📍 Município: Divina Pastora
+   Microrregião: Cotinguiba
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Estância
+   Microrregião: Estância
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Feira Nova
+   Microrregião: Sergipana do Sertão do São Francisco
+   Mesorregião: Sertão Sergipano
+------------------------------
+📍 Município: Frei Paulo
+   Microrregião: Carira
+   Mesorregião: Sertão Sergipano
+------------------------------
+📍 Município: Gararu
+   Microrregião: Sergipana do Sertão do São Francisco
+   Mesorregião: Sertão Sergipano
+------------------------------
+📍 Município: General Maynard
+   Microrregião: Baixo Cotinguiba
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Graccho Cardoso
+   Microrregião: Sergipana do Sertão do São Francisco
+   Mesorregião: Sertão Sergipano
+------------------------------
+📍 Município: Ilha das Flores
+   Microrregião: Propriá
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Indiaroba
+   Microrregião: Estância
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Itabaiana
+   Microrregião: Agreste de Itabaiana
+   Mesorregião: Agreste Sergipano
+------------------------------
+📍 Município: Itabaianinha
+   Microrregião: Boquim
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Itabi
+   Microrregião: Sergipana do Sertão do São Francisco
+   Mesorregião: Sertão Sergipano
+------------------------------
+📍 Município: Itaporanga d'Ajuda
+   Microrregião: Estância
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Japaratuba
+   Microrregião: Japaratuba
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Japoatã
+   Microrregião: Japaratuba
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Lagarto
+   Microrregião: Agreste de Lagarto
+   Mesorregião: Agreste Sergipano
+------------------------------
+📍 Município: Laranjeiras
+   Microrregião: Baixo Cotinguiba
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Macambira
+   Microrregião: Agreste de Itabaiana
+   Mesorregião: Agreste Sergipano
+------------------------------
+📍 Município: Malhada dos Bois
+   Microrregião: Nossa Senhora das Dores
+   Mesorregião: Agreste Sergipano
+------------------------------
+📍 Município: Malhador
+   Microrregião: Agreste de Itabaiana
+   Mesorregião: Agreste Sergipano
+------------------------------
+📍 Município: Maruim
+   Microrregião: Baixo Cotinguiba
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Moita Bonita
+   Microrregião: Agreste de Itabaiana
+   Mesorregião: Agreste Sergipano
+------------------------------
+📍 Município: Monte Alegre de Sergipe
+   Microrregião: Sergipana do Sertão do São Francisco
+   Mesorregião: Sertão Sergipano
+------------------------------
+📍 Município: Muribeca
+   Microrregião: Nossa Senhora das Dores
+   Mesorregião: Agreste Sergipano
+------------------------------
+📍 Município: Neópolis
+   Microrregião: Propriá
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Nossa Senhora Aparecida
+   Microrregião: Carira
+   Mesorregião: Sertão Sergipano
+------------------------------
+📍 Município: Nossa Senhora da Glória
+   Microrregião: Sergipana do Sertão do São Francisco
+   Mesorregião: Sertão Sergipano
+------------------------------
+📍 Município: Nossa Senhora das Dores
+   Microrregião: Nossa Senhora das Dores
+   Mesorregião: Agreste Sergipano
+------------------------------
+📍 Município: Nossa Senhora de Lourdes
+   Microrregião: Propriá
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Nossa Senhora do Socorro
+   Microrregião: Aracaju
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Pacatuba
+   Microrregião: Japaratuba
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Pedra Mole
+   Microrregião: Carira
+   Mesorregião: Sertão Sergipano
+------------------------------
+📍 Município: Pedrinhas
+   Microrregião: Boquim
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Pinhão
+   Microrregião: Carira
+   Mesorregião: Sertão Sergipano
+------------------------------
+📍 Município: Pirambu
+   Microrregião: Japaratuba
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Poço Redondo
+   Microrregião: Sergipana do Sertão do São Francisco
+   Mesorregião: Sertão Sergipano
+------------------------------
+📍 Município: Poço Verde
+   Microrregião: Tobias Barreto
+   Mesorregião: Agreste Sergipano
+------------------------------
+📍 Município: Porto da Folha
+   Microrregião: Sergipana do Sertão do São Francisco
+   Mesorregião: Sertão Sergipano
+------------------------------
+📍 Município: Propriá
+   Microrregião: Propriá
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Riachão do Dantas
+   Microrregião: Agreste de Lagarto
+   Mesorregião: Agreste Sergipano
+------------------------------
+📍 Município: Riachuelo
+   Microrregião: Baixo Cotinguiba
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Ribeirópolis
+   Microrregião: Carira
+   Mesorregião: Sertão Sergipano
+------------------------------
+📍 Município: Rosário do Catete
+   Microrregião: Baixo Cotinguiba
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Salgado
+   Microrregião: Boquim
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Santa Luzia do Itanhy
+   Microrregião: Estância
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Santa Rosa de Lima
+   Microrregião: Cotinguiba
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Santana do São Francisco
+   Microrregião: Propriá
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Santo Amaro das Brotas
+   Microrregião: Baixo Cotinguiba
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: São Cristóvão
+   Microrregião: Aracaju
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: São Domingos
+   Microrregião: Agreste de Itabaiana
+   Mesorregião: Agreste Sergipano
+------------------------------
+📍 Município: São Francisco
+   Microrregião: Japaratuba
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: São Miguel do Aleixo
+   Microrregião: Nossa Senhora das Dores
+   Mesorregião: Agreste Sergipano
+------------------------------
+📍 Município: Simão Dias
+   Microrregião: Tobias Barreto
+   Mesorregião: Agreste Sergipano
+------------------------------
+📍 Município: Siriri
+   Microrregião: Cotinguiba
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Telha
+   Microrregião: Propriá
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Tobias Barreto
+   Microrregião: Tobias Barreto
+   Mesorregião: Agreste Sergipano
+------------------------------
+📍 Município: Tomar do Geru
+   Microrregião: Boquim
+   Mesorregião: Leste Sergipano
+------------------------------
+📍 Município: Umbaúba
+   Microrregião: Boquim
+   Mesorregião: Leste Sergipano
+------------------------------

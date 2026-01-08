@@ -1,0 +1,556 @@
+📍 Município: Abreulândia
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Aguiarnópolis
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Aliança do Tocantins
+   Microrregião: Gurupi
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Almas
+   Microrregião: Dianópolis
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Alvorada
+   Microrregião: Gurupi
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Ananás
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Angico
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Aparecida do Rio Negro
+   Microrregião: Porto Nacional
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Aragominas
+   Microrregião: Araguaína
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Araguacema
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Araguaçu
+   Microrregião: Rio Formoso
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Araguaína
+   Microrregião: Araguaína
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Araguanã
+   Microrregião: Araguaína
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Araguatins
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Arapoema
+   Microrregião: Araguaína
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Arraias
+   Microrregião: Dianópolis
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Augustinópolis
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Aurora do Tocantins
+   Microrregião: Dianópolis
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Axixá do Tocantins
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Babaçulândia
+   Microrregião: Araguaína
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Bandeirantes do Tocantins
+   Microrregião: Araguaína
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Barra do Ouro
+   Microrregião: Jalapão
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Barrolândia
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Bernardo Sayão
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Bom Jesus do Tocantins
+   Microrregião: Porto Nacional
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Brasilândia do Tocantins
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Brejinho de Nazaré
+   Microrregião: Gurupi
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Buriti do Tocantins
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Cachoeirinha
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Campos Lindos
+   Microrregião: Jalapão
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Cariri do Tocantins
+   Microrregião: Gurupi
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Carmolândia
+   Microrregião: Araguaína
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Carrasco Bonito
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Caseara
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Centenário
+   Microrregião: Jalapão
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Chapada da Natividade
+   Microrregião: Dianópolis
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Chapada de Areia
+   Microrregião: Rio Formoso
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Colinas do Tocantins
+   Microrregião: Araguaína
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Colméia
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Combinado
+   Microrregião: Dianópolis
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Conceição do Tocantins
+   Microrregião: Dianópolis
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Couto Magalhães
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Cristalândia
+   Microrregião: Rio Formoso
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Crixás do Tocantins
+   Microrregião: Gurupi
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Darcinópolis
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Dianópolis
+   Microrregião: Dianópolis
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Divinópolis do Tocantins
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Dois Irmãos do Tocantins
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Dueré
+   Microrregião: Rio Formoso
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Esperantina
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Fátima
+   Microrregião: Rio Formoso
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Figueirópolis
+   Microrregião: Gurupi
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Filadélfia
+   Microrregião: Araguaína
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Formoso do Araguaia
+   Microrregião: Rio Formoso
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Goianorte
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Goiatins
+   Microrregião: Jalapão
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Guaraí
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Gurupi
+   Microrregião: Gurupi
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Ipueiras
+   Microrregião: Porto Nacional
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Itacajá
+   Microrregião: Jalapão
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Itaguatins
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Itapiratins
+   Microrregião: Jalapão
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Itaporã do Tocantins
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Jaú do Tocantins
+   Microrregião: Gurupi
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Juarina
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Lagoa da Confusão
+   Microrregião: Rio Formoso
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Lagoa do Tocantins
+   Microrregião: Jalapão
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Lajeado
+   Microrregião: Porto Nacional
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Lavandeira
+   Microrregião: Dianópolis
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Lizarda
+   Microrregião: Jalapão
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Luzinópolis
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Marianópolis do Tocantins
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Mateiros
+   Microrregião: Jalapão
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Maurilândia do Tocantins
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Miracema do Tocantins
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Miranorte
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Monte do Carmo
+   Microrregião: Porto Nacional
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Monte Santo do Tocantins
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Muricilândia
+   Microrregião: Araguaína
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Natividade
+   Microrregião: Dianópolis
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Nazaré
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Nova Olinda
+   Microrregião: Araguaína
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Nova Rosalândia
+   Microrregião: Rio Formoso
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Novo Acordo
+   Microrregião: Jalapão
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Novo Alegre
+   Microrregião: Dianópolis
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Novo Jardim
+   Microrregião: Dianópolis
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Oliveira de Fátima
+   Microrregião: Rio Formoso
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Palmas
+   Microrregião: Porto Nacional
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Palmeirante
+   Microrregião: Araguaína
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Palmeiras do Tocantins
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Palmeirópolis
+   Microrregião: Gurupi
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Paraíso do Tocantins
+   Microrregião: Rio Formoso
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Paranã
+   Microrregião: Dianópolis
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Pau D'Arco
+   Microrregião: Araguaína
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Pedro Afonso
+   Microrregião: Porto Nacional
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Peixe
+   Microrregião: Gurupi
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Pequizeiro
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Pindorama do Tocantins
+   Microrregião: Dianópolis
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Piraquê
+   Microrregião: Araguaína
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Pium
+   Microrregião: Rio Formoso
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Ponte Alta do Bom Jesus
+   Microrregião: Dianópolis
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Ponte Alta do Tocantins
+   Microrregião: Jalapão
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Porto Alegre do Tocantins
+   Microrregião: Dianópolis
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Porto Nacional
+   Microrregião: Porto Nacional
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Praia Norte
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Presidente Kennedy
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Pugmil
+   Microrregião: Rio Formoso
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Recursolândia
+   Microrregião: Jalapão
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Riachinho
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Rio da Conceição
+   Microrregião: Dianópolis
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Rio dos Bois
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Rio Sono
+   Microrregião: Jalapão
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Sampaio
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Sandolândia
+   Microrregião: Rio Formoso
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Santa Fé do Araguaia
+   Microrregião: Araguaína
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Santa Maria do Tocantins
+   Microrregião: Porto Nacional
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Santa Rita do Tocantins
+   Microrregião: Gurupi
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Santa Rosa do Tocantins
+   Microrregião: Dianópolis
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Santa Tereza do Tocantins
+   Microrregião: Jalapão
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Santa Terezinha do Tocantins
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: São Bento do Tocantins
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: São Félix do Tocantins
+   Microrregião: Jalapão
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: São Miguel do Tocantins
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: São Salvador do Tocantins
+   Microrregião: Gurupi
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: São Sebastião do Tocantins
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: São Valério
+   Microrregião: Dianópolis
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Silvanópolis
+   Microrregião: Porto Nacional
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Sítio Novo do Tocantins
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Sucupira
+   Microrregião: Gurupi
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Tabocão
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Taguatinga
+   Microrregião: Dianópolis
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Taipas do Tocantins
+   Microrregião: Dianópolis
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Talismã
+   Microrregião: Gurupi
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Tocantínia
+   Microrregião: Porto Nacional
+   Mesorregião: Oriental do Tocantins
+------------------------------
+📍 Município: Tocantinópolis
+   Microrregião: Bico do Papagaio
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Tupirama
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Tupiratins
+   Microrregião: Miracema do Tocantins
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Wanderlândia
+   Microrregião: Araguaína
+   Mesorregião: Ocidental do Tocantins
+------------------------------
+📍 Município: Xambioá
+   Microrregião: Araguaína
+   Mesorregião: Ocidental do Tocantins
+------------------------------

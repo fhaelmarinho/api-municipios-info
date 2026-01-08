@@ -1,0 +1,64 @@
+📍 Município: Amapá
+   Microrregião: Amapá
+   Mesorregião: Norte do Amapá
+------------------------------
+📍 Município: Calçoene
+   Microrregião: Oiapoque
+   Mesorregião: Norte do Amapá
+------------------------------
+📍 Município: Cutias
+   Microrregião: Macapá
+   Mesorregião: Sul do Amapá
+------------------------------
+📍 Município: Ferreira Gomes
+   Microrregião: Macapá
+   Mesorregião: Sul do Amapá
+------------------------------
+📍 Município: Itaubal
+   Microrregião: Macapá
+   Mesorregião: Sul do Amapá
+------------------------------
+📍 Município: Laranjal do Jari
+   Microrregião: Mazagão
+   Mesorregião: Sul do Amapá
+------------------------------
+📍 Município: Macapá
+   Microrregião: Macapá
+   Mesorregião: Sul do Amapá
+------------------------------
+📍 Município: Mazagão
+   Microrregião: Mazagão
+   Mesorregião: Sul do Amapá
+------------------------------
+📍 Município: Oiapoque
+   Microrregião: Oiapoque
+   Mesorregião: Norte do Amapá
+------------------------------
+📍 Município: Pedra Branca do Amapari
+   Microrregião: Macapá
+   Mesorregião: Sul do Amapá
+------------------------------
+📍 Município: Porto Grande
+   Microrregião: Macapá
+   Mesorregião: Sul do Amapá
+------------------------------
+📍 Município: Pracuúba
+   Microrregião: Amapá
+   Mesorregião: Norte do Amapá
+------------------------------
+📍 Município: Santana
+   Microrregião: Macapá
+   Mesorregião: Sul do Amapá
+------------------------------
+📍 Município: Serra do Navio
+   Microrregião: Macapá
+   Mesorregião: Sul do Amapá
+------------------------------
+📍 Município: Tartarugalzinho
+   Microrregião: Amapá
+   Mesorregião: Norte do Amapá
+------------------------------
+📍 Município: Vitória do Jari
+   Microrregião: Mazagão
+   Mesorregião: Sul do Amapá
+------------------------------

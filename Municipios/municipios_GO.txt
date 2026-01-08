@@ -1,0 +1,984 @@
+📍 Município: Abadia de Goiás
+   Microrregião: Goiânia
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Abadiânia
+   Microrregião: Entorno de Brasília
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Acreúna
+   Microrregião: Vale do Rio dos Bois
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Adelândia
+   Microrregião: Anicuns
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Água Fria de Goiás
+   Microrregião: Entorno de Brasília
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Água Limpa
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Águas Lindas de Goiás
+   Microrregião: Entorno de Brasília
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Alexânia
+   Microrregião: Entorno de Brasília
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Aloândia
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Alto Horizonte
+   Microrregião: Porangatu
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Alto Paraíso de Goiás
+   Microrregião: Chapada dos Veadeiros
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Alvorada do Norte
+   Microrregião: Vão do Paranã
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Amaralina
+   Microrregião: Porangatu
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Americano do Brasil
+   Microrregião: Anicuns
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Amorinópolis
+   Microrregião: Iporá
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Anápolis
+   Microrregião: Anápolis
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Anhanguera
+   Microrregião: Catalão
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Anicuns
+   Microrregião: Anicuns
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Aparecida de Goiânia
+   Microrregião: Goiânia
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Aparecida do Rio Doce
+   Microrregião: Sudoeste de Goiás
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Aporé
+   Microrregião: Sudoeste de Goiás
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Araçu
+   Microrregião: Anápolis
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Aragarças
+   Microrregião: Aragarças
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Aragoiânia
+   Microrregião: Goiânia
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Araguapaz
+   Microrregião: Rio Vermelho
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Arenópolis
+   Microrregião: Aragarças
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Aruanã
+   Microrregião: Rio Vermelho
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Aurilândia
+   Microrregião: Anicuns
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Avelinópolis
+   Microrregião: Anicuns
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Baliza
+   Microrregião: Aragarças
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Barro Alto
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Bela Vista de Goiás
+   Microrregião: Goiânia
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Bom Jardim de Goiás
+   Microrregião: Aragarças
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Bom Jesus de Goiás
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Bonfinópolis
+   Microrregião: Goiânia
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Bonópolis
+   Microrregião: Porangatu
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Brazabrantes
+   Microrregião: Anápolis
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Britânia
+   Microrregião: Rio Vermelho
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Buriti Alegre
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Buriti de Goiás
+   Microrregião: Anicuns
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Buritinópolis
+   Microrregião: Vão do Paranã
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Cabeceiras
+   Microrregião: Entorno de Brasília
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Cachoeira Alta
+   Microrregião: Quirinópolis
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Cachoeira de Goiás
+   Microrregião: Iporá
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Cachoeira Dourada
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Caçu
+   Microrregião: Quirinópolis
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Caiapônia
+   Microrregião: Sudoeste de Goiás
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Caldas Novas
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Caldazinha
+   Microrregião: Goiânia
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Campestre de Goiás
+   Microrregião: Vale do Rio dos Bois
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Campinaçu
+   Microrregião: Porangatu
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Campinorte
+   Microrregião: Porangatu
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Campo Alegre de Goiás
+   Microrregião: Catalão
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Campo Limpo de Goiás
+   Microrregião: Anápolis
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Campos Belos
+   Microrregião: Chapada dos Veadeiros
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Campos Verdes
+   Microrregião: Porangatu
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Carmo do Rio Verde
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Castelândia
+   Microrregião: Sudoeste de Goiás
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Catalão
+   Microrregião: Catalão
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Caturaí
+   Microrregião: Anápolis
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Cavalcante
+   Microrregião: Chapada dos Veadeiros
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Ceres
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Cezarina
+   Microrregião: Vale do Rio dos Bois
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Chapadão do Céu
+   Microrregião: Sudoeste de Goiás
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Cidade Ocidental
+   Microrregião: Entorno de Brasília
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Cocalzinho de Goiás
+   Microrregião: Entorno de Brasília
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Colinas do Sul
+   Microrregião: Chapada dos Veadeiros
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Córrego do Ouro
+   Microrregião: Iporá
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Corumbá de Goiás
+   Microrregião: Entorno de Brasília
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Corumbaíba
+   Microrregião: Catalão
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Cristalina
+   Microrregião: Entorno de Brasília
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Cristianópolis
+   Microrregião: Pires do Rio
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Crixás
+   Microrregião: São Miguel do Araguaia
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Cromínia
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Cumari
+   Microrregião: Catalão
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Damianópolis
+   Microrregião: Vão do Paranã
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Damolândia
+   Microrregião: Anápolis
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Davinópolis
+   Microrregião: Catalão
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Diorama
+   Microrregião: Aragarças
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Divinópolis de Goiás
+   Microrregião: Vão do Paranã
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Doverlândia
+   Microrregião: Sudoeste de Goiás
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Edealina
+   Microrregião: Vale do Rio dos Bois
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Edéia
+   Microrregião: Vale do Rio dos Bois
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Estrela do Norte
+   Microrregião: Porangatu
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Faina
+   Microrregião: Rio Vermelho
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Fazenda Nova
+   Microrregião: Iporá
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Firminópolis
+   Microrregião: Anicuns
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Flores de Goiás
+   Microrregião: Vão do Paranã
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Formosa
+   Microrregião: Entorno de Brasília
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Formoso
+   Microrregião: Porangatu
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Gameleira de Goiás
+   Microrregião: Pires do Rio
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Goianápolis
+   Microrregião: Goiânia
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Goiandira
+   Microrregião: Catalão
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Goianésia
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Goiânia
+   Microrregião: Goiânia
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Goianira
+   Microrregião: Goiânia
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Goiás
+   Microrregião: Rio Vermelho
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Goiatuba
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Gouvelândia
+   Microrregião: Quirinópolis
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Guapó
+   Microrregião: Goiânia
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Guaraíta
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Guarani de Goiás
+   Microrregião: Vão do Paranã
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Guarinos
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Heitoraí
+   Microrregião: Anápolis
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Hidrolândia
+   Microrregião: Goiânia
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Hidrolina
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Iaciara
+   Microrregião: Vão do Paranã
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Inaciolândia
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Indiara
+   Microrregião: Vale do Rio dos Bois
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Inhumas
+   Microrregião: Anápolis
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Ipameri
+   Microrregião: Catalão
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Ipiranga de Goiás
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Iporá
+   Microrregião: Iporá
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Israelândia
+   Microrregião: Iporá
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Itaberaí
+   Microrregião: Anápolis
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Itaguari
+   Microrregião: Anápolis
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Itaguaru
+   Microrregião: Anápolis
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Itajá
+   Microrregião: Quirinópolis
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Itapaci
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Itapirapuã
+   Microrregião: Rio Vermelho
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Itapuranga
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Itarumã
+   Microrregião: Quirinópolis
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Itauçu
+   Microrregião: Anápolis
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Itumbiara
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Ivolândia
+   Microrregião: Iporá
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Jandaia
+   Microrregião: Vale do Rio dos Bois
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Jaraguá
+   Microrregião: Anápolis
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Jataí
+   Microrregião: Sudoeste de Goiás
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Jaupaci
+   Microrregião: Iporá
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Jesúpolis
+   Microrregião: Anápolis
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Joviânia
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Jussara
+   Microrregião: Rio Vermelho
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Lagoa Santa
+   Microrregião: Quirinópolis
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Leopoldo de Bulhões
+   Microrregião: Goiânia
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Luziânia
+   Microrregião: Entorno de Brasília
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Mairipotaba
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Mambaí
+   Microrregião: Vão do Paranã
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Mara Rosa
+   Microrregião: Porangatu
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Marzagão
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Matrinchã
+   Microrregião: Rio Vermelho
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Maurilândia
+   Microrregião: Sudoeste de Goiás
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Mimoso de Goiás
+   Microrregião: Entorno de Brasília
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Minaçu
+   Microrregião: Porangatu
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Mineiros
+   Microrregião: Sudoeste de Goiás
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Moiporá
+   Microrregião: Iporá
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Monte Alegre de Goiás
+   Microrregião: Chapada dos Veadeiros
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Montes Claros de Goiás
+   Microrregião: Aragarças
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Montividiu
+   Microrregião: Sudoeste de Goiás
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Montividiu do Norte
+   Microrregião: Porangatu
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Morrinhos
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Morro Agudo de Goiás
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Mossâmedes
+   Microrregião: Anicuns
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Mozarlândia
+   Microrregião: São Miguel do Araguaia
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Mundo Novo
+   Microrregião: São Miguel do Araguaia
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Mutunópolis
+   Microrregião: Porangatu
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Nazário
+   Microrregião: Anicuns
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Nerópolis
+   Microrregião: Goiânia
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Niquelândia
+   Microrregião: Porangatu
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Nova América
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Nova Aurora
+   Microrregião: Catalão
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Nova Crixás
+   Microrregião: São Miguel do Araguaia
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Nova Glória
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Nova Iguaçu de Goiás
+   Microrregião: Porangatu
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Nova Roma
+   Microrregião: Chapada dos Veadeiros
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Nova Veneza
+   Microrregião: Anápolis
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Novo Brasil
+   Microrregião: Iporá
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Novo Gama
+   Microrregião: Entorno de Brasília
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Novo Planalto
+   Microrregião: São Miguel do Araguaia
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Orizona
+   Microrregião: Pires do Rio
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Ouro Verde de Goiás
+   Microrregião: Anápolis
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Ouvidor
+   Microrregião: Catalão
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Padre Bernardo
+   Microrregião: Entorno de Brasília
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Palestina de Goiás
+   Microrregião: Sudoeste de Goiás
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Palmeiras de Goiás
+   Microrregião: Vale do Rio dos Bois
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Palmelo
+   Microrregião: Pires do Rio
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Palminópolis
+   Microrregião: Vale do Rio dos Bois
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Panamá
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Paranaiguara
+   Microrregião: Quirinópolis
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Paraúna
+   Microrregião: Vale do Rio dos Bois
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Perolândia
+   Microrregião: Sudoeste de Goiás
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Petrolina de Goiás
+   Microrregião: Anápolis
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Pilar de Goiás
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Piracanjuba
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Piranhas
+   Microrregião: Aragarças
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Pirenópolis
+   Microrregião: Entorno de Brasília
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Pires do Rio
+   Microrregião: Pires do Rio
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Planaltina
+   Microrregião: Entorno de Brasília
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Pontalina
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Porangatu
+   Microrregião: Porangatu
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Porteirão
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Portelândia
+   Microrregião: Sudoeste de Goiás
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Posse
+   Microrregião: Vão do Paranã
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Professor Jamil
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Quirinópolis
+   Microrregião: Quirinópolis
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Rialma
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Rianápolis
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Rio Quente
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Rio Verde
+   Microrregião: Sudoeste de Goiás
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Rubiataba
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Sanclerlândia
+   Microrregião: Anicuns
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Santa Bárbara de Goiás
+   Microrregião: Anicuns
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Santa Cruz de Goiás
+   Microrregião: Pires do Rio
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Santa Fé de Goiás
+   Microrregião: Rio Vermelho
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Santa Helena de Goiás
+   Microrregião: Sudoeste de Goiás
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Santa Isabel
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Santa Rita do Araguaia
+   Microrregião: Sudoeste de Goiás
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Santa Rita do Novo Destino
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Santa Rosa de Goiás
+   Microrregião: Anápolis
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Santa Tereza de Goiás
+   Microrregião: Porangatu
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Santa Terezinha de Goiás
+   Microrregião: Porangatu
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Santo Antônio da Barra
+   Microrregião: Sudoeste de Goiás
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Santo Antônio de Goiás
+   Microrregião: Goiânia
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Santo Antônio do Descoberto
+   Microrregião: Entorno de Brasília
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: São Domingos
+   Microrregião: Vão do Paranã
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: São Francisco de Goiás
+   Microrregião: Anápolis
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: São João da Paraúna
+   Microrregião: Vale do Rio dos Bois
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: São João d'Aliança
+   Microrregião: Chapada dos Veadeiros
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: São Luís de Montes Belos
+   Microrregião: Anicuns
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: São Luiz do Norte
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: São Miguel do Araguaia
+   Microrregião: São Miguel do Araguaia
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: São Miguel do Passa Quatro
+   Microrregião: Pires do Rio
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: São Patrício
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: São Simão
+   Microrregião: Quirinópolis
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Senador Canedo
+   Microrregião: Goiânia
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Serranópolis
+   Microrregião: Sudoeste de Goiás
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Silvânia
+   Microrregião: Pires do Rio
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Simolândia
+   Microrregião: Vão do Paranã
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Sítio d'Abadia
+   Microrregião: Vão do Paranã
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Taquaral de Goiás
+   Microrregião: Anápolis
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Teresina de Goiás
+   Microrregião: Chapada dos Veadeiros
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Terezópolis de Goiás
+   Microrregião: Goiânia
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Três Ranchos
+   Microrregião: Catalão
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Trindade
+   Microrregião: Goiânia
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Trombas
+   Microrregião: Porangatu
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Turvânia
+   Microrregião: Anicuns
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Turvelândia
+   Microrregião: Vale do Rio dos Bois
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Uirapuru
+   Microrregião: São Miguel do Araguaia
+   Mesorregião: Noroeste Goiano
+------------------------------
+📍 Município: Uruaçu
+   Microrregião: Porangatu
+   Mesorregião: Norte Goiano
+------------------------------
+📍 Município: Uruana
+   Microrregião: Ceres
+   Mesorregião: Centro Goiano
+------------------------------
+📍 Município: Urutaí
+   Microrregião: Pires do Rio
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Valparaíso de Goiás
+   Microrregião: Entorno de Brasília
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Varjão
+   Microrregião: Vale do Rio dos Bois
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Vianópolis
+   Microrregião: Pires do Rio
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Vicentinópolis
+   Microrregião: Meia Ponte
+   Mesorregião: Sul Goiano
+------------------------------
+📍 Município: Vila Boa
+   Microrregião: Entorno de Brasília
+   Mesorregião: Leste Goiano
+------------------------------
+📍 Município: Vila Propício
+   Microrregião: Entorno de Brasília
+   Mesorregião: Leste Goiano
+------------------------------

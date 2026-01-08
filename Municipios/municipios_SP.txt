@@ -1,0 +1,2580 @@
+📍 Município: Adamantina
+   Microrregião: Adamantina
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Adolfo
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Aguaí
+   Microrregião: Pirassununga
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Águas da Prata
+   Microrregião: São João da Boa Vista
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Águas de Lindóia
+   Microrregião: Amparo
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Águas de Santa Bárbara
+   Microrregião: Avaré
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Águas de São Pedro
+   Microrregião: Piracicaba
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Agudos
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Alambari
+   Microrregião: Itapetininga
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Alfredo Marcondes
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Altair
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Altinópolis
+   Microrregião: Batatais
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Alto Alegre
+   Microrregião: Birigui
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Alumínio
+   Microrregião: Sorocaba
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Álvares Florence
+   Microrregião: Votuporanga
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Álvares Machado
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Álvaro de Carvalho
+   Microrregião: Marília
+   Mesorregião: Marília
+------------------------------
+📍 Município: Alvinlândia
+   Microrregião: Marília
+   Mesorregião: Marília
+------------------------------
+📍 Município: Americana
+   Microrregião: Campinas
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Américo Brasiliense
+   Microrregião: Araraquara
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: Américo de Campos
+   Microrregião: Votuporanga
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Amparo
+   Microrregião: Amparo
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Analândia
+   Microrregião: São Carlos
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: Andradina
+   Microrregião: Andradina
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Angatuba
+   Microrregião: Itapetininga
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Anhembi
+   Microrregião: Botucatu
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Anhumas
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Aparecida
+   Microrregião: Guaratinguetá
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Aparecida d'Oeste
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Apiaí
+   Microrregião: Capão Bonito
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Araçariguama
+   Microrregião: Sorocaba
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Araçatuba
+   Microrregião: Araçatuba
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Araçoiaba da Serra
+   Microrregião: Sorocaba
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Aramina
+   Microrregião: Ituverava
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Arandu
+   Microrregião: Avaré
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Arapeí
+   Microrregião: Bananal
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Araraquara
+   Microrregião: Araraquara
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: Araras
+   Microrregião: Limeira
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Arco-Íris
+   Microrregião: Tupã
+   Mesorregião: Marília
+------------------------------
+📍 Município: Arealva
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Areias
+   Microrregião: Bananal
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Areiópolis
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Ariranha
+   Microrregião: Catanduva
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Artur Nogueira
+   Microrregião: Mogi Mirim
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Arujá
+   Microrregião: Guarulhos
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Aspásia
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Assis
+   Microrregião: Assis
+   Mesorregião: Assis
+------------------------------
+📍 Município: Atibaia
+   Microrregião: Bragança Paulista
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Auriflama
+   Microrregião: Auriflama
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Avaí
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Avanhandava
+   Microrregião: Birigui
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Avaré
+   Microrregião: Avaré
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Bady Bassitt
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Balbinos
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Bálsamo
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Bananal
+   Microrregião: Bananal
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Barão de Antonina
+   Microrregião: Itapeva
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Barbosa
+   Microrregião: Birigui
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Bariri
+   Microrregião: Jaú
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Barra Bonita
+   Microrregião: Jaú
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Barra do Chapéu
+   Microrregião: Capão Bonito
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Barra do Turvo
+   Microrregião: Registro
+   Mesorregião: Litoral Sul Paulista
+------------------------------
+📍 Município: Barretos
+   Microrregião: Barretos
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Barrinha
+   Microrregião: Ribeirão Preto
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Barueri
+   Microrregião: Osasco
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Bastos
+   Microrregião: Tupã
+   Mesorregião: Marília
+------------------------------
+📍 Município: Batatais
+   Microrregião: Batatais
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Bauru
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Bebedouro
+   Microrregião: Jaboticabal
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Bento de Abreu
+   Microrregião: Araçatuba
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Bernardino de Campos
+   Microrregião: Ourinhos
+   Mesorregião: Assis
+------------------------------
+📍 Município: Bertioga
+   Microrregião: Santos
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Bilac
+   Microrregião: Birigui
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Birigui
+   Microrregião: Birigui
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Biritiba Mirim
+   Microrregião: Mogi das Cruzes
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Boa Esperança do Sul
+   Microrregião: Araraquara
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: Bocaina
+   Microrregião: Jaú
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Bofete
+   Microrregião: Botucatu
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Boituva
+   Microrregião: Tatuí
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Bom Jesus dos Perdões
+   Microrregião: Bragança Paulista
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Bom Sucesso de Itararé
+   Microrregião: Itapeva
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Borá
+   Microrregião: Assis
+   Mesorregião: Assis
+------------------------------
+📍 Município: Boracéia
+   Microrregião: Jaú
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Borborema
+   Microrregião: Araraquara
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: Borebi
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Botucatu
+   Microrregião: Botucatu
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Bragança Paulista
+   Microrregião: Bragança Paulista
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Braúna
+   Microrregião: Birigui
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Brejo Alegre
+   Microrregião: Birigui
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Brodowski
+   Microrregião: Ribeirão Preto
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Brotas
+   Microrregião: Rio Claro
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Buri
+   Microrregião: Itapeva
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Buritama
+   Microrregião: Birigui
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Buritizal
+   Microrregião: Ituverava
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Cabrália Paulista
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Cabreúva
+   Microrregião: Sorocaba
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Caçapava
+   Microrregião: São José dos Campos
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Cachoeira Paulista
+   Microrregião: Guaratinguetá
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Caconde
+   Microrregião: São João da Boa Vista
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Cafelândia
+   Microrregião: Lins
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Caiabu
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Caieiras
+   Microrregião: Franco da Rocha
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Caiuá
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Cajamar
+   Microrregião: Osasco
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Cajati
+   Microrregião: Registro
+   Mesorregião: Litoral Sul Paulista
+------------------------------
+📍 Município: Cajobi
+   Microrregião: Catanduva
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Cajuru
+   Microrregião: Batatais
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Campina do Monte Alegre
+   Microrregião: Itapetininga
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Campinas
+   Microrregião: Campinas
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Campo Limpo Paulista
+   Microrregião: Jundiaí
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Campos do Jordão
+   Microrregião: Campos do Jordão
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Campos Novos Paulista
+   Microrregião: Assis
+   Mesorregião: Assis
+------------------------------
+📍 Município: Cananéia
+   Microrregião: Registro
+   Mesorregião: Litoral Sul Paulista
+------------------------------
+📍 Município: Canas
+   Microrregião: Guaratinguetá
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Cândido Mota
+   Microrregião: Assis
+   Mesorregião: Assis
+------------------------------
+📍 Município: Cândido Rodrigues
+   Microrregião: Jaboticabal
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Canitar
+   Microrregião: Ourinhos
+   Mesorregião: Assis
+------------------------------
+📍 Município: Capão Bonito
+   Microrregião: Capão Bonito
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Capela do Alto
+   Microrregião: Sorocaba
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Capivari
+   Microrregião: Piracicaba
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Caraguatatuba
+   Microrregião: Caraguatatuba
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Carapicuíba
+   Microrregião: Osasco
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Cardoso
+   Microrregião: Votuporanga
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Casa Branca
+   Microrregião: São João da Boa Vista
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Cássia dos Coqueiros
+   Microrregião: Batatais
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Castilho
+   Microrregião: Andradina
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Catanduva
+   Microrregião: Catanduva
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Catiguá
+   Microrregião: Catanduva
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Cedral
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Cerqueira César
+   Microrregião: Avaré
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Cerquilho
+   Microrregião: Tatuí
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Cesário Lange
+   Microrregião: Tatuí
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Charqueada
+   Microrregião: Piracicaba
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Chavantes
+   Microrregião: Ourinhos
+   Mesorregião: Assis
+------------------------------
+📍 Município: Clementina
+   Microrregião: Birigui
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Colina
+   Microrregião: Barretos
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Colômbia
+   Microrregião: Barretos
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Conchal
+   Microrregião: Limeira
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Conchas
+   Microrregião: Botucatu
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Cordeirópolis
+   Microrregião: Limeira
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Coroados
+   Microrregião: Birigui
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Coronel Macedo
+   Microrregião: Itapeva
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Corumbataí
+   Microrregião: Rio Claro
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Cosmópolis
+   Microrregião: Campinas
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Cosmorama
+   Microrregião: Votuporanga
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Cotia
+   Microrregião: Itapecerica da Serra
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Cravinhos
+   Microrregião: Ribeirão Preto
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Cristais Paulista
+   Microrregião: Franca
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Cruzália
+   Microrregião: Assis
+   Mesorregião: Assis
+------------------------------
+📍 Município: Cruzeiro
+   Microrregião: Guaratinguetá
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Cubatão
+   Microrregião: Santos
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Cunha
+   Microrregião: Paraibuna/Paraitinga
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Descalvado
+   Microrregião: São Carlos
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: Diadema
+   Microrregião: São Paulo
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Dirce Reis
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Divinolândia
+   Microrregião: São João da Boa Vista
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Dobrada
+   Microrregião: Araraquara
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: Dois Córregos
+   Microrregião: Jaú
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Dolcinópolis
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Dourado
+   Microrregião: São Carlos
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: Dracena
+   Microrregião: Dracena
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Duartina
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Dumont
+   Microrregião: Ribeirão Preto
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Echaporã
+   Microrregião: Marília
+   Mesorregião: Marília
+------------------------------
+📍 Município: Eldorado
+   Microrregião: Registro
+   Mesorregião: Litoral Sul Paulista
+------------------------------
+📍 Município: Elias Fausto
+   Microrregião: Campinas
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Elisiário
+   Microrregião: Catanduva
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Embaúba
+   Microrregião: Catanduva
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Embu das Artes
+   Microrregião: Itapecerica da Serra
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Embu-Guaçu
+   Microrregião: Itapecerica da Serra
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Emilianópolis
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Engenheiro Coelho
+   Microrregião: Mogi Mirim
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Espírito Santo do Pinhal
+   Microrregião: São João da Boa Vista
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Espírito Santo do Turvo
+   Microrregião: Ourinhos
+   Mesorregião: Assis
+------------------------------
+📍 Município: Estiva Gerbi
+   Microrregião: Mogi Mirim
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Estrela do Norte
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Estrela d'Oeste
+   Microrregião: Fernandópolis
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Euclides da Cunha Paulista
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Fartura
+   Microrregião: Ourinhos
+   Mesorregião: Assis
+------------------------------
+📍 Município: Fernando Prestes
+   Microrregião: Jaboticabal
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Fernandópolis
+   Microrregião: Fernandópolis
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Fernão
+   Microrregião: Marília
+   Mesorregião: Marília
+------------------------------
+📍 Município: Ferraz de Vasconcelos
+   Microrregião: Mogi das Cruzes
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Flora Rica
+   Microrregião: Adamantina
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Floreal
+   Microrregião: Auriflama
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Flórida Paulista
+   Microrregião: Adamantina
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Florínea
+   Microrregião: Assis
+   Mesorregião: Assis
+------------------------------
+📍 Município: Franca
+   Microrregião: Franca
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Francisco Morato
+   Microrregião: Franco da Rocha
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Franco da Rocha
+   Microrregião: Franco da Rocha
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Gabriel Monteiro
+   Microrregião: Birigui
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Gália
+   Microrregião: Marília
+   Mesorregião: Marília
+------------------------------
+📍 Município: Garça
+   Microrregião: Marília
+   Mesorregião: Marília
+------------------------------
+📍 Município: Gastão Vidigal
+   Microrregião: Auriflama
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Gavião Peixoto
+   Microrregião: Araraquara
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: General Salgado
+   Microrregião: Auriflama
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Getulina
+   Microrregião: Lins
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Glicério
+   Microrregião: Birigui
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Guaiçara
+   Microrregião: Lins
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Guaimbê
+   Microrregião: Lins
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Guaíra
+   Microrregião: São Joaquim da Barra
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Guapiaçu
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Guapiara
+   Microrregião: Capão Bonito
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Guará
+   Microrregião: Ituverava
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Guaraçaí
+   Microrregião: Andradina
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Guaraci
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Guarani d'Oeste
+   Microrregião: Fernandópolis
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Guarantã
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Guararapes
+   Microrregião: Araçatuba
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Guararema
+   Microrregião: Mogi das Cruzes
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Guaratinguetá
+   Microrregião: Guaratinguetá
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Guareí
+   Microrregião: Itapetininga
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Guariba
+   Microrregião: Jaboticabal
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Guarujá
+   Microrregião: Santos
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Guarulhos
+   Microrregião: Guarulhos
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Guatapará
+   Microrregião: Ribeirão Preto
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Guzolândia
+   Microrregião: Auriflama
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Herculândia
+   Microrregião: Tupã
+   Mesorregião: Marília
+------------------------------
+📍 Município: Holambra
+   Microrregião: Campinas
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Hortolândia
+   Microrregião: Campinas
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Iacanga
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Iacri
+   Microrregião: Tupã
+   Mesorregião: Marília
+------------------------------
+📍 Município: Iaras
+   Microrregião: Avaré
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Ibaté
+   Microrregião: São Carlos
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: Ibirá
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Ibirarema
+   Microrregião: Assis
+   Mesorregião: Assis
+------------------------------
+📍 Município: Ibitinga
+   Microrregião: Araraquara
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: Ibiúna
+   Microrregião: Piedade
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Icém
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Iepê
+   Microrregião: Assis
+   Mesorregião: Assis
+------------------------------
+📍 Município: Igaraçu do Tietê
+   Microrregião: Jaú
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Igarapava
+   Microrregião: Ituverava
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Igaratá
+   Microrregião: São José dos Campos
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Iguape
+   Microrregião: Registro
+   Mesorregião: Litoral Sul Paulista
+------------------------------
+📍 Município: Ilha Comprida
+   Microrregião: Registro
+   Mesorregião: Litoral Sul Paulista
+------------------------------
+📍 Município: Ilha Solteira
+   Microrregião: Andradina
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Ilhabela
+   Microrregião: Caraguatatuba
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Indaiatuba
+   Microrregião: Campinas
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Indiana
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Indiaporã
+   Microrregião: Fernandópolis
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Inúbia Paulista
+   Microrregião: Adamantina
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Ipaussu
+   Microrregião: Ourinhos
+   Mesorregião: Assis
+------------------------------
+📍 Município: Iperó
+   Microrregião: Sorocaba
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Ipeúna
+   Microrregião: Rio Claro
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Ipiguá
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Iporanga
+   Microrregião: Capão Bonito
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Ipuã
+   Microrregião: São Joaquim da Barra
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Iracemápolis
+   Microrregião: Limeira
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Irapuã
+   Microrregião: Novo Horizonte
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Irapuru
+   Microrregião: Adamantina
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Itaberá
+   Microrregião: Itapeva
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Itaí
+   Microrregião: Avaré
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Itajobi
+   Microrregião: Novo Horizonte
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Itaju
+   Microrregião: Jaú
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Itanhaém
+   Microrregião: Itanhaém
+   Mesorregião: Litoral Sul Paulista
+------------------------------
+📍 Município: Itaoca
+   Microrregião: Capão Bonito
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Itapecerica da Serra
+   Microrregião: Itapecerica da Serra
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Itapetininga
+   Microrregião: Itapetininga
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Itapeva
+   Microrregião: Itapeva
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Itapevi
+   Microrregião: Osasco
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Itapira
+   Microrregião: Mogi Mirim
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Itapirapuã Paulista
+   Microrregião: Capão Bonito
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Itápolis
+   Microrregião: Araraquara
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: Itaporanga
+   Microrregião: Itapeva
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Itapuí
+   Microrregião: Jaú
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Itapura
+   Microrregião: Andradina
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Itaquaquecetuba
+   Microrregião: Mogi das Cruzes
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Itararé
+   Microrregião: Itapeva
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Itariri
+   Microrregião: Itanhaém
+   Mesorregião: Litoral Sul Paulista
+------------------------------
+📍 Município: Itatiba
+   Microrregião: Bragança Paulista
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Itatinga
+   Microrregião: Avaré
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Itirapina
+   Microrregião: Rio Claro
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Itirapuã
+   Microrregião: Franca
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Itobi
+   Microrregião: São João da Boa Vista
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Itu
+   Microrregião: Sorocaba
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Itupeva
+   Microrregião: Jundiaí
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Ituverava
+   Microrregião: Ituverava
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Jaborandi
+   Microrregião: São Joaquim da Barra
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Jaboticabal
+   Microrregião: Jaboticabal
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Jacareí
+   Microrregião: São José dos Campos
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Jaci
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Jacupiranga
+   Microrregião: Registro
+   Mesorregião: Litoral Sul Paulista
+------------------------------
+📍 Município: Jaguariúna
+   Microrregião: Campinas
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Jales
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Jambeiro
+   Microrregião: Paraibuna/Paraitinga
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Jandira
+   Microrregião: Osasco
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Jardinópolis
+   Microrregião: Ribeirão Preto
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Jarinu
+   Microrregião: Bragança Paulista
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Jaú
+   Microrregião: Jaú
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Jeriquara
+   Microrregião: Franca
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Joanópolis
+   Microrregião: Bragança Paulista
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: João Ramalho
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: José Bonifácio
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Júlio Mesquita
+   Microrregião: Lins
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Jumirim
+   Microrregião: Piracicaba
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Jundiaí
+   Microrregião: Jundiaí
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Junqueirópolis
+   Microrregião: Dracena
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Juquiá
+   Microrregião: Registro
+   Mesorregião: Litoral Sul Paulista
+------------------------------
+📍 Município: Juquitiba
+   Microrregião: Itapecerica da Serra
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Lagoinha
+   Microrregião: Paraibuna/Paraitinga
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Laranjal Paulista
+   Microrregião: Tatuí
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Lavínia
+   Microrregião: Araçatuba
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Lavrinhas
+   Microrregião: Guaratinguetá
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Leme
+   Microrregião: Limeira
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Lençóis Paulista
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Limeira
+   Microrregião: Limeira
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Lindóia
+   Microrregião: Amparo
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Lins
+   Microrregião: Lins
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Lorena
+   Microrregião: Guaratinguetá
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Lourdes
+   Microrregião: Birigui
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Louveira
+   Microrregião: Jundiaí
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Lucélia
+   Microrregião: Adamantina
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Lucianópolis
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Luís Antônio
+   Microrregião: Ribeirão Preto
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Luiziânia
+   Microrregião: Birigui
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Lupércio
+   Microrregião: Marília
+   Mesorregião: Marília
+------------------------------
+📍 Município: Lutécia
+   Microrregião: Assis
+   Mesorregião: Assis
+------------------------------
+📍 Município: Macatuba
+   Microrregião: Jaú
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Macaubal
+   Microrregião: Nhandeara
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Macedônia
+   Microrregião: Fernandópolis
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Magda
+   Microrregião: Auriflama
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Mairinque
+   Microrregião: Sorocaba
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Mairiporã
+   Microrregião: Franco da Rocha
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Manduri
+   Microrregião: Ourinhos
+   Mesorregião: Assis
+------------------------------
+📍 Município: Marabá Paulista
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Maracaí
+   Microrregião: Assis
+   Mesorregião: Assis
+------------------------------
+📍 Município: Marapoama
+   Microrregião: Novo Horizonte
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Mariápolis
+   Microrregião: Adamantina
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Marília
+   Microrregião: Marília
+   Mesorregião: Marília
+------------------------------
+📍 Município: Marinópolis
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Martinópolis
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Matão
+   Microrregião: Araraquara
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: Mauá
+   Microrregião: São Paulo
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Mendonça
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Meridiano
+   Microrregião: Fernandópolis
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Mesópolis
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Miguelópolis
+   Microrregião: São Joaquim da Barra
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Mineiros do Tietê
+   Microrregião: Jaú
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Mira Estrela
+   Microrregião: Fernandópolis
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Miracatu
+   Microrregião: Registro
+   Mesorregião: Litoral Sul Paulista
+------------------------------
+📍 Município: Mirandópolis
+   Microrregião: Andradina
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Mirante do Paranapanema
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Mirassol
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Mirassolândia
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Mococa
+   Microrregião: São João da Boa Vista
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Mogi das Cruzes
+   Microrregião: Mogi das Cruzes
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Mogi Guaçu
+   Microrregião: Mogi Mirim
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Mogi Mirim
+   Microrregião: Mogi Mirim
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Mombuca
+   Microrregião: Piracicaba
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Monções
+   Microrregião: Nhandeara
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Mongaguá
+   Microrregião: Itanhaém
+   Mesorregião: Litoral Sul Paulista
+------------------------------
+📍 Município: Monte Alegre do Sul
+   Microrregião: Amparo
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Monte Alto
+   Microrregião: Jaboticabal
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Monte Aprazível
+   Microrregião: Nhandeara
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Monte Azul Paulista
+   Microrregião: Jaboticabal
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Monte Castelo
+   Microrregião: Dracena
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Monte Mor
+   Microrregião: Campinas
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Monteiro Lobato
+   Microrregião: Campos do Jordão
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Morro Agudo
+   Microrregião: São Joaquim da Barra
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Morungaba
+   Microrregião: Bragança Paulista
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Motuca
+   Microrregião: Araraquara
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: Murutinga do Sul
+   Microrregião: Andradina
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Nantes
+   Microrregião: Assis
+   Mesorregião: Assis
+------------------------------
+📍 Município: Narandiba
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Natividade da Serra
+   Microrregião: Paraibuna/Paraitinga
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Nazaré Paulista
+   Microrregião: Bragança Paulista
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Neves Paulista
+   Microrregião: Nhandeara
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Nhandeara
+   Microrregião: Nhandeara
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Nipoã
+   Microrregião: Nhandeara
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Nova Aliança
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Nova Campina
+   Microrregião: Itapeva
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Nova Canaã Paulista
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Nova Castilho
+   Microrregião: Auriflama
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Nova Europa
+   Microrregião: Araraquara
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: Nova Granada
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Nova Guataporanga
+   Microrregião: Dracena
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Nova Independência
+   Microrregião: Andradina
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Nova Luzitânia
+   Microrregião: Auriflama
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Nova Odessa
+   Microrregião: Campinas
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Novais
+   Microrregião: Catanduva
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Novo Horizonte
+   Microrregião: Novo Horizonte
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Nuporanga
+   Microrregião: São Joaquim da Barra
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Ocauçu
+   Microrregião: Marília
+   Mesorregião: Marília
+------------------------------
+📍 Município: Óleo
+   Microrregião: Ourinhos
+   Mesorregião: Assis
+------------------------------
+📍 Município: Olímpia
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Onda Verde
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Oriente
+   Microrregião: Marília
+   Mesorregião: Marília
+------------------------------
+📍 Município: Orindiúva
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Orlândia
+   Microrregião: São Joaquim da Barra
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Osasco
+   Microrregião: Osasco
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Oscar Bressane
+   Microrregião: Marília
+   Mesorregião: Marília
+------------------------------
+📍 Município: Osvaldo Cruz
+   Microrregião: Adamantina
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Ourinhos
+   Microrregião: Ourinhos
+   Mesorregião: Assis
+------------------------------
+📍 Município: Ouro Verde
+   Microrregião: Dracena
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Ouroeste
+   Microrregião: Fernandópolis
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Pacaembu
+   Microrregião: Adamantina
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Palestina
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Palmares Paulista
+   Microrregião: Catanduva
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Palmeira d'Oeste
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Palmital
+   Microrregião: Assis
+   Mesorregião: Assis
+------------------------------
+📍 Município: Panorama
+   Microrregião: Dracena
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Paraguaçu Paulista
+   Microrregião: Assis
+   Mesorregião: Assis
+------------------------------
+📍 Município: Paraibuna
+   Microrregião: Paraibuna/Paraitinga
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Paraíso
+   Microrregião: Catanduva
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Paranapanema
+   Microrregião: Avaré
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Paranapuã
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Parapuã
+   Microrregião: Adamantina
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Pardinho
+   Microrregião: Botucatu
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Pariquera-Açu
+   Microrregião: Registro
+   Mesorregião: Litoral Sul Paulista
+------------------------------
+📍 Município: Parisi
+   Microrregião: Votuporanga
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Patrocínio Paulista
+   Microrregião: Franca
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Paulicéia
+   Microrregião: Dracena
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Paulínia
+   Microrregião: Campinas
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Paulistânia
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Paulo de Faria
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Pederneiras
+   Microrregião: Jaú
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Pedra Bela
+   Microrregião: Amparo
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Pedranópolis
+   Microrregião: Fernandópolis
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Pedregulho
+   Microrregião: Franca
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Pedreira
+   Microrregião: Campinas
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Pedrinhas Paulista
+   Microrregião: Assis
+   Mesorregião: Assis
+------------------------------
+📍 Município: Pedro de Toledo
+   Microrregião: Itanhaém
+   Mesorregião: Litoral Sul Paulista
+------------------------------
+📍 Município: Penápolis
+   Microrregião: Birigui
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Pereira Barreto
+   Microrregião: Andradina
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Pereiras
+   Microrregião: Tatuí
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Peruíbe
+   Microrregião: Itanhaém
+   Mesorregião: Litoral Sul Paulista
+------------------------------
+📍 Município: Piacatu
+   Microrregião: Birigui
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Piedade
+   Microrregião: Piedade
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Pilar do Sul
+   Microrregião: Piedade
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Pindamonhangaba
+   Microrregião: São José dos Campos
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Pindorama
+   Microrregião: Catanduva
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Pinhalzinho
+   Microrregião: Amparo
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Piquerobi
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Piquete
+   Microrregião: Guaratinguetá
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Piracaia
+   Microrregião: Bragança Paulista
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Piracicaba
+   Microrregião: Piracicaba
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Piraju
+   Microrregião: Ourinhos
+   Mesorregião: Assis
+------------------------------
+📍 Município: Pirajuí
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Pirangi
+   Microrregião: Jaboticabal
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Pirapora do Bom Jesus
+   Microrregião: Osasco
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Pirapozinho
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Pirassununga
+   Microrregião: Pirassununga
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Piratininga
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Pitangueiras
+   Microrregião: Jaboticabal
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Planalto
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Platina
+   Microrregião: Assis
+   Mesorregião: Assis
+------------------------------
+📍 Município: Poá
+   Microrregião: Mogi das Cruzes
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Poloni
+   Microrregião: Nhandeara
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Pompéia
+   Microrregião: Marília
+   Mesorregião: Marília
+------------------------------
+📍 Município: Pongaí
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Pontal
+   Microrregião: Ribeirão Preto
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Pontalinda
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Pontes Gestal
+   Microrregião: Votuporanga
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Populina
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Porangaba
+   Microrregião: Tatuí
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Porto Feliz
+   Microrregião: Sorocaba
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Porto Ferreira
+   Microrregião: Pirassununga
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Potim
+   Microrregião: Guaratinguetá
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Potirendaba
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Pracinha
+   Microrregião: Adamantina
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Pradópolis
+   Microrregião: Ribeirão Preto
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Praia Grande
+   Microrregião: Santos
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Pratânia
+   Microrregião: Botucatu
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Presidente Alves
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Presidente Bernardes
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Presidente Epitácio
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Presidente Prudente
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Presidente Venceslau
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Promissão
+   Microrregião: Lins
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Quadra
+   Microrregião: Tatuí
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Quatá
+   Microrregião: Assis
+   Mesorregião: Assis
+------------------------------
+📍 Município: Queiroz
+   Microrregião: Tupã
+   Mesorregião: Marília
+------------------------------
+📍 Município: Queluz
+   Microrregião: Guaratinguetá
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Quintana
+   Microrregião: Tupã
+   Mesorregião: Marília
+------------------------------
+📍 Município: Rafard
+   Microrregião: Piracicaba
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Rancharia
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Redenção da Serra
+   Microrregião: Paraibuna/Paraitinga
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Regente Feijó
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Reginópolis
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Registro
+   Microrregião: Registro
+   Mesorregião: Litoral Sul Paulista
+------------------------------
+📍 Município: Restinga
+   Microrregião: Franca
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Ribeira
+   Microrregião: Capão Bonito
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Ribeirão Bonito
+   Microrregião: São Carlos
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: Ribeirão Branco
+   Microrregião: Capão Bonito
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Ribeirão Corrente
+   Microrregião: Franca
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Ribeirão do Sul
+   Microrregião: Ourinhos
+   Mesorregião: Assis
+------------------------------
+📍 Município: Ribeirão dos Índios
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Ribeirão Grande
+   Microrregião: Capão Bonito
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Ribeirão Pires
+   Microrregião: São Paulo
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Ribeirão Preto
+   Microrregião: Ribeirão Preto
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Rifaina
+   Microrregião: Franca
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Rincão
+   Microrregião: Araraquara
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: Rinópolis
+   Microrregião: Adamantina
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Rio Claro
+   Microrregião: Rio Claro
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Rio das Pedras
+   Microrregião: Piracicaba
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Rio Grande da Serra
+   Microrregião: São Paulo
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Riolândia
+   Microrregião: Votuporanga
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Riversul
+   Microrregião: Itapeva
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Rosana
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Roseira
+   Microrregião: Guaratinguetá
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Rubiácea
+   Microrregião: Araçatuba
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Rubinéia
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Sabino
+   Microrregião: Lins
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Sagres
+   Microrregião: Adamantina
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Sales
+   Microrregião: Novo Horizonte
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Sales Oliveira
+   Microrregião: São Joaquim da Barra
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Salesópolis
+   Microrregião: Mogi das Cruzes
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Salmourão
+   Microrregião: Adamantina
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Saltinho
+   Microrregião: Piracicaba
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Salto
+   Microrregião: Sorocaba
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Salto de Pirapora
+   Microrregião: Sorocaba
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Salto Grande
+   Microrregião: Ourinhos
+   Mesorregião: Assis
+------------------------------
+📍 Município: Sandovalina
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Santa Adélia
+   Microrregião: Catanduva
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Santa Albertina
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Santa Bárbara d'Oeste
+   Microrregião: Campinas
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Santa Branca
+   Microrregião: São José dos Campos
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Santa Clara d'Oeste
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Santa Cruz da Conceição
+   Microrregião: Limeira
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Santa Cruz da Esperança
+   Microrregião: Batatais
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Santa Cruz das Palmeiras
+   Microrregião: Pirassununga
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Santa Cruz do Rio Pardo
+   Microrregião: Ourinhos
+   Mesorregião: Assis
+------------------------------
+📍 Município: Santa Ernestina
+   Microrregião: Jaboticabal
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Santa Fé do Sul
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Santa Gertrudes
+   Microrregião: Limeira
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Santa Isabel
+   Microrregião: Guarulhos
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Santa Lúcia
+   Microrregião: Araraquara
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: Santa Maria da Serra
+   Microrregião: Piracicaba
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Santa Mercedes
+   Microrregião: Dracena
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Santa Rita do Passa Quatro
+   Microrregião: Ribeirão Preto
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Santa Rita d'Oeste
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Santa Rosa de Viterbo
+   Microrregião: Ribeirão Preto
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Santa Salete
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Santana da Ponte Pensa
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Santana de Parnaíba
+   Microrregião: Osasco
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Santo Anastácio
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Santo André
+   Microrregião: São Paulo
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Santo Antônio da Alegria
+   Microrregião: Batatais
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Santo Antônio de Posse
+   Microrregião: Mogi Mirim
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Santo Antônio do Aracanguá
+   Microrregião: Araçatuba
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Santo Antônio do Jardim
+   Microrregião: São João da Boa Vista
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Santo Antônio do Pinhal
+   Microrregião: Campos do Jordão
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Santo Expedito
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Santópolis do Aguapeí
+   Microrregião: Birigui
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Santos
+   Microrregião: Santos
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: São Bento do Sapucaí
+   Microrregião: Campos do Jordão
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: São Bernardo do Campo
+   Microrregião: São Paulo
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: São Caetano do Sul
+   Microrregião: São Paulo
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: São Carlos
+   Microrregião: São Carlos
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: São Francisco
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: São João da Boa Vista
+   Microrregião: São João da Boa Vista
+   Mesorregião: Campinas
+------------------------------
+📍 Município: São João das Duas Pontes
+   Microrregião: Fernandópolis
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: São João de Iracema
+   Microrregião: Auriflama
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: São João do Pau d'Alho
+   Microrregião: Dracena
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: São Joaquim da Barra
+   Microrregião: São Joaquim da Barra
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: São José da Bela Vista
+   Microrregião: Franca
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: São José do Barreiro
+   Microrregião: Bananal
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: São José do Rio Pardo
+   Microrregião: São João da Boa Vista
+   Mesorregião: Campinas
+------------------------------
+📍 Município: São José do Rio Preto
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: São José dos Campos
+   Microrregião: São José dos Campos
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: São Lourenço da Serra
+   Microrregião: Itapecerica da Serra
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: São Luiz do Paraitinga
+   Microrregião: Paraibuna/Paraitinga
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: São Manuel
+   Microrregião: Botucatu
+   Mesorregião: Bauru
+------------------------------
+📍 Município: São Miguel Arcanjo
+   Microrregião: Piedade
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: São Paulo
+   Microrregião: São Paulo
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: São Pedro
+   Microrregião: Piracicaba
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: São Pedro do Turvo
+   Microrregião: Ourinhos
+   Mesorregião: Assis
+------------------------------
+📍 Município: São Roque
+   Microrregião: Sorocaba
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: São Sebastião
+   Microrregião: Caraguatatuba
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: São Sebastião da Grama
+   Microrregião: São João da Boa Vista
+   Mesorregião: Campinas
+------------------------------
+📍 Município: São Simão
+   Microrregião: Ribeirão Preto
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: São Vicente
+   Microrregião: Santos
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Sarapuí
+   Microrregião: Sorocaba
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Sarutaiá
+   Microrregião: Ourinhos
+   Mesorregião: Assis
+------------------------------
+📍 Município: Sebastianópolis do Sul
+   Microrregião: Nhandeara
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Serra Azul
+   Microrregião: Ribeirão Preto
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Serra Negra
+   Microrregião: Amparo
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Serrana
+   Microrregião: Ribeirão Preto
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Sertãozinho
+   Microrregião: Ribeirão Preto
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Sete Barras
+   Microrregião: Registro
+   Mesorregião: Litoral Sul Paulista
+------------------------------
+📍 Município: Severínia
+   Microrregião: Catanduva
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Silveiras
+   Microrregião: Bananal
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Socorro
+   Microrregião: Amparo
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Sorocaba
+   Microrregião: Sorocaba
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Sud Mennucci
+   Microrregião: Andradina
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Sumaré
+   Microrregião: Campinas
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Suzanápolis
+   Microrregião: Andradina
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Suzano
+   Microrregião: Mogi das Cruzes
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Tabapuã
+   Microrregião: Catanduva
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Tabatinga
+   Microrregião: Araraquara
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: Taboão da Serra
+   Microrregião: Itapecerica da Serra
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Taciba
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Taguaí
+   Microrregião: Ourinhos
+   Mesorregião: Assis
+------------------------------
+📍 Município: Taiaçu
+   Microrregião: Jaboticabal
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Taiúva
+   Microrregião: Jaboticabal
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Tambaú
+   Microrregião: São João da Boa Vista
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Tanabi
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Tapiraí
+   Microrregião: Piedade
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Tapiratiba
+   Microrregião: São João da Boa Vista
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Taquaral
+   Microrregião: Jaboticabal
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Taquaritinga
+   Microrregião: Jaboticabal
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Taquarituba
+   Microrregião: Itapeva
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Taquarivaí
+   Microrregião: Itapeva
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Tarabai
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Tarumã
+   Microrregião: Assis
+   Mesorregião: Assis
+------------------------------
+📍 Município: Tatuí
+   Microrregião: Tatuí
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Taubaté
+   Microrregião: São José dos Campos
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Tejupá
+   Microrregião: Ourinhos
+   Mesorregião: Assis
+------------------------------
+📍 Município: Teodoro Sampaio
+   Microrregião: Presidente Prudente
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Terra Roxa
+   Microrregião: Jaboticabal
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Tietê
+   Microrregião: Piracicaba
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Timburi
+   Microrregião: Ourinhos
+   Mesorregião: Assis
+------------------------------
+📍 Município: Torre de Pedra
+   Microrregião: Tatuí
+   Mesorregião: Itapetininga
+------------------------------
+📍 Município: Torrinha
+   Microrregião: Rio Claro
+   Mesorregião: Piracicaba
+------------------------------
+📍 Município: Trabiju
+   Microrregião: Araraquara
+   Mesorregião: Araraquara
+------------------------------
+📍 Município: Tremembé
+   Microrregião: São José dos Campos
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Três Fronteiras
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Tuiuti
+   Microrregião: Bragança Paulista
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Tupã
+   Microrregião: Tupã
+   Mesorregião: Marília
+------------------------------
+📍 Município: Tupi Paulista
+   Microrregião: Dracena
+   Mesorregião: Presidente Prudente
+------------------------------
+📍 Município: Turiúba
+   Microrregião: Birigui
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Turmalina
+   Microrregião: Fernandópolis
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Ubarana
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Ubatuba
+   Microrregião: Caraguatatuba
+   Mesorregião: Vale do Paraíba Paulista
+------------------------------
+📍 Município: Ubirajara
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Uchoa
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: União Paulista
+   Microrregião: Nhandeara
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Urânia
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Uru
+   Microrregião: Bauru
+   Mesorregião: Bauru
+------------------------------
+📍 Município: Urupês
+   Microrregião: Novo Horizonte
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Valentim Gentil
+   Microrregião: Votuporanga
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Valinhos
+   Microrregião: Campinas
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Valparaíso
+   Microrregião: Araçatuba
+   Mesorregião: Araçatuba
+------------------------------
+📍 Município: Vargem
+   Microrregião: Bragança Paulista
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Vargem Grande do Sul
+   Microrregião: São João da Boa Vista
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Vargem Grande Paulista
+   Microrregião: Itapecerica da Serra
+   Mesorregião: Metropolitana de São Paulo
+------------------------------
+📍 Município: Várzea Paulista
+   Microrregião: Jundiaí
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Vera Cruz
+   Microrregião: Marília
+   Mesorregião: Marília
+------------------------------
+📍 Município: Vinhedo
+   Microrregião: Campinas
+   Mesorregião: Campinas
+------------------------------
+📍 Município: Viradouro
+   Microrregião: Jaboticabal
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Vista Alegre do Alto
+   Microrregião: Jaboticabal
+   Mesorregião: Ribeirão Preto
+------------------------------
+📍 Município: Vitória Brasil
+   Microrregião: Jales
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Votorantim
+   Microrregião: Sorocaba
+   Mesorregião: Macro Metropolitana Paulista
+------------------------------
+📍 Município: Votuporanga
+   Microrregião: Votuporanga
+   Mesorregião: São José do Rio Preto
+------------------------------
+📍 Município: Zacarias
+   Microrregião: São José do Rio Preto
+   Mesorregião: São José do Rio Preto
+------------------------------

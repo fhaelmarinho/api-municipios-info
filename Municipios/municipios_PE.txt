@@ -1,0 +1,740 @@
+📍 Município: Abreu e Lima
+   Microrregião: Recife
+   Mesorregião: Metropolitana de Recife
+------------------------------
+📍 Município: Afogados da Ingazeira
+   Microrregião: Pajeú
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Afrânio
+   Microrregião: Petrolina
+   Mesorregião: São Francisco Pernambucano
+------------------------------
+📍 Município: Agrestina
+   Microrregião: Brejo Pernambucano
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Água Preta
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Águas Belas
+   Microrregião: Vale do Ipanema
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Alagoinha
+   Microrregião: Vale do Ipojuca
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Aliança
+   Microrregião: Mata Setentrional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Altinho
+   Microrregião: Brejo Pernambucano
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Amaraji
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Angelim
+   Microrregião: Garanhuns
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Araçoiaba
+   Microrregião: Itamaracá
+   Mesorregião: Metropolitana de Recife
+------------------------------
+📍 Município: Araripina
+   Microrregião: Araripina
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Arcoverde
+   Microrregião: Sertão do Moxotó
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Barra de Guabiraba
+   Microrregião: Brejo Pernambucano
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Barreiros
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Belém de Maria
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Belém do São Francisco
+   Microrregião: Itaparica
+   Mesorregião: São Francisco Pernambucano
+------------------------------
+📍 Município: Belo Jardim
+   Microrregião: Vale do Ipojuca
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Betânia
+   Microrregião: Sertão do Moxotó
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Bezerros
+   Microrregião: Vale do Ipojuca
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Bodocó
+   Microrregião: Araripina
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Bom Conselho
+   Microrregião: Garanhuns
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Bom Jardim
+   Microrregião: Médio Capibaribe
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Bonito
+   Microrregião: Brejo Pernambucano
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Brejão
+   Microrregião: Garanhuns
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Brejinho
+   Microrregião: Pajeú
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Brejo da Madre de Deus
+   Microrregião: Vale do Ipojuca
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Buenos Aires
+   Microrregião: Mata Setentrional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Buíque
+   Microrregião: Vale do Ipanema
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Cabo de Santo Agostinho
+   Microrregião: Suape
+   Mesorregião: Metropolitana de Recife
+------------------------------
+📍 Município: Cabrobó
+   Microrregião: Petrolina
+   Mesorregião: São Francisco Pernambucano
+------------------------------
+📍 Município: Cachoeirinha
+   Microrregião: Vale do Ipojuca
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Caetés
+   Microrregião: Garanhuns
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Calçado
+   Microrregião: Garanhuns
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Calumbi
+   Microrregião: Pajeú
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Camaragibe
+   Microrregião: Recife
+   Mesorregião: Metropolitana de Recife
+------------------------------
+📍 Município: Camocim de São Félix
+   Microrregião: Brejo Pernambucano
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Camutanga
+   Microrregião: Mata Setentrional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Canhotinho
+   Microrregião: Garanhuns
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Capoeiras
+   Microrregião: Vale do Ipojuca
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Carnaíba
+   Microrregião: Pajeú
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Carnaubeira da Penha
+   Microrregião: Itaparica
+   Mesorregião: São Francisco Pernambucano
+------------------------------
+📍 Município: Carpina
+   Microrregião: Mata Setentrional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Caruaru
+   Microrregião: Vale do Ipojuca
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Casinhas
+   Microrregião: Alto Capibaribe
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Catende
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Cedro
+   Microrregião: Salgueiro
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Chã de Alegria
+   Microrregião: Vitória de Santo Antão
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Chã Grande
+   Microrregião: Vitória de Santo Antão
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Condado
+   Microrregião: Mata Setentrional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Correntes
+   Microrregião: Garanhuns
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Cortês
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Cumaru
+   Microrregião: Médio Capibaribe
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Cupira
+   Microrregião: Brejo Pernambucano
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Custódia
+   Microrregião: Sertão do Moxotó
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Dormentes
+   Microrregião: Petrolina
+   Mesorregião: São Francisco Pernambucano
+------------------------------
+📍 Município: Escada
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Exu
+   Microrregião: Araripina
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Feira Nova
+   Microrregião: Médio Capibaribe
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Fernando de Noronha
+   Microrregião: Fernando de Noronha
+   Mesorregião: Metropolitana de Recife
+------------------------------
+📍 Município: Ferreiros
+   Microrregião: Mata Setentrional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Flores
+   Microrregião: Pajeú
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Floresta
+   Microrregião: Itaparica
+   Mesorregião: São Francisco Pernambucano
+------------------------------
+📍 Município: Frei Miguelinho
+   Microrregião: Alto Capibaribe
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Gameleira
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Garanhuns
+   Microrregião: Garanhuns
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Glória do Goitá
+   Microrregião: Vitória de Santo Antão
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Goiana
+   Microrregião: Mata Setentrional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Granito
+   Microrregião: Araripina
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Gravatá
+   Microrregião: Vale do Ipojuca
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Iati
+   Microrregião: Garanhuns
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Ibimirim
+   Microrregião: Sertão do Moxotó
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Ibirajuba
+   Microrregião: Brejo Pernambucano
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Igarassu
+   Microrregião: Itamaracá
+   Mesorregião: Metropolitana de Recife
+------------------------------
+📍 Município: Iguaracy
+   Microrregião: Pajeú
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Ilha de Itamaracá
+   Microrregião: Itamaracá
+   Mesorregião: Metropolitana de Recife
+------------------------------
+📍 Município: Inajá
+   Microrregião: Sertão do Moxotó
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Ingazeira
+   Microrregião: Pajeú
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Ipojuca
+   Microrregião: Suape
+   Mesorregião: Metropolitana de Recife
+------------------------------
+📍 Município: Ipubi
+   Microrregião: Araripina
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Itacuruba
+   Microrregião: Itaparica
+   Mesorregião: São Francisco Pernambucano
+------------------------------
+📍 Município: Itaíba
+   Microrregião: Vale do Ipanema
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Itambé
+   Microrregião: Mata Setentrional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Itapetim
+   Microrregião: Pajeú
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Itapissuma
+   Microrregião: Itamaracá
+   Mesorregião: Metropolitana de Recife
+------------------------------
+📍 Município: Itaquitinga
+   Microrregião: Mata Setentrional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Jaboatão dos Guararapes
+   Microrregião: Recife
+   Mesorregião: Metropolitana de Recife
+------------------------------
+📍 Município: Jaqueira
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Jataúba
+   Microrregião: Vale do Ipojuca
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Jatobá
+   Microrregião: Itaparica
+   Mesorregião: São Francisco Pernambucano
+------------------------------
+📍 Município: João Alfredo
+   Microrregião: Médio Capibaribe
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Joaquim Nabuco
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Jucati
+   Microrregião: Garanhuns
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Jupi
+   Microrregião: Garanhuns
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Jurema
+   Microrregião: Garanhuns
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Lagoa de Itaenga
+   Microrregião: Mata Setentrional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Lagoa do Carro
+   Microrregião: Mata Setentrional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Lagoa do Ouro
+   Microrregião: Garanhuns
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Lagoa dos Gatos
+   Microrregião: Brejo Pernambucano
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Lagoa Grande
+   Microrregião: Petrolina
+   Mesorregião: São Francisco Pernambucano
+------------------------------
+📍 Município: Lajedo
+   Microrregião: Garanhuns
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Limoeiro
+   Microrregião: Médio Capibaribe
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Macaparana
+   Microrregião: Mata Setentrional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Machados
+   Microrregião: Médio Capibaribe
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Manari
+   Microrregião: Sertão do Moxotó
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Maraial
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Mirandiba
+   Microrregião: Salgueiro
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Moreilândia
+   Microrregião: Araripina
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Moreno
+   Microrregião: Recife
+   Mesorregião: Metropolitana de Recife
+------------------------------
+📍 Município: Nazaré da Mata
+   Microrregião: Mata Setentrional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Olinda
+   Microrregião: Recife
+   Mesorregião: Metropolitana de Recife
+------------------------------
+📍 Município: Orobó
+   Microrregião: Médio Capibaribe
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Orocó
+   Microrregião: Petrolina
+   Mesorregião: São Francisco Pernambucano
+------------------------------
+📍 Município: Ouricuri
+   Microrregião: Araripina
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Palmares
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Palmeirina
+   Microrregião: Garanhuns
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Panelas
+   Microrregião: Brejo Pernambucano
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Paranatama
+   Microrregião: Garanhuns
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Parnamirim
+   Microrregião: Salgueiro
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Passira
+   Microrregião: Médio Capibaribe
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Paudalho
+   Microrregião: Mata Setentrional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Paulista
+   Microrregião: Recife
+   Mesorregião: Metropolitana de Recife
+------------------------------
+📍 Município: Pedra
+   Microrregião: Vale do Ipanema
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Pesqueira
+   Microrregião: Vale do Ipojuca
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Petrolândia
+   Microrregião: Itaparica
+   Mesorregião: São Francisco Pernambucano
+------------------------------
+📍 Município: Petrolina
+   Microrregião: Petrolina
+   Mesorregião: São Francisco Pernambucano
+------------------------------
+📍 Município: Poção
+   Microrregião: Vale do Ipojuca
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Pombos
+   Microrregião: Vitória de Santo Antão
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Primavera
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Quipapá
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Quixaba
+   Microrregião: Pajeú
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Recife
+   Microrregião: Recife
+   Mesorregião: Metropolitana de Recife
+------------------------------
+📍 Município: Riacho das Almas
+   Microrregião: Vale do Ipojuca
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Ribeirão
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Rio Formoso
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Sairé
+   Microrregião: Brejo Pernambucano
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Salgadinho
+   Microrregião: Médio Capibaribe
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Salgueiro
+   Microrregião: Salgueiro
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Saloá
+   Microrregião: Garanhuns
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Sanharó
+   Microrregião: Vale do Ipojuca
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Santa Cruz
+   Microrregião: Araripina
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Santa Cruz da Baixa Verde
+   Microrregião: Pajeú
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Santa Cruz do Capibaribe
+   Microrregião: Alto Capibaribe
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Santa Filomena
+   Microrregião: Araripina
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Santa Maria da Boa Vista
+   Microrregião: Petrolina
+   Mesorregião: São Francisco Pernambucano
+------------------------------
+📍 Município: Santa Maria do Cambucá
+   Microrregião: Alto Capibaribe
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Santa Terezinha
+   Microrregião: Pajeú
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: São Benedito do Sul
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: São Bento do Una
+   Microrregião: Vale do Ipojuca
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: São Caitano
+   Microrregião: Vale do Ipojuca
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: São João
+   Microrregião: Garanhuns
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: São Joaquim do Monte
+   Microrregião: Brejo Pernambucano
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: São José da Coroa Grande
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: São José do Belmonte
+   Microrregião: Salgueiro
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: São José do Egito
+   Microrregião: Pajeú
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: São Lourenço da Mata
+   Microrregião: Recife
+   Mesorregião: Metropolitana de Recife
+------------------------------
+📍 Município: São Vicente Férrer
+   Microrregião: Médio Capibaribe
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Serra Talhada
+   Microrregião: Pajeú
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Serrita
+   Microrregião: Salgueiro
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Sertânia
+   Microrregião: Sertão do Moxotó
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Sirinhaém
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Solidão
+   Microrregião: Pajeú
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Surubim
+   Microrregião: Alto Capibaribe
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Tabira
+   Microrregião: Pajeú
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Tacaimbó
+   Microrregião: Vale do Ipojuca
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Tacaratu
+   Microrregião: Itaparica
+   Mesorregião: São Francisco Pernambucano
+------------------------------
+📍 Município: Tamandaré
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Taquaritinga do Norte
+   Microrregião: Alto Capibaribe
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Terezinha
+   Microrregião: Garanhuns
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Terra Nova
+   Microrregião: Petrolina
+   Mesorregião: São Francisco Pernambucano
+------------------------------
+📍 Município: Timbaúba
+   Microrregião: Mata Setentrional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Toritama
+   Microrregião: Alto Capibaribe
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Tracunhaém
+   Microrregião: Mata Setentrional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Trindade
+   Microrregião: Araripina
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Triunfo
+   Microrregião: Pajeú
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Tupanatinga
+   Microrregião: Vale do Ipanema
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Tuparetama
+   Microrregião: Pajeú
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Venturosa
+   Microrregião: Vale do Ipanema
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Verdejante
+   Microrregião: Salgueiro
+   Mesorregião: Sertão Pernambucano
+------------------------------
+📍 Município: Vertente do Lério
+   Microrregião: Alto Capibaribe
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Vertentes
+   Microrregião: Alto Capibaribe
+   Mesorregião: Agreste Pernambucano
+------------------------------
+📍 Município: Vicência
+   Microrregião: Mata Setentrional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Vitória de Santo Antão
+   Microrregião: Vitória de Santo Antão
+   Mesorregião: Mata Pernambucana
+------------------------------
+📍 Município: Xexéu
+   Microrregião: Mata Meridional Pernambucana
+   Mesorregião: Mata Pernambucana
+------------------------------

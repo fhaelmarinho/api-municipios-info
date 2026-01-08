@@ -1,0 +1,736 @@
+📍 Município: Abaiara
+   Microrregião: Brejo Santo
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Acarape
+   Microrregião: Baturité
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Acaraú
+   Microrregião: Litoral de Camocim e Acaraú
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Acopiara
+   Microrregião: Sertão de Senador Pompeu
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Aiuaba
+   Microrregião: Sertão de Inhamuns
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Alcântaras
+   Microrregião: Meruoca
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Altaneira
+   Microrregião: Caririaçu
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Alto Santo
+   Microrregião: Baixo Jaguaribe
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: Amontada
+   Microrregião: Itapipoca
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Antonina do Norte
+   Microrregião: Várzea Alegre
+   Mesorregião: Centro-Sul Cearense
+------------------------------
+📍 Município: Apuiarés
+   Microrregião: Médio Curu
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Aquiraz
+   Microrregião: Fortaleza
+   Mesorregião: Metropolitana de Fortaleza
+------------------------------
+📍 Município: Aracati
+   Microrregião: Litoral de Aracati
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: Aracoiaba
+   Microrregião: Baturité
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Ararendá
+   Microrregião: Sertão de Cratéus
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Araripe
+   Microrregião: Chapada do Araripe
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Aratuba
+   Microrregião: Baturité
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Arneiroz
+   Microrregião: Sertão de Inhamuns
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Assaré
+   Microrregião: Chapada do Araripe
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Aurora
+   Microrregião: Barro
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Baixio
+   Microrregião: Lavras da Mangabeira
+   Mesorregião: Centro-Sul Cearense
+------------------------------
+📍 Município: Banabuiú
+   Microrregião: Sertão de Quixeramobim
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Barbalha
+   Microrregião: Cariri
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Barreira
+   Microrregião: Chorozinho
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Barro
+   Microrregião: Barro
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Barroquinha
+   Microrregião: Litoral de Camocim e Acaraú
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Baturité
+   Microrregião: Baturité
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Beberibe
+   Microrregião: Cascavel
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Bela Cruz
+   Microrregião: Litoral de Camocim e Acaraú
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Boa Viagem
+   Microrregião: Sertão de Quixeramobim
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Brejo Santo
+   Microrregião: Brejo Santo
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Camocim
+   Microrregião: Litoral de Camocim e Acaraú
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Campos Sales
+   Microrregião: Chapada do Araripe
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Canindé
+   Microrregião: Canindé
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Capistrano
+   Microrregião: Baturité
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Caridade
+   Microrregião: Canindé
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Cariré
+   Microrregião: Sobral
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Caririaçu
+   Microrregião: Caririaçu
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Cariús
+   Microrregião: Várzea Alegre
+   Mesorregião: Centro-Sul Cearense
+------------------------------
+📍 Município: Carnaubal
+   Microrregião: Ibiapaba
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Cascavel
+   Microrregião: Cascavel
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Catarina
+   Microrregião: Sertão de Inhamuns
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Catunda
+   Microrregião: Santa Quitéria
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Caucaia
+   Microrregião: Fortaleza
+   Mesorregião: Metropolitana de Fortaleza
+------------------------------
+📍 Município: Cedro
+   Microrregião: Iguatu
+   Mesorregião: Centro-Sul Cearense
+------------------------------
+📍 Município: Chaval
+   Microrregião: Litoral de Camocim e Acaraú
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Choró
+   Microrregião: Sertão de Quixeramobim
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Chorozinho
+   Microrregião: Chorozinho
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Coreaú
+   Microrregião: Coreaú
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Crateús
+   Microrregião: Sertão de Cratéus
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Crato
+   Microrregião: Cariri
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Croatá
+   Microrregião: Ibiapaba
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Cruz
+   Microrregião: Litoral de Camocim e Acaraú
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Deputado Irapuan Pinheiro
+   Microrregião: Sertão de Senador Pompeu
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Ereré
+   Microrregião: Serra do Pereiro
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: Eusébio
+   Microrregião: Fortaleza
+   Mesorregião: Metropolitana de Fortaleza
+------------------------------
+📍 Município: Farias Brito
+   Microrregião: Caririaçu
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Forquilha
+   Microrregião: Sobral
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Fortaleza
+   Microrregião: Fortaleza
+   Mesorregião: Metropolitana de Fortaleza
+------------------------------
+📍 Município: Fortim
+   Microrregião: Litoral de Aracati
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: Frecheirinha
+   Microrregião: Coreaú
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: General Sampaio
+   Microrregião: Médio Curu
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Graça
+   Microrregião: Sobral
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Granja
+   Microrregião: Litoral de Camocim e Acaraú
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Granjeiro
+   Microrregião: Caririaçu
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Groaíras
+   Microrregião: Sobral
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Guaiúba
+   Microrregião: Fortaleza
+   Mesorregião: Metropolitana de Fortaleza
+------------------------------
+📍 Município: Guaraciaba do Norte
+   Microrregião: Ibiapaba
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Guaramiranga
+   Microrregião: Baturité
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Hidrolândia
+   Microrregião: Santa Quitéria
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Horizonte
+   Microrregião: Pacajus
+   Mesorregião: Metropolitana de Fortaleza
+------------------------------
+📍 Município: Ibaretama
+   Microrregião: Sertão de Quixeramobim
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Ibiapina
+   Microrregião: Ibiapaba
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Ibicuitinga
+   Microrregião: Baixo Jaguaribe
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: Icapuí
+   Microrregião: Litoral de Aracati
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: Icó
+   Microrregião: Iguatu
+   Mesorregião: Centro-Sul Cearense
+------------------------------
+📍 Município: Iguatu
+   Microrregião: Iguatu
+   Mesorregião: Centro-Sul Cearense
+------------------------------
+📍 Município: Independência
+   Microrregião: Sertão de Cratéus
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Ipaporanga
+   Microrregião: Sertão de Cratéus
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Ipaumirim
+   Microrregião: Lavras da Mangabeira
+   Mesorregião: Centro-Sul Cearense
+------------------------------
+📍 Município: Ipu
+   Microrregião: Ipu
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Ipueiras
+   Microrregião: Ipu
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Iracema
+   Microrregião: Serra do Pereiro
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: Irauçuba
+   Microrregião: Sobral
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Itaiçaba
+   Microrregião: Litoral de Aracati
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: Itaitinga
+   Microrregião: Fortaleza
+   Mesorregião: Metropolitana de Fortaleza
+------------------------------
+📍 Município: Itapajé
+   Microrregião: Uruburetama
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Itapipoca
+   Microrregião: Itapipoca
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Itapiúna
+   Microrregião: Baturité
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Itarema
+   Microrregião: Litoral de Camocim e Acaraú
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Itatira
+   Microrregião: Canindé
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Jaguaretama
+   Microrregião: Médio Jaguaribe
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: Jaguaribara
+   Microrregião: Médio Jaguaribe
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: Jaguaribe
+   Microrregião: Médio Jaguaribe
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: Jaguaruana
+   Microrregião: Baixo Jaguaribe
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: Jardim
+   Microrregião: Cariri
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Jati
+   Microrregião: Brejo Santo
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Jijoca de Jericoacoara
+   Microrregião: Litoral de Camocim e Acaraú
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Juazeiro do Norte
+   Microrregião: Cariri
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Jucás
+   Microrregião: Várzea Alegre
+   Mesorregião: Centro-Sul Cearense
+------------------------------
+📍 Município: Lavras da Mangabeira
+   Microrregião: Lavras da Mangabeira
+   Mesorregião: Centro-Sul Cearense
+------------------------------
+📍 Município: Limoeiro do Norte
+   Microrregião: Baixo Jaguaribe
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: Madalena
+   Microrregião: Sertão de Quixeramobim
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Maracanaú
+   Microrregião: Fortaleza
+   Mesorregião: Metropolitana de Fortaleza
+------------------------------
+📍 Município: Maranguape
+   Microrregião: Fortaleza
+   Mesorregião: Metropolitana de Fortaleza
+------------------------------
+📍 Município: Marco
+   Microrregião: Litoral de Camocim e Acaraú
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Martinópole
+   Microrregião: Litoral de Camocim e Acaraú
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Massapê
+   Microrregião: Sobral
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Mauriti
+   Microrregião: Barro
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Meruoca
+   Microrregião: Meruoca
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Milagres
+   Microrregião: Brejo Santo
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Milhã
+   Microrregião: Sertão de Senador Pompeu
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Miraíma
+   Microrregião: Sobral
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Missão Velha
+   Microrregião: Cariri
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Mombaça
+   Microrregião: Sertão de Senador Pompeu
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Monsenhor Tabosa
+   Microrregião: Sertão de Cratéus
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Morada Nova
+   Microrregião: Baixo Jaguaribe
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: Moraújo
+   Microrregião: Coreaú
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Morrinhos
+   Microrregião: Litoral de Camocim e Acaraú
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Mucambo
+   Microrregião: Sobral
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Mulungu
+   Microrregião: Baturité
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Nova Olinda
+   Microrregião: Cariri
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Nova Russas
+   Microrregião: Sertão de Cratéus
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Novo Oriente
+   Microrregião: Sertão de Cratéus
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Ocara
+   Microrregião: Chorozinho
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Orós
+   Microrregião: Iguatu
+   Mesorregião: Centro-Sul Cearense
+------------------------------
+📍 Município: Pacajus
+   Microrregião: Pacajus
+   Mesorregião: Metropolitana de Fortaleza
+------------------------------
+📍 Município: Pacatuba
+   Microrregião: Fortaleza
+   Mesorregião: Metropolitana de Fortaleza
+------------------------------
+📍 Município: Pacoti
+   Microrregião: Baturité
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Pacujá
+   Microrregião: Sobral
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Palhano
+   Microrregião: Baixo Jaguaribe
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: Palmácia
+   Microrregião: Baturité
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Paracuru
+   Microrregião: Baixo Curu
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Paraipaba
+   Microrregião: Baixo Curu
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Parambu
+   Microrregião: Sertão de Inhamuns
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Paramoti
+   Microrregião: Canindé
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Pedra Branca
+   Microrregião: Sertão de Senador Pompeu
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Penaforte
+   Microrregião: Brejo Santo
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Pentecoste
+   Microrregião: Médio Curu
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Pereiro
+   Microrregião: Serra do Pereiro
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: Pindoretama
+   Microrregião: Cascavel
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Piquet Carneiro
+   Microrregião: Sertão de Senador Pompeu
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Pires Ferreira
+   Microrregião: Ipu
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Poranga
+   Microrregião: Ipu
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Porteiras
+   Microrregião: Cariri
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Potengi
+   Microrregião: Chapada do Araripe
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Potiretama
+   Microrregião: Serra do Pereiro
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: Quiterianópolis
+   Microrregião: Sertão de Cratéus
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Quixadá
+   Microrregião: Sertão de Quixeramobim
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Quixelô
+   Microrregião: Iguatu
+   Mesorregião: Centro-Sul Cearense
+------------------------------
+📍 Município: Quixeramobim
+   Microrregião: Sertão de Quixeramobim
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Quixeré
+   Microrregião: Baixo Jaguaribe
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: Redenção
+   Microrregião: Baturité
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Reriutaba
+   Microrregião: Ipu
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Russas
+   Microrregião: Baixo Jaguaribe
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: Saboeiro
+   Microrregião: Sertão de Inhamuns
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Salitre
+   Microrregião: Chapada do Araripe
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: Santa Quitéria
+   Microrregião: Santa Quitéria
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Santana do Acaraú
+   Microrregião: Sobral
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Santana do Cariri
+   Microrregião: Cariri
+   Mesorregião: Sul Cearense
+------------------------------
+📍 Município: São Benedito
+   Microrregião: Ibiapaba
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: São Gonçalo do Amarante
+   Microrregião: Baixo Curu
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: São João do Jaguaribe
+   Microrregião: Baixo Jaguaribe
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: São Luís do Curu
+   Microrregião: Médio Curu
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Senador Pompeu
+   Microrregião: Sertão de Senador Pompeu
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Senador Sá
+   Microrregião: Sobral
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Sobral
+   Microrregião: Sobral
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Solonópole
+   Microrregião: Sertão de Senador Pompeu
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Tabuleiro do Norte
+   Microrregião: Baixo Jaguaribe
+   Mesorregião: Jaguaribe
+------------------------------
+📍 Município: Tamboril
+   Microrregião: Sertão de Cratéus
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Tarrafas
+   Microrregião: Várzea Alegre
+   Mesorregião: Centro-Sul Cearense
+------------------------------
+📍 Município: Tauá
+   Microrregião: Sertão de Inhamuns
+   Mesorregião: Sertões Cearenses
+------------------------------
+📍 Município: Tejuçuoca
+   Microrregião: Médio Curu
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Tianguá
+   Microrregião: Ibiapaba
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Trairi
+   Microrregião: Itapipoca
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Tururu
+   Microrregião: Uruburetama
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Ubajara
+   Microrregião: Ibiapaba
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Umari
+   Microrregião: Lavras da Mangabeira
+   Mesorregião: Centro-Sul Cearense
+------------------------------
+📍 Município: Umirim
+   Microrregião: Uruburetama
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Uruburetama
+   Microrregião: Uruburetama
+   Mesorregião: Norte Cearense
+------------------------------
+📍 Município: Uruoca
+   Microrregião: Coreaú
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Varjota
+   Microrregião: Ipu
+   Mesorregião: Noroeste Cearense
+------------------------------
+📍 Município: Várzea Alegre
+   Microrregião: Várzea Alegre
+   Mesorregião: Centro-Sul Cearense
+------------------------------
+📍 Município: Viçosa do Ceará
+   Microrregião: Ibiapaba
+   Mesorregião: Noroeste Cearense
+------------------------------

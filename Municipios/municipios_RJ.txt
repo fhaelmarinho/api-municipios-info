@@ -1,0 +1,368 @@
+📍 Município: Angra dos Reis
+   Microrregião: Baía da Ilha Grande
+   Mesorregião: Sul Fluminense
+------------------------------
+📍 Município: Aperibé
+   Microrregião: Santo Antônio de Pádua
+   Mesorregião: Noroeste Fluminense
+------------------------------
+📍 Município: Araruama
+   Microrregião: Lagos
+   Mesorregião: Baixadas
+------------------------------
+📍 Município: Areal
+   Microrregião: Três Rios
+   Mesorregião: Centro Fluminense
+------------------------------
+📍 Município: Armação dos Búzios
+   Microrregião: Lagos
+   Mesorregião: Baixadas
+------------------------------
+📍 Município: Arraial do Cabo
+   Microrregião: Lagos
+   Mesorregião: Baixadas
+------------------------------
+📍 Município: Barra do Piraí
+   Microrregião: Barra do Piraí
+   Mesorregião: Sul Fluminense
+------------------------------
+📍 Município: Barra Mansa
+   Microrregião: Vale do Paraíba Fluminense
+   Mesorregião: Sul Fluminense
+------------------------------
+📍 Município: Belford Roxo
+   Microrregião: Rio de Janeiro
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Bom Jardim
+   Microrregião: Nova Friburgo
+   Mesorregião: Centro Fluminense
+------------------------------
+📍 Município: Bom Jesus do Itabapoana
+   Microrregião: Itaperuna
+   Mesorregião: Noroeste Fluminense
+------------------------------
+📍 Município: Cabo Frio
+   Microrregião: Lagos
+   Mesorregião: Baixadas
+------------------------------
+📍 Município: Cachoeiras de Macacu
+   Microrregião: Macacu-Caceribu
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Cambuci
+   Microrregião: Santo Antônio de Pádua
+   Mesorregião: Noroeste Fluminense
+------------------------------
+📍 Município: Campos dos Goytacazes
+   Microrregião: Campos dos Goytacazes
+   Mesorregião: Norte Fluminense
+------------------------------
+📍 Município: Cantagalo
+   Microrregião: Cantagalo-Cordeiro
+   Mesorregião: Centro Fluminense
+------------------------------
+📍 Município: Carapebus
+   Microrregião: Macaé
+   Mesorregião: Norte Fluminense
+------------------------------
+📍 Município: Cardoso Moreira
+   Microrregião: Campos dos Goytacazes
+   Mesorregião: Norte Fluminense
+------------------------------
+📍 Município: Carmo
+   Microrregião: Cantagalo-Cordeiro
+   Mesorregião: Centro Fluminense
+------------------------------
+📍 Município: Casimiro de Abreu
+   Microrregião: Bacia de São João
+   Mesorregião: Baixadas
+------------------------------
+📍 Município: Comendador Levy Gasparian
+   Microrregião: Três Rios
+   Mesorregião: Centro Fluminense
+------------------------------
+📍 Município: Conceição de Macabu
+   Microrregião: Macaé
+   Mesorregião: Norte Fluminense
+------------------------------
+📍 Município: Cordeiro
+   Microrregião: Cantagalo-Cordeiro
+   Mesorregião: Centro Fluminense
+------------------------------
+📍 Município: Duas Barras
+   Microrregião: Nova Friburgo
+   Mesorregião: Centro Fluminense
+------------------------------
+📍 Município: Duque de Caxias
+   Microrregião: Rio de Janeiro
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Engenheiro Paulo de Frontin
+   Microrregião: Vassouras
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Guapimirim
+   Microrregião: Rio de Janeiro
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Iguaba Grande
+   Microrregião: Lagos
+   Mesorregião: Baixadas
+------------------------------
+📍 Município: Itaboraí
+   Microrregião: Rio de Janeiro
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Itaguaí
+   Microrregião: Itaguaí
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Italva
+   Microrregião: Itaperuna
+   Mesorregião: Noroeste Fluminense
+------------------------------
+📍 Município: Itaocara
+   Microrregião: Santo Antônio de Pádua
+   Mesorregião: Noroeste Fluminense
+------------------------------
+📍 Município: Itaperuna
+   Microrregião: Itaperuna
+   Mesorregião: Noroeste Fluminense
+------------------------------
+📍 Município: Itatiaia
+   Microrregião: Vale do Paraíba Fluminense
+   Mesorregião: Sul Fluminense
+------------------------------
+📍 Município: Japeri
+   Microrregião: Rio de Janeiro
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Laje do Muriaé
+   Microrregião: Itaperuna
+   Mesorregião: Noroeste Fluminense
+------------------------------
+📍 Município: Macaé
+   Microrregião: Macaé
+   Mesorregião: Norte Fluminense
+------------------------------
+📍 Município: Macuco
+   Microrregião: Cantagalo-Cordeiro
+   Mesorregião: Centro Fluminense
+------------------------------
+📍 Município: Magé
+   Microrregião: Rio de Janeiro
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Mangaratiba
+   Microrregião: Itaguaí
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Maricá
+   Microrregião: Rio de Janeiro
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Mendes
+   Microrregião: Vassouras
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Mesquita
+   Microrregião: Rio de Janeiro
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Miguel Pereira
+   Microrregião: Vassouras
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Miracema
+   Microrregião: Santo Antônio de Pádua
+   Mesorregião: Noroeste Fluminense
+------------------------------
+📍 Município: Natividade
+   Microrregião: Itaperuna
+   Mesorregião: Noroeste Fluminense
+------------------------------
+📍 Município: Nilópolis
+   Microrregião: Rio de Janeiro
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Niterói
+   Microrregião: Rio de Janeiro
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Nova Friburgo
+   Microrregião: Nova Friburgo
+   Mesorregião: Centro Fluminense
+------------------------------
+📍 Município: Nova Iguaçu
+   Microrregião: Rio de Janeiro
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Paracambi
+   Microrregião: Vassouras
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Paraíba do Sul
+   Microrregião: Três Rios
+   Mesorregião: Centro Fluminense
+------------------------------
+📍 Município: Paraty
+   Microrregião: Baía da Ilha Grande
+   Mesorregião: Sul Fluminense
+------------------------------
+📍 Município: Paty do Alferes
+   Microrregião: Vassouras
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Petrópolis
+   Microrregião: Serrana
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Pinheiral
+   Microrregião: Vale do Paraíba Fluminense
+   Mesorregião: Sul Fluminense
+------------------------------
+📍 Município: Piraí
+   Microrregião: Vale do Paraíba Fluminense
+   Mesorregião: Sul Fluminense
+------------------------------
+📍 Município: Porciúncula
+   Microrregião: Itaperuna
+   Mesorregião: Noroeste Fluminense
+------------------------------
+📍 Município: Porto Real
+   Microrregião: Vale do Paraíba Fluminense
+   Mesorregião: Sul Fluminense
+------------------------------
+📍 Município: Quatis
+   Microrregião: Vale do Paraíba Fluminense
+   Mesorregião: Sul Fluminense
+------------------------------
+📍 Município: Queimados
+   Microrregião: Rio de Janeiro
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Quissamã
+   Microrregião: Macaé
+   Mesorregião: Norte Fluminense
+------------------------------
+📍 Município: Resende
+   Microrregião: Vale do Paraíba Fluminense
+   Mesorregião: Sul Fluminense
+------------------------------
+📍 Município: Rio Bonito
+   Microrregião: Macacu-Caceribu
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Rio Claro
+   Microrregião: Vale do Paraíba Fluminense
+   Mesorregião: Sul Fluminense
+------------------------------
+📍 Município: Rio das Flores
+   Microrregião: Barra do Piraí
+   Mesorregião: Sul Fluminense
+------------------------------
+📍 Município: Rio das Ostras
+   Microrregião: Bacia de São João
+   Mesorregião: Baixadas
+------------------------------
+📍 Município: Rio de Janeiro
+   Microrregião: Rio de Janeiro
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Santa Maria Madalena
+   Microrregião: Santa Maria Madalena
+   Mesorregião: Centro Fluminense
+------------------------------
+📍 Município: Santo Antônio de Pádua
+   Microrregião: Santo Antônio de Pádua
+   Mesorregião: Noroeste Fluminense
+------------------------------
+📍 Município: São Fidélis
+   Microrregião: Campos dos Goytacazes
+   Mesorregião: Norte Fluminense
+------------------------------
+📍 Município: São Francisco de Itabapoana
+   Microrregião: Campos dos Goytacazes
+   Mesorregião: Norte Fluminense
+------------------------------
+📍 Município: São Gonçalo
+   Microrregião: Rio de Janeiro
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: São João da Barra
+   Microrregião: Campos dos Goytacazes
+   Mesorregião: Norte Fluminense
+------------------------------
+📍 Município: São João de Meriti
+   Microrregião: Rio de Janeiro
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: São José de Ubá
+   Microrregião: Santo Antônio de Pádua
+   Mesorregião: Noroeste Fluminense
+------------------------------
+📍 Município: São José do Vale do Rio Preto
+   Microrregião: Serrana
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: São Pedro da Aldeia
+   Microrregião: Lagos
+   Mesorregião: Baixadas
+------------------------------
+📍 Município: São Sebastião do Alto
+   Microrregião: Santa Maria Madalena
+   Mesorregião: Centro Fluminense
+------------------------------
+📍 Município: Sapucaia
+   Microrregião: Três Rios
+   Mesorregião: Centro Fluminense
+------------------------------
+📍 Município: Saquarema
+   Microrregião: Lagos
+   Mesorregião: Baixadas
+------------------------------
+📍 Município: Seropédica
+   Microrregião: Itaguaí
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Silva Jardim
+   Microrregião: Bacia de São João
+   Mesorregião: Baixadas
+------------------------------
+📍 Município: Sumidouro
+   Microrregião: Nova Friburgo
+   Mesorregião: Centro Fluminense
+------------------------------
+📍 Município: Tanguá
+   Microrregião: Rio de Janeiro
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Teresópolis
+   Microrregião: Serrana
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Trajano de Moraes
+   Microrregião: Santa Maria Madalena
+   Mesorregião: Centro Fluminense
+------------------------------
+📍 Município: Três Rios
+   Microrregião: Três Rios
+   Mesorregião: Centro Fluminense
+------------------------------
+📍 Município: Valença
+   Microrregião: Barra do Piraí
+   Mesorregião: Sul Fluminense
+------------------------------
+📍 Município: Varre-Sai
+   Microrregião: Itaperuna
+   Mesorregião: Noroeste Fluminense
+------------------------------
+📍 Município: Vassouras
+   Microrregião: Vassouras
+   Mesorregião: Metropolitana do Rio de Janeiro
+------------------------------
+📍 Município: Volta Redonda
+   Microrregião: Vale do Paraíba Fluminense
+   Mesorregião: Sul Fluminense
+------------------------------

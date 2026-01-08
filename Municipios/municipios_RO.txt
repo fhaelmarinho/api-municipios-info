@@ -1,0 +1,208 @@
+📍 Município: Alta Floresta D'Oeste
+   Microrregião: Cacoal
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Alto Alegre dos Parecis
+   Microrregião: Cacoal
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Alto Paraíso
+   Microrregião: Ariquemes
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Alvorada D'Oeste
+   Microrregião: Alvorada D'Oeste
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Ariquemes
+   Microrregião: Ariquemes
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Buritis
+   Microrregião: Porto Velho
+   Mesorregião: Madeira-Guaporé
+------------------------------
+📍 Município: Cabixi
+   Microrregião: Colorado do Oeste
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Cacaulândia
+   Microrregião: Ariquemes
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Cacoal
+   Microrregião: Cacoal
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Campo Novo de Rondônia
+   Microrregião: Porto Velho
+   Mesorregião: Madeira-Guaporé
+------------------------------
+📍 Município: Candeias do Jamari
+   Microrregião: Porto Velho
+   Mesorregião: Madeira-Guaporé
+------------------------------
+📍 Município: Castanheiras
+   Microrregião: Cacoal
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Cerejeiras
+   Microrregião: Colorado do Oeste
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Chupinguaia
+   Microrregião: Vilhena
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Colorado do Oeste
+   Microrregião: Colorado do Oeste
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Corumbiara
+   Microrregião: Colorado do Oeste
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Costa Marques
+   Microrregião: Guajará-Mirim
+   Mesorregião: Madeira-Guaporé
+------------------------------
+📍 Município: Cujubim
+   Microrregião: Porto Velho
+   Mesorregião: Madeira-Guaporé
+------------------------------
+📍 Município: Espigão D'Oeste
+   Microrregião: Cacoal
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Governador Jorge Teixeira
+   Microrregião: Ji-Paraná
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Guajará-Mirim
+   Microrregião: Guajará-Mirim
+   Mesorregião: Madeira-Guaporé
+------------------------------
+📍 Município: Itapuã do Oeste
+   Microrregião: Porto Velho
+   Mesorregião: Madeira-Guaporé
+------------------------------
+📍 Município: Jaru
+   Microrregião: Ji-Paraná
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Ji-Paraná
+   Microrregião: Ji-Paraná
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Machadinho D'Oeste
+   Microrregião: Ariquemes
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Ministro Andreazza
+   Microrregião: Cacoal
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Mirante da Serra
+   Microrregião: Ji-Paraná
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Monte Negro
+   Microrregião: Ariquemes
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Nova Brasilândia D'Oeste
+   Microrregião: Alvorada D'Oeste
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Nova Mamoré
+   Microrregião: Porto Velho
+   Mesorregião: Madeira-Guaporé
+------------------------------
+📍 Município: Nova União
+   Microrregião: Ji-Paraná
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Novo Horizonte do Oeste
+   Microrregião: Cacoal
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Ouro Preto do Oeste
+   Microrregião: Ji-Paraná
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Parecis
+   Microrregião: Vilhena
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Pimenta Bueno
+   Microrregião: Vilhena
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Pimenteiras do Oeste
+   Microrregião: Colorado do Oeste
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Porto Velho
+   Microrregião: Porto Velho
+   Mesorregião: Madeira-Guaporé
+------------------------------
+📍 Município: Presidente Médici
+   Microrregião: Ji-Paraná
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Primavera de Rondônia
+   Microrregião: Vilhena
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Rio Crespo
+   Microrregião: Ariquemes
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Rolim de Moura
+   Microrregião: Cacoal
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Santa Luzia D'Oeste
+   Microrregião: Cacoal
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: São Felipe D'Oeste
+   Microrregião: Vilhena
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: São Francisco do Guaporé
+   Microrregião: Guajará-Mirim
+   Mesorregião: Madeira-Guaporé
+------------------------------
+📍 Município: São Miguel do Guaporé
+   Microrregião: Alvorada D'Oeste
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Seringueiras
+   Microrregião: Alvorada D'Oeste
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Teixeirópolis
+   Microrregião: Ji-Paraná
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Theobroma
+   Microrregião: Ji-Paraná
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Urupá
+   Microrregião: Ji-Paraná
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Vale do Anari
+   Microrregião: Ariquemes
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Vale do Paraíso
+   Microrregião: Ji-Paraná
+   Mesorregião: Leste Rondoniense
+------------------------------
+📍 Município: Vilhena
+   Microrregião: Vilhena
+   Mesorregião: Leste Rondoniense
+------------------------------

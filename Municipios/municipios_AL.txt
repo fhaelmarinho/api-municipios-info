@@ -1,0 +1,410 @@
+Municípios do Estado AL
+
+📍 Município: Água Branca
+   Microrregião: Serrana do Sertão Alagoano
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Anadia
+   Microrregião: São Miguel dos Campos
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Arapiraca
+   Microrregião: Arapiraca
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Atalaia
+   Microrregião: Mata Alagoana
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Barra de Santo Antônio
+   Microrregião: Maceió
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Barra de São Miguel
+   Microrregião: Maceió
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Batalha
+   Microrregião: Batalha
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Belém
+   Microrregião: Palmeira dos Índios
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Belo Monte
+   Microrregião: Batalha
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Boca da Mata
+   Microrregião: São Miguel dos Campos
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Branquinha
+   Microrregião: Mata Alagoana
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Cacimbinhas
+   Microrregião: Palmeira dos Índios
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Cajueiro
+   Microrregião: Mata Alagoana
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Campestre
+   Microrregião: Mata Alagoana
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Campo Alegre
+   Microrregião: São Miguel dos Campos
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Campo Grande
+   Microrregião: Arapiraca
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Canapi
+   Microrregião: Serrana do Sertão Alagoano
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Capela
+   Microrregião: Mata Alagoana
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Carneiros
+   Microrregião: Santana do Ipanema
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Chã Preta
+   Microrregião: Serrana dos Quilombos
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Coité do Nóia
+   Microrregião: Arapiraca
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Colônia Leopoldina
+   Microrregião: Mata Alagoana
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Coqueiro Seco
+   Microrregião: Maceió
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Coruripe
+   Microrregião: São Miguel dos Campos
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Craíbas
+   Microrregião: Arapiraca
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Delmiro Gouveia
+   Microrregião: Alagoana do Sertão do São Francisco
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Dois Riachos
+   Microrregião: Santana do Ipanema
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Estrela de Alagoas
+   Microrregião: Palmeira dos Índios
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Feira Grande
+   Microrregião: Arapiraca
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Feliz Deserto
+   Microrregião: Penedo
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Flexeiras
+   Microrregião: Mata Alagoana
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Girau do Ponciano
+   Microrregião: Arapiraca
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Ibateguara
+   Microrregião: Serrana dos Quilombos
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Igaci
+   Microrregião: Palmeira dos Índios
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Igreja Nova
+   Microrregião: Penedo
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Inhapi
+   Microrregião: Serrana do Sertão Alagoano
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Jacaré dos Homens
+   Microrregião: Batalha
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Jacuípe
+   Microrregião: Mata Alagoana
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Japaratinga
+   Microrregião: Litoral Norte Alagoano
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Jaramataia
+   Microrregião: Batalha
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Jequiá da Praia
+   Microrregião: São Miguel dos Campos
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Joaquim Gomes
+   Microrregião: Mata Alagoana
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Jundiá
+   Microrregião: Mata Alagoana
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Junqueiro
+   Microrregião: São Miguel dos Campos
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Lagoa da Canoa
+   Microrregião: Arapiraca
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Limoeiro de Anadia
+   Microrregião: Arapiraca
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Maceió
+   Microrregião: Maceió
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Major Isidoro
+   Microrregião: Batalha
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Mar Vermelho
+   Microrregião: Palmeira dos Índios
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Maragogi
+   Microrregião: Litoral Norte Alagoano
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Maravilha
+   Microrregião: Santana do Ipanema
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Marechal Deodoro
+   Microrregião: Maceió
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Maribondo
+   Microrregião: Palmeira dos Índios
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Mata Grande
+   Microrregião: Serrana do Sertão Alagoano
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Matriz de Camaragibe
+   Microrregião: Mata Alagoana
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Messias
+   Microrregião: Mata Alagoana
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Minador do Negrão
+   Microrregião: Palmeira dos Índios
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Monteirópolis
+   Microrregião: Batalha
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Murici
+   Microrregião: Mata Alagoana
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Novo Lino
+   Microrregião: Mata Alagoana
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Olho d'Água das Flores
+   Microrregião: Batalha
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Olho d'Água do Casado
+   Microrregião: Alagoana do Sertão do São Francisco
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Olho d'Água Grande
+   Microrregião: Traipu
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Olivença
+   Microrregião: Batalha
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Ouro Branco
+   Microrregião: Santana do Ipanema
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Palestina
+   Microrregião: Santana do Ipanema
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Palmeira dos Índios
+   Microrregião: Palmeira dos Índios
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Pão de Açúcar
+   Microrregião: Santana do Ipanema
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Pariconha
+   Microrregião: Serrana do Sertão Alagoano
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Paripueira
+   Microrregião: Maceió
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Passo de Camaragibe
+   Microrregião: Litoral Norte Alagoano
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Paulo Jacinto
+   Microrregião: Palmeira dos Índios
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Penedo
+   Microrregião: Penedo
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Piaçabuçu
+   Microrregião: Penedo
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Pilar
+   Microrregião: Maceió
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Pindoba
+   Microrregião: Serrana dos Quilombos
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Piranhas
+   Microrregião: Alagoana do Sertão do São Francisco
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Poço das Trincheiras
+   Microrregião: Santana do Ipanema
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Porto Calvo
+   Microrregião: Mata Alagoana
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Porto de Pedras
+   Microrregião: Litoral Norte Alagoano
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Porto Real do Colégio
+   Microrregião: Penedo
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Quebrangulo
+   Microrregião: Palmeira dos Índios
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Rio Largo
+   Microrregião: Maceió
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Roteiro
+   Microrregião: São Miguel dos Campos
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Santa Luzia do Norte
+   Microrregião: Maceió
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Santana do Ipanema
+   Microrregião: Santana do Ipanema
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Santana do Mundaú
+   Microrregião: Serrana dos Quilombos
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: São Brás
+   Microrregião: Traipu
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: São José da Laje
+   Microrregião: Serrana dos Quilombos
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: São José da Tapera
+   Microrregião: Santana do Ipanema
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: São Luís do Quitunde
+   Microrregião: Mata Alagoana
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: São Miguel dos Campos
+   Microrregião: São Miguel dos Campos
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: São Miguel dos Milagres
+   Microrregião: Litoral Norte Alagoano
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: São Sebastião
+   Microrregião: Arapiraca
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Satuba
+   Microrregião: Maceió
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Senador Rui Palmeira
+   Microrregião: Santana do Ipanema
+   Mesorregião: Sertão Alagoano
+------------------------------
+📍 Município: Tanque d'Arca
+   Microrregião: Palmeira dos Índios
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Taquarana
+   Microrregião: Arapiraca
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: Teotônio Vilela
+   Microrregião: São Miguel dos Campos
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Traipu
+   Microrregião: Traipu
+   Mesorregião: Agreste Alagoano
+------------------------------
+📍 Município: União dos Palmares
+   Microrregião: Serrana dos Quilombos
+   Mesorregião: Leste Alagoano
+------------------------------
+📍 Município: Viçosa
+   Microrregião: Serrana dos Quilombos
+   Mesorregião: Leste Alagoano
+------------------------------

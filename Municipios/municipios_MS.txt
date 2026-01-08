@@ -1,0 +1,316 @@
+📍 Município: Água Clara
+   Microrregião: Três Lagoas
+   Mesorregião: Leste de Mato Grosso do Sul
+------------------------------
+📍 Município: Alcinópolis
+   Microrregião: Alto Taquari
+   Mesorregião: Centro Norte de Mato Grosso do Sul
+------------------------------
+📍 Município: Amambai
+   Microrregião: Dourados
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Anastácio
+   Microrregião: Aquidauana
+   Mesorregião: Pantanais Sul Mato-grossense
+------------------------------
+📍 Município: Anaurilândia
+   Microrregião: Nova Andradina
+   Mesorregião: Leste de Mato Grosso do Sul
+------------------------------
+📍 Município: Angélica
+   Microrregião: Iguatemi
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Antônio João
+   Microrregião: Dourados
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Aparecida do Taboado
+   Microrregião: Paranaíba
+   Mesorregião: Leste de Mato Grosso do Sul
+------------------------------
+📍 Município: Aquidauana
+   Microrregião: Aquidauana
+   Mesorregião: Pantanais Sul Mato-grossense
+------------------------------
+📍 Município: Aral Moreira
+   Microrregião: Dourados
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Bandeirantes
+   Microrregião: Campo Grande
+   Mesorregião: Centro Norte de Mato Grosso do Sul
+------------------------------
+📍 Município: Bataguassu
+   Microrregião: Nova Andradina
+   Mesorregião: Leste de Mato Grosso do Sul
+------------------------------
+📍 Município: Batayporã
+   Microrregião: Nova Andradina
+   Mesorregião: Leste de Mato Grosso do Sul
+------------------------------
+📍 Município: Bela Vista
+   Microrregião: Bodoquena
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Bodoquena
+   Microrregião: Bodoquena
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Bonito
+   Microrregião: Bodoquena
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Brasilândia
+   Microrregião: Três Lagoas
+   Mesorregião: Leste de Mato Grosso do Sul
+------------------------------
+📍 Município: Caarapó
+   Microrregião: Dourados
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Camapuã
+   Microrregião: Alto Taquari
+   Mesorregião: Centro Norte de Mato Grosso do Sul
+------------------------------
+📍 Município: Campo Grande
+   Microrregião: Campo Grande
+   Mesorregião: Centro Norte de Mato Grosso do Sul
+------------------------------
+📍 Município: Caracol
+   Microrregião: Bodoquena
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Cassilândia
+   Microrregião: Cassilândia
+   Mesorregião: Leste de Mato Grosso do Sul
+------------------------------
+📍 Município: Chapadão do Sul
+   Microrregião: Cassilândia
+   Mesorregião: Leste de Mato Grosso do Sul
+------------------------------
+📍 Município: Corguinho
+   Microrregião: Campo Grande
+   Mesorregião: Centro Norte de Mato Grosso do Sul
+------------------------------
+📍 Município: Coronel Sapucaia
+   Microrregião: Iguatemi
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Corumbá
+   Microrregião: Baixo Pantanal
+   Mesorregião: Pantanais Sul Mato-grossense
+------------------------------
+📍 Município: Costa Rica
+   Microrregião: Cassilândia
+   Mesorregião: Leste de Mato Grosso do Sul
+------------------------------
+📍 Município: Coxim
+   Microrregião: Alto Taquari
+   Mesorregião: Centro Norte de Mato Grosso do Sul
+------------------------------
+📍 Município: Deodápolis
+   Microrregião: Iguatemi
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Dois Irmãos do Buriti
+   Microrregião: Aquidauana
+   Mesorregião: Pantanais Sul Mato-grossense
+------------------------------
+📍 Município: Douradina
+   Microrregião: Dourados
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Dourados
+   Microrregião: Dourados
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Eldorado
+   Microrregião: Iguatemi
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Fátima do Sul
+   Microrregião: Dourados
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Figueirão
+   Microrregião: Alto Taquari
+   Mesorregião: Centro Norte de Mato Grosso do Sul
+------------------------------
+📍 Município: Glória de Dourados
+   Microrregião: Iguatemi
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Guia Lopes da Laguna
+   Microrregião: Bodoquena
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Iguatemi
+   Microrregião: Iguatemi
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Inocência
+   Microrregião: Paranaíba
+   Mesorregião: Leste de Mato Grosso do Sul
+------------------------------
+📍 Município: Itaporã
+   Microrregião: Dourados
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Itaquiraí
+   Microrregião: Iguatemi
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Ivinhema
+   Microrregião: Iguatemi
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Japorã
+   Microrregião: Iguatemi
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Jaraguari
+   Microrregião: Campo Grande
+   Mesorregião: Centro Norte de Mato Grosso do Sul
+------------------------------
+📍 Município: Jardim
+   Microrregião: Bodoquena
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Jateí
+   Microrregião: Iguatemi
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Juti
+   Microrregião: Dourados
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Ladário
+   Microrregião: Baixo Pantanal
+   Mesorregião: Pantanais Sul Mato-grossense
+------------------------------
+📍 Município: Laguna Carapã
+   Microrregião: Dourados
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Maracaju
+   Microrregião: Dourados
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Miranda
+   Microrregião: Aquidauana
+   Mesorregião: Pantanais Sul Mato-grossense
+------------------------------
+📍 Município: Mundo Novo
+   Microrregião: Iguatemi
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Naviraí
+   Microrregião: Iguatemi
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Nioaque
+   Microrregião: Bodoquena
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Nova Alvorada do Sul
+   Microrregião: Dourados
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Nova Andradina
+   Microrregião: Nova Andradina
+   Mesorregião: Leste de Mato Grosso do Sul
+------------------------------
+📍 Município: Novo Horizonte do Sul
+   Microrregião: Iguatemi
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Paraíso das Águas
+   Microrregião: Cassilândia
+   Mesorregião: Leste de Mato Grosso do Sul
+------------------------------
+📍 Município: Paranaíba
+   Microrregião: Paranaíba
+   Mesorregião: Leste de Mato Grosso do Sul
+------------------------------
+📍 Município: Paranhos
+   Microrregião: Iguatemi
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Pedro Gomes
+   Microrregião: Alto Taquari
+   Mesorregião: Centro Norte de Mato Grosso do Sul
+------------------------------
+📍 Município: Ponta Porã
+   Microrregião: Dourados
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Porto Murtinho
+   Microrregião: Baixo Pantanal
+   Mesorregião: Pantanais Sul Mato-grossense
+------------------------------
+📍 Município: Ribas do Rio Pardo
+   Microrregião: Três Lagoas
+   Mesorregião: Leste de Mato Grosso do Sul
+------------------------------
+📍 Município: Rio Brilhante
+   Microrregião: Dourados
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Rio Negro
+   Microrregião: Campo Grande
+   Mesorregião: Centro Norte de Mato Grosso do Sul
+------------------------------
+📍 Município: Rio Verde de Mato Grosso
+   Microrregião: Alto Taquari
+   Mesorregião: Centro Norte de Mato Grosso do Sul
+------------------------------
+📍 Município: Rochedo
+   Microrregião: Campo Grande
+   Mesorregião: Centro Norte de Mato Grosso do Sul
+------------------------------
+📍 Município: Santa Rita do Pardo
+   Microrregião: Três Lagoas
+   Mesorregião: Leste de Mato Grosso do Sul
+------------------------------
+📍 Município: São Gabriel do Oeste
+   Microrregião: Alto Taquari
+   Mesorregião: Centro Norte de Mato Grosso do Sul
+------------------------------
+📍 Município: Selvíria
+   Microrregião: Paranaíba
+   Mesorregião: Leste de Mato Grosso do Sul
+------------------------------
+📍 Município: Sete Quedas
+   Microrregião: Iguatemi
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Sidrolândia
+   Microrregião: Campo Grande
+   Mesorregião: Centro Norte de Mato Grosso do Sul
+------------------------------
+📍 Município: Sonora
+   Microrregião: Alto Taquari
+   Mesorregião: Centro Norte de Mato Grosso do Sul
+------------------------------
+📍 Município: Tacuru
+   Microrregião: Iguatemi
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------
+📍 Município: Taquarussu
+   Microrregião: Nova Andradina
+   Mesorregião: Leste de Mato Grosso do Sul
+------------------------------
+📍 Município: Terenos
+   Microrregião: Campo Grande
+   Mesorregião: Centro Norte de Mato Grosso do Sul
+------------------------------
+📍 Município: Três Lagoas
+   Microrregião: Três Lagoas
+   Mesorregião: Leste de Mato Grosso do Sul
+------------------------------
+📍 Município: Vicentina
+   Microrregião: Dourados
+   Mesorregião: Sudoeste de Mato Grosso do Sul
+------------------------------

@@ -1,0 +1,60 @@
+📍 Município: Alto Alegre
+   Microrregião: Boa Vista
+   Mesorregião: Norte de Roraima
+------------------------------
+📍 Município: Amajari
+   Microrregião: Boa Vista
+   Mesorregião: Norte de Roraima
+------------------------------
+📍 Município: Boa Vista
+   Microrregião: Boa Vista
+   Mesorregião: Norte de Roraima
+------------------------------
+📍 Município: Bonfim
+   Microrregião: Nordeste de Roraima
+   Mesorregião: Norte de Roraima
+------------------------------
+📍 Município: Cantá
+   Microrregião: Nordeste de Roraima
+   Mesorregião: Norte de Roraima
+------------------------------
+📍 Município: Caracaraí
+   Microrregião: Caracaraí
+   Mesorregião: Sul de Roraima
+------------------------------
+📍 Município: Caroebe
+   Microrregião: Sudeste de Roraima
+   Mesorregião: Sul de Roraima
+------------------------------
+📍 Município: Iracema
+   Microrregião: Caracaraí
+   Mesorregião: Sul de Roraima
+------------------------------
+📍 Município: Mucajaí
+   Microrregião: Caracaraí
+   Mesorregião: Sul de Roraima
+------------------------------
+📍 Município: Normandia
+   Microrregião: Nordeste de Roraima
+   Mesorregião: Norte de Roraima
+------------------------------
+📍 Município: Pacaraima
+   Microrregião: Boa Vista
+   Mesorregião: Norte de Roraima
+------------------------------
+📍 Município: Rorainópolis
+   Microrregião: Sudeste de Roraima
+   Mesorregião: Sul de Roraima
+------------------------------
+📍 Município: São João da Baliza
+   Microrregião: Sudeste de Roraima
+   Mesorregião: Sul de Roraima
+------------------------------
+📍 Município: São Luiz
+   Microrregião: Sudeste de Roraima
+   Mesorregião: Sul de Roraima
+------------------------------
+📍 Município: Uiramutã
+   Microrregião: Nordeste de Roraima
+   Mesorregião: Norte de Roraima
+------------------------------
