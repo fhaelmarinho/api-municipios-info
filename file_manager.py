@@ -1,4 +1,5 @@
 import os
+import csv
 
 def salvar_em_txt(uf, municipios):
     nome_arquivo = f"municipios_{uf}.txt"
@@ -18,3 +19,25 @@ def salvar_em_txt(uf, municipios):
             
             arquivo.write(conteudo)
     return caminho_arquivo
+
+
+
+def salvar_em_csv(uf, municipios):
+    nome_arquivo = f"municipios_{uf}.csv"
+    caminho_arquivo = os.path.join("Municipios", nome_arquivo)
+    
+    cabecalho = ['Município', 'Microrregião', 'Mesorregião']
+    
+    with open(caminho_arquivo, 'w', encoding='utf-8', newline='') as arquivo:
+    
+        escritor_csv = csv.writer(arquivo)
+        escritor_csv.writerow(cabecalho)
+        
+        for municipio in municipios:
+            escritor_csv.writerow([
+                municipio.get('nome'),
+                municipio.get('microrregiao', {}).get('nome', 'N/A'),
+                municipio.get('microrregiao', {}).get('mesorregiao', {}).get('nome', 'N/A')
+            ])
+    return caminho_arquivo
+    
