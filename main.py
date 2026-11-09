@@ -5,7 +5,8 @@ from typing import List, Optional
 import uvicorn
 from fastapi import FastAPI, HTTPException, Path, Query, status
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import FileResponse, RedirectResponse
+from fastapi.openapi.docs import get_redoc_html, get_swagger_ui_html
+from fastapi.responses import FileResponse, HTMLResponse, RedirectResponse
 
 from api_service import (
     consultar_municipios_por_uf,
@@ -21,6 +22,7 @@ from schemas import (
     MunicipioModel,
     StatusResponse,
 )
+from web_interface import HTML_INTERFACE
 
 # Configuração e Inicialização do FastAPI com documentação Swagger interativa
 app = FastAPI(
@@ -29,9 +31,10 @@ app = FastAPI(
 API RESTful para consulta online de municípios brasileiros baseada nos dados do IBGE.
 
 ### Recursos disponíveis:
+* **Interface Visual**: Acesse a interface web interativa em [`/app`](/app).
 * **Consulta por Estado (UF)**: Obtenha a lista completa de cidades de qualquer estado brasileiro.
 * **Filtro por nome**: Pesquise municípios específicos dentro de um estado.
-* **Exportação**: Baixe relatórios formatados em **TXT** ou planilhas **CSV** diretamente pelo navegador/Swagger.
+* **Exportação**: Baixe relatórios formatados em **TXT** ou planilhas **CSV** diretamente pelo navegador ou Swagger.
 * **Documentação Interativa (Swagger)**: Teste todas as consultas diretamente nesta interface sem usar o terminal.
     """,
     version="2.0.0",
@@ -51,6 +54,10 @@ API RESTful para consulta online de municípios brasileiros baseada nos dados do
             "description": "Consulta às Unidades Federativas do Brasil.",
         },
         {
+            "name": "Interface Web",
+            "description": "Interface gráfica para consulta no navegador.",
+        },
+        {
             "name": "Sistema",
             "description": "Status de integridade e metadados da aplicação.",
         },
@@ -67,16 +74,52 @@ app.add_middleware(
 )
 
 
-@app.get(
-    "/",
-    include_in_schema=False,
-    response_class=RedirectResponse,
-    status_code=status.HTTP_307_TEMPORARY_REDIRECT,
-)
-def raiz_redirecionar_para_swagger():
-    """Redireciona o acesso da raiz diretamente para o Swagger UI (/docs)."""
-    return RedirectResponse(url="/docs")
+# ==========================================
+# Rotas Raiz e Redirecionamentos de Conveniência
+# ==========================================
 
+@app.get("/", include_in_schema=False)
+@app.get("", include_in_schema=False)
+@app.get("/api", include_in_schema=False)
+@app.get("/api/", include_in_schema=False)
+@app.get("/api/v1", include_in_schema=False)
+@app.get("/api/v1/", include_in_schema=False)
+@app.get("/api/index.py", include_in_schema=False)
+def redirecionar_para_swagger():
+    """Redireciona qualquer chamada às rotas raízes para a documentação interativa Swagger (/docs)."""
+    return RedirectResponse(url="/docs", status_code=status.HTTP_307_TEMPORARY_REDIRECT)
+
+
+@app.get("/app", response_class=HTMLResponse, tags=["Interface Web"], summary="Interface web de consulta")
+@app.get("/web", response_class=HTMLResponse, include_in_schema=False)
+@app.get("/consulta", response_class=HTMLResponse, include_in_schema=False)
+def interface_web():
+    """Abre o painel visual interativo no navegador para consulta de municípios."""
+    return HTMLResponse(content=HTML_INTERFACE, status_code=200)
+
+
+# Suporte a rotas alternativas para o Swagger no Vercel (/api/docs e /api/redoc)
+@app.get("/api/docs", include_in_schema=False)
+@app.get("/api/docs/", include_in_schema=False)
+def swagger_ui_alternativo():
+    return get_swagger_ui_html(
+        openapi_url=app.openapi_url or "/openapi.json",
+        title=f"{app.title} - Swagger UI",
+    )
+
+
+@app.get("/api/redoc", include_in_schema=False)
+@app.get("/api/redoc/", include_in_schema=False)
+def redoc_alternativo():
+    return get_redoc_html(
+        openapi_url=app.openapi_url or "/openapi.json",
+        title=f"{app.title} - ReDoc",
+    )
+
+
+# ==========================================
+# Endpoints do Sistema
+# ==========================================
 
 @app.get(
     "/api/v1/status",
@@ -84,6 +127,8 @@ def raiz_redirecionar_para_swagger():
     tags=["Sistema"],
     summary="Verificar status da API",
 )
+@app.get("/status", response_model=StatusResponse, include_in_schema=False)
+@app.get("/api/status", response_model=StatusResponse, include_in_schema=False)
 def verificar_status():
     """Retorna o estado operacional da API e os links da documentação interativa."""
     return {
@@ -94,16 +139,26 @@ def verificar_status():
     }
 
 
+# ==========================================
+# Endpoints de Estados
+# ==========================================
+
 @app.get(
     "/api/v1/estados",
     response_model=List[EstadoModel],
     tags=["Estados"],
     summary="Listar todos os estados brasileiros",
 )
+@app.get("/estados", response_model=List[EstadoModel], include_in_schema=False)
+@app.get("/api/estados", response_model=List[EstadoModel], include_in_schema=False)
 def listar_estados():
     """Retorna a lista completa das 27 Unidades Federativas do Brasil."""
     return obter_estados()
 
+
+# ==========================================
+# Endpoints de Municípios
+# ==========================================
 
 @app.get(
     "/api/v1/municipios/{uf}",
@@ -115,6 +170,8 @@ def listar_estados():
         404: {"model": MensagemResponse, "description": "UF não encontrada ou sem dados"},
     },
 )
+@app.get("/municipios/{uf}", response_model=ConsultaMunicipiosResponse, include_in_schema=False)
+@app.get("/api/municipios/{uf}", response_model=ConsultaMunicipiosResponse, include_in_schema=False)
 def consultar_municipios(
     uf: str = Path(
         ...,
@@ -179,6 +236,10 @@ def consultar_municipios(
     }
 
 
+# ==========================================
+# Endpoints de Exportação
+# ==========================================
+
 @app.get(
     "/api/v1/municipios/{uf}/exportar/txt",
     tags=["Exportação"],
@@ -192,6 +253,8 @@ def consultar_municipios(
         404: {"model": MensagemResponse, "description": "UF não encontrada"},
     },
 )
+@app.get("/municipios/{uf}/exportar/txt", include_in_schema=False)
+@app.get("/api/municipios/{uf}/exportar/txt", include_in_schema=False)
 def exportar_txt(
     uf: str = Path(..., min_length=2, max_length=2, description="Sigla da UF (ex: SP)", examples=["SP"]),
 ):
@@ -237,6 +300,8 @@ def exportar_txt(
         404: {"model": MensagemResponse, "description": "UF não encontrada"},
     },
 )
+@app.get("/municipios/{uf}/exportar/csv", include_in_schema=False)
+@app.get("/api/municipios/{uf}/exportar/csv", include_in_schema=False)
 def exportar_csv(
     uf: str = Path(..., min_length=2, max_length=2, description="Sigla da UF (ex: SP)", examples=["SP"]),
 ):
@@ -307,13 +372,13 @@ def executar_modo_terminal():
 
 
 if __name__ == "__main__":
-    # Se o usuário passar a flag --cli, executa no terminal; caso contrário, inicia a API com Swagger
     if "--cli" in sys.argv:
         executar_modo_terminal()
     else:
         print("=" * 60)
         print("🚀 Servidor da API iniciado com sucesso!")
         print("📖 Swagger UI disponível em: http://127.0.0.1:8000/docs")
+        print("💻 Interface Web em:         http://127.0.0.1:8000/app")
         print("📖 ReDoc disponível em:      http://127.0.0.1:8000/redoc")
         print("🌐 Acesso à API:            http://127.0.0.1:8000/")
         print("=" * 60)
