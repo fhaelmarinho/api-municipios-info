@@ -116,7 +116,7 @@ Também está disponível a documentação alternativa ReDoc em:
 
 ## ☁️ Como Fazer Deploy e Rodar na Vercel
 
-O projeto já conta com [`vercel.json`](file:///home/fhael/Documentos/Workspace/api-municipios-info/vercel.json) e o ponto de entrada serverless [`api/index.py`](file:///home/fhael/Documentos/Workspace/api-municipios-info/api/index.py) pré-configurados.
+O projeto utiliza a detecção nativa **Zero-Config** da Vercel para aplicações **FastAPI**. A Vercel detecta automaticamente o ponto de entrada [`main.py`](file:///home/fhael/Documentos/Workspace/api-municipios-info/main.py) e instala as dependências do [`requirements.txt`](file:///home/fhael/Documentos/Workspace/api-municipios-info/requirements.txt) sem necessidade de arquivos de roteamento complexos.
 
 ### Opção 1: Via GitHub (Recomendado)
 
