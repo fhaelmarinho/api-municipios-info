@@ -1,0 +1,11 @@
+services:
+  api-municipios:
+    build: .
+    container_name: api_municipios
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./Municipios:/app/Municipios
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
